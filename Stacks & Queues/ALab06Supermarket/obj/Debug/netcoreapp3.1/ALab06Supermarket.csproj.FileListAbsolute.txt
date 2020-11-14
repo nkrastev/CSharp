@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab06Supermarket\bin\Debug\netcoreapp3.1\ALab06Supermarket.exe
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab06Supermarket\bin\Debug\netcoreapp3.1\ALab06Supermarket.deps.json
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab06Supermarket\bin\Debug\netcoreapp3.1\ALab06Supermarket.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab06Supermarket\bin\Debug\netcoreapp3.1\ALab06Supermarket.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab06Supermarket\bin\Debug\netcoreapp3.1\ALab06Supermarket.dll
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab06Supermarket\bin\Debug\netcoreapp3.1\ALab06Supermarket.pdb
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab06Supermarket\obj\Debug\netcoreapp3.1\ALab06Supermarket.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab06Supermarket\obj\Debug\netcoreapp3.1\ALab06Supermarket.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab06Supermarket\obj\Debug\netcoreapp3.1\ALab06Supermarket.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab06Supermarket\obj\Debug\netcoreapp3.1\ALab06Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab06Supermarket\obj\Debug\netcoreapp3.1\ALab06Supermarket.dll
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab06Supermarket\obj\Debug\netcoreapp3.1\ALab06Supermarket.pdb
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab06Supermarket\obj\Debug\netcoreapp3.1\ALab06Supermarket.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab05PrintEvenNumbers\bin\Debug\netcoreapp3.1\ALab05PrintEvenNumbers.exe
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab05PrintEvenNumbers\bin\Debug\netcoreapp3.1\ALab05PrintEvenNumbers.deps.json
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab05PrintEvenNumbers\bin\Debug\netcoreapp3.1\ALab05PrintEvenNumbers.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab05PrintEvenNumbers\bin\Debug\netcoreapp3.1\ALab05PrintEvenNumbers.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab05PrintEvenNumbers\bin\Debug\netcoreapp3.1\ALab05PrintEvenNumbers.dll
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab05PrintEvenNumbers\bin\Debug\netcoreapp3.1\ALab05PrintEvenNumbers.pdb
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab05PrintEvenNumbers\obj\Debug\netcoreapp3.1\ALab05PrintEvenNumbers.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab05PrintEvenNumbers\obj\Debug\netcoreapp3.1\ALab05PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab05PrintEvenNumbers\obj\Debug\netcoreapp3.1\ALab05PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab05PrintEvenNumbers\obj\Debug\netcoreapp3.1\ALab05PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab05PrintEvenNumbers\obj\Debug\netcoreapp3.1\ALab05PrintEvenNumbers.dll
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab05PrintEvenNumbers\obj\Debug\netcoreapp3.1\ALab05PrintEvenNumbers.pdb
+C:\Users\Nikolay\source\repos\Advanced-StacksAndQueues\ALab05PrintEvenNumbers\obj\Debug\netcoreapp3.1\ALab05PrintEvenNumbers.genruntimeconfig.cache
