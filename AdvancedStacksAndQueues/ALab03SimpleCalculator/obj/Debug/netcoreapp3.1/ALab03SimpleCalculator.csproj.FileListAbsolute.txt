@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab03SimpleCalculator\bin\Debug\netcoreapp3.1\ALab03SimpleCalculator.exe
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab03SimpleCalculator\bin\Debug\netcoreapp3.1\ALab03SimpleCalculator.deps.json
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab03SimpleCalculator\bin\Debug\netcoreapp3.1\ALab03SimpleCalculator.runtimeconfig.json
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab03SimpleCalculator\bin\Debug\netcoreapp3.1\ALab03SimpleCalculator.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab03SimpleCalculator\bin\Debug\netcoreapp3.1\ALab03SimpleCalculator.dll
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab03SimpleCalculator\bin\Debug\netcoreapp3.1\ALab03SimpleCalculator.pdb
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab03SimpleCalculator\obj\Debug\netcoreapp3.1\ALab03SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab03SimpleCalculator\obj\Debug\netcoreapp3.1\ALab03SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab03SimpleCalculator\obj\Debug\netcoreapp3.1\ALab03SimpleCalculator.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab03SimpleCalculator\obj\Debug\netcoreapp3.1\ALab03SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab03SimpleCalculator\obj\Debug\netcoreapp3.1\ALab03SimpleCalculator.dll
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab03SimpleCalculator\obj\Debug\netcoreapp3.1\ALab03SimpleCalculator.pdb
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab03SimpleCalculator\obj\Debug\netcoreapp3.1\ALab03SimpleCalculator.genruntimeconfig.cache
