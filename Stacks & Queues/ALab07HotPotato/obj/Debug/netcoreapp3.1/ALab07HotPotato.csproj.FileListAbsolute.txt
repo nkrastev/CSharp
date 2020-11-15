@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab07HotPotato\bin\Debug\netcoreapp3.1\ALab07HotPotato.exe
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab07HotPotato\bin\Debug\netcoreapp3.1\ALab07HotPotato.deps.json
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab07HotPotato\bin\Debug\netcoreapp3.1\ALab07HotPotato.runtimeconfig.json
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab07HotPotato\bin\Debug\netcoreapp3.1\ALab07HotPotato.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab07HotPotato\bin\Debug\netcoreapp3.1\ALab07HotPotato.dll
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab07HotPotato\bin\Debug\netcoreapp3.1\ALab07HotPotato.pdb
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab07HotPotato\obj\Debug\netcoreapp3.1\ALab07HotPotato.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab07HotPotato\obj\Debug\netcoreapp3.1\ALab07HotPotato.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab07HotPotato\obj\Debug\netcoreapp3.1\ALab07HotPotato.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab07HotPotato\obj\Debug\netcoreapp3.1\ALab07HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab07HotPotato\obj\Debug\netcoreapp3.1\ALab07HotPotato.dll
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab07HotPotato\obj\Debug\netcoreapp3.1\ALab07HotPotato.pdb
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab07HotPotato\obj\Debug\netcoreapp3.1\ALab07HotPotato.genruntimeconfig.cache
