@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab08TrafficJam\bin\Debug\netcoreapp3.1\ALab08TrafficJam.exe
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab08TrafficJam\bin\Debug\netcoreapp3.1\ALab08TrafficJam.deps.json
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab08TrafficJam\bin\Debug\netcoreapp3.1\ALab08TrafficJam.runtimeconfig.json
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab08TrafficJam\bin\Debug\netcoreapp3.1\ALab08TrafficJam.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab08TrafficJam\bin\Debug\netcoreapp3.1\ALab08TrafficJam.dll
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab08TrafficJam\bin\Debug\netcoreapp3.1\ALab08TrafficJam.pdb
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab08TrafficJam\obj\Debug\netcoreapp3.1\ALab08TrafficJam.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab08TrafficJam\obj\Debug\netcoreapp3.1\ALab08TrafficJam.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab08TrafficJam\obj\Debug\netcoreapp3.1\ALab08TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab08TrafficJam\obj\Debug\netcoreapp3.1\ALab08TrafficJam.dll
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab08TrafficJam\obj\Debug\netcoreapp3.1\ALab08TrafficJam.pdb
+C:\Users\Nikolay\source\repos\CSharp-Advanced\Stack & Queues\StacksAndQueues\ALab08TrafficJam\obj\Debug\netcoreapp3.1\ALab08TrafficJam.genruntimeconfig.cache
