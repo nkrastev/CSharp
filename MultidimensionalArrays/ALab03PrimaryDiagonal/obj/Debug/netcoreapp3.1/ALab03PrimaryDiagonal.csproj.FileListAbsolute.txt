@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab03PrimaryDiagonal\bin\Debug\netcoreapp3.1\ALab03PrimaryDiagonal.exe
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab03PrimaryDiagonal\bin\Debug\netcoreapp3.1\ALab03PrimaryDiagonal.deps.json
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab03PrimaryDiagonal\bin\Debug\netcoreapp3.1\ALab03PrimaryDiagonal.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab03PrimaryDiagonal\bin\Debug\netcoreapp3.1\ALab03PrimaryDiagonal.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab03PrimaryDiagonal\bin\Debug\netcoreapp3.1\ALab03PrimaryDiagonal.dll
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab03PrimaryDiagonal\bin\Debug\netcoreapp3.1\ALab03PrimaryDiagonal.pdb
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab03PrimaryDiagonal\obj\Debug\netcoreapp3.1\ALab03PrimaryDiagonal.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab03PrimaryDiagonal\obj\Debug\netcoreapp3.1\ALab03PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab03PrimaryDiagonal\obj\Debug\netcoreapp3.1\ALab03PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab03PrimaryDiagonal\obj\Debug\netcoreapp3.1\ALab03PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab03PrimaryDiagonal\obj\Debug\netcoreapp3.1\ALab03PrimaryDiagonal.dll
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab03PrimaryDiagonal\obj\Debug\netcoreapp3.1\ALab03PrimaryDiagonal.pdb
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab03PrimaryDiagonal\obj\Debug\netcoreapp3.1\ALab03PrimaryDiagonal.genruntimeconfig.cache

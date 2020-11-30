@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab02SumMatrixColumns\bin\Debug\netcoreapp3.1\ALab02SumMatrixColumns.exe
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab02SumMatrixColumns\bin\Debug\netcoreapp3.1\ALab02SumMatrixColumns.deps.json
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab02SumMatrixColumns\bin\Debug\netcoreapp3.1\ALab02SumMatrixColumns.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab02SumMatrixColumns\bin\Debug\netcoreapp3.1\ALab02SumMatrixColumns.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab02SumMatrixColumns\bin\Debug\netcoreapp3.1\ALab02SumMatrixColumns.dll
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab02SumMatrixColumns\bin\Debug\netcoreapp3.1\ALab02SumMatrixColumns.pdb
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab02SumMatrixColumns\obj\Debug\netcoreapp3.1\ALab02SumMatrixColumns.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab02SumMatrixColumns\obj\Debug\netcoreapp3.1\ALab02SumMatrixColumns.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab02SumMatrixColumns\obj\Debug\netcoreapp3.1\ALab02SumMatrixColumns.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab02SumMatrixColumns\obj\Debug\netcoreapp3.1\ALab02SumMatrixColumns.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab02SumMatrixColumns\obj\Debug\netcoreapp3.1\ALab02SumMatrixColumns.dll
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab02SumMatrixColumns\obj\Debug\netcoreapp3.1\ALab02SumMatrixColumns.pdb
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\ALab02SumMatrixColumns\obj\Debug\netcoreapp3.1\ALab02SumMatrixColumns.genruntimeconfig.cache
