@@ -19,30 +19,53 @@ namespace Ex09Miner
         {
             //Console.WriteLine("Coals="+coals);
             //Console.WriteLine("Start="+ startPosition);
+            var foundCoals = 0;
+            var isEndCommand = false;
             var positions = startPosition.Split(",", StringSplitOptions.RemoveEmptyEntries).ToArray();
             var currentRow = int.Parse(positions[0]);
             var currentCol = int.Parse(positions[1]);
 
             for (int i = 0; i < commands.Length; i++)
             {
-                if (commands[i]=="up")
+                //movements
+                if (commands[i]=="up" && currentRow>0)
                 {
-
+                    currentRow -= 1;
                 }
-                if (commands[i]=="down")
+                if (commands[i]=="down" && currentRow+1<matrix.GetLength(0))
                 {
-
+                    currentRow += 1;
                 }
-                if (commands[i]=="left")
+                if (commands[i]=="left" && currentCol>0)
                 {
-
+                    currentCol -= 1;
                 }
-                if (commands[i]=="right")
+                if (commands[i]=="right" && currentCol+1<matrix.GetLength(0))
                 {
-
+                    currentCol += 1;
+                }
+                //new position conditions
+                if (matrix[currentRow,currentCol]=='e')
+                {
+                    Console.WriteLine($"Game over! ({currentRow}, {currentCol})");
+                    isEndCommand = true;
+                    break;
+                }
+                if (matrix[currentRow, currentCol] =='c')
+                {
+                    foundCoals++;
+                    matrix[currentRow, currentCol] = '*';
+                }
+                if (foundCoals==coals)
+                {
+                    Console.WriteLine($"You collected all coals! ({currentRow}, {currentCol})");
+                    break;
                 }
             }
-
+            if (coals>foundCoals && !isEndCommand)
+            {
+                Console.WriteLine($"{coals-foundCoals} coals left. ({currentRow}, {currentCol})");
+            }
         }
         private static string FindStart(char[,] matrix)
         {
