@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\Ex10RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\Ex10RadioactiveMutantVampireBunnies.exe
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\Ex10RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\Ex10RadioactiveMutantVampireBunnies.deps.json
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\Ex10RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\Ex10RadioactiveMutantVampireBunnies.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\Ex10RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\Ex10RadioactiveMutantVampireBunnies.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\Ex10RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\Ex10RadioactiveMutantVampireBunnies.dll
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\Ex10RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\Ex10RadioactiveMutantVampireBunnies.pdb
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\Ex10RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\Ex10RadioactiveMutantVampireBunnies.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\Ex10RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\Ex10RadioactiveMutantVampireBunnies.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\Ex10RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\Ex10RadioactiveMutantVampireBunnies.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\Ex10RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\Ex10RadioactiveMutantVampireBunnies.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\Ex10RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\Ex10RadioactiveMutantVampireBunnies.dll
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\Ex10RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\Ex10RadioactiveMutantVampireBunnies.pdb
+C:\Users\Nikolay\source\repos\Advanced-MatrixJaggedArrays\Ex10RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\Ex10RadioactiveMutantVampireBunnies.genruntimeconfig.cache
