@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikolay\\source\\repos\\Multidimensional Arrays - Ex\\Ex09Miner\\Ex09Miner.csproj",
+      "projectUniqueName": "C:\\Users\\Nikolay\\source\\repos\\Advanced-MatrixJaggedArrays\\Ex09Miner\\Ex09Miner.csproj",
       "projectName": "Ex09Miner",
-      "projectPath": "C:\\Users\\Nikolay\\source\\repos\\Multidimensional Arrays - Ex\\Ex09Miner\\Ex09Miner.csproj",
+      "projectPath": "C:\\Users\\Nikolay\\source\\repos\\Advanced-MatrixJaggedArrays\\Ex09Miner\\Ex09Miner.csproj",
       "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikolay\\source\\repos\\Multidimensional Arrays - Ex\\Ex09Miner\\obj\\",
+      "outputPath": "C:\\Users\\Nikolay\\source\\repos\\Advanced-MatrixJaggedArrays\\Ex09Miner\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config",
