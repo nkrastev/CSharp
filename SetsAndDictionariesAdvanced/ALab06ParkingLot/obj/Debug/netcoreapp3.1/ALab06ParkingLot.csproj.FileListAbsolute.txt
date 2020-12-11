@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab06ParkingLot\bin\Debug\netcoreapp3.1\ALab06ParkingLot.exe
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab06ParkingLot\bin\Debug\netcoreapp3.1\ALab06ParkingLot.deps.json
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab06ParkingLot\bin\Debug\netcoreapp3.1\ALab06ParkingLot.runtimeconfig.json
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab06ParkingLot\bin\Debug\netcoreapp3.1\ALab06ParkingLot.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab06ParkingLot\bin\Debug\netcoreapp3.1\ALab06ParkingLot.dll
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab06ParkingLot\bin\Debug\netcoreapp3.1\ALab06ParkingLot.pdb
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab06ParkingLot\obj\Debug\netcoreapp3.1\ALab06ParkingLot.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab06ParkingLot\obj\Debug\netcoreapp3.1\ALab06ParkingLot.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab06ParkingLot\obj\Debug\netcoreapp3.1\ALab06ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab06ParkingLot\obj\Debug\netcoreapp3.1\ALab06ParkingLot.dll
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab06ParkingLot\obj\Debug\netcoreapp3.1\ALab06ParkingLot.pdb
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab06ParkingLot\obj\Debug\netcoreapp3.1\ALab06ParkingLot.genruntimeconfig.cache
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab06ParkingLot\obj\Debug\netcoreapp3.1\ALab06ParkingLot.csprojAssemblyReference.cache
