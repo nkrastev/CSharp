@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab05RecordUniqueNames\bin\Debug\netcoreapp3.1\ALab05RecordUniqueNames.exe
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab05RecordUniqueNames\bin\Debug\netcoreapp3.1\ALab05RecordUniqueNames.deps.json
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab05RecordUniqueNames\bin\Debug\netcoreapp3.1\ALab05RecordUniqueNames.runtimeconfig.json
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab05RecordUniqueNames\bin\Debug\netcoreapp3.1\ALab05RecordUniqueNames.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab05RecordUniqueNames\bin\Debug\netcoreapp3.1\ALab05RecordUniqueNames.dll
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab05RecordUniqueNames\bin\Debug\netcoreapp3.1\ALab05RecordUniqueNames.pdb
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab05RecordUniqueNames\obj\Debug\netcoreapp3.1\ALab05RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab05RecordUniqueNames\obj\Debug\netcoreapp3.1\ALab05RecordUniqueNames.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab05RecordUniqueNames\obj\Debug\netcoreapp3.1\ALab05RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab05RecordUniqueNames\obj\Debug\netcoreapp3.1\ALab05RecordUniqueNames.dll
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab05RecordUniqueNames\obj\Debug\netcoreapp3.1\ALab05RecordUniqueNames.pdb
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\ALab05RecordUniqueNames\obj\Debug\netcoreapp3.1\ALab05RecordUniqueNames.genruntimeconfig.cache
