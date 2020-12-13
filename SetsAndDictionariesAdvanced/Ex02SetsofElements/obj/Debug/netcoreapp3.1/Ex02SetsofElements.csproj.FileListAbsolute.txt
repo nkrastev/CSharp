@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex02SetsofElements\bin\Debug\netcoreapp3.1\Ex02SetsofElements.exe
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex02SetsofElements\bin\Debug\netcoreapp3.1\Ex02SetsofElements.deps.json
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex02SetsofElements\bin\Debug\netcoreapp3.1\Ex02SetsofElements.runtimeconfig.json
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex02SetsofElements\bin\Debug\netcoreapp3.1\Ex02SetsofElements.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex02SetsofElements\bin\Debug\netcoreapp3.1\Ex02SetsofElements.dll
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex02SetsofElements\bin\Debug\netcoreapp3.1\Ex02SetsofElements.pdb
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex02SetsofElements\obj\Debug\netcoreapp3.1\Ex02SetsofElements.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex02SetsofElements\obj\Debug\netcoreapp3.1\Ex02SetsofElements.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex02SetsofElements\obj\Debug\netcoreapp3.1\Ex02SetsofElements.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex02SetsofElements\obj\Debug\netcoreapp3.1\Ex02SetsofElements.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex02SetsofElements\obj\Debug\netcoreapp3.1\Ex02SetsofElements.dll
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex02SetsofElements\obj\Debug\netcoreapp3.1\Ex02SetsofElements.pdb
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex02SetsofElements\obj\Debug\netcoreapp3.1\Ex02SetsofElements.genruntimeconfig.cache
