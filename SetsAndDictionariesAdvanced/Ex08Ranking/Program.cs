@@ -11,6 +11,14 @@ namespace Ex08Ranking
             var contests = ReadContests();            
             var students = ReadContestants(contests);
 
+            foreach (var item in students)
+            {
+                Console.WriteLine(item.Key);
+                foreach (var course in item.Value)
+                {
+                    Console.WriteLine($"{course.Key} - {course.Value}");
+                }
+            }
 
         }
 
