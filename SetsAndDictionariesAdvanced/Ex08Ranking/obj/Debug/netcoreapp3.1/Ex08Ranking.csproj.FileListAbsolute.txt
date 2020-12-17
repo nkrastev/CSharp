@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex08Ranking\bin\Debug\netcoreapp3.1\Ex08Ranking.exe
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex08Ranking\bin\Debug\netcoreapp3.1\Ex08Ranking.deps.json
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex08Ranking\bin\Debug\netcoreapp3.1\Ex08Ranking.runtimeconfig.json
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex08Ranking\bin\Debug\netcoreapp3.1\Ex08Ranking.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex08Ranking\bin\Debug\netcoreapp3.1\Ex08Ranking.dll
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex08Ranking\bin\Debug\netcoreapp3.1\Ex08Ranking.pdb
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex08Ranking\obj\Debug\netcoreapp3.1\Ex08Ranking.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex08Ranking\obj\Debug\netcoreapp3.1\Ex08Ranking.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex08Ranking\obj\Debug\netcoreapp3.1\Ex08Ranking.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex08Ranking\obj\Debug\netcoreapp3.1\Ex08Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex08Ranking\obj\Debug\netcoreapp3.1\Ex08Ranking.dll
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex08Ranking\obj\Debug\netcoreapp3.1\Ex08Ranking.pdb
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex08Ranking\obj\Debug\netcoreapp3.1\Ex08Ranking.genruntimeconfig.cache
