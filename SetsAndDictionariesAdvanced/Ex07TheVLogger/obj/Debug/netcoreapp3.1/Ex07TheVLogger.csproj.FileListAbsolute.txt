@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex07TheVLogger\bin\Debug\netcoreapp3.1\Ex07TheVLogger.exe
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex07TheVLogger\bin\Debug\netcoreapp3.1\Ex07TheVLogger.deps.json
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex07TheVLogger\bin\Debug\netcoreapp3.1\Ex07TheVLogger.runtimeconfig.json
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex07TheVLogger\bin\Debug\netcoreapp3.1\Ex07TheVLogger.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex07TheVLogger\bin\Debug\netcoreapp3.1\Ex07TheVLogger.dll
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex07TheVLogger\bin\Debug\netcoreapp3.1\Ex07TheVLogger.pdb
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex07TheVLogger\obj\Debug\netcoreapp3.1\Ex07TheVLogger.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex07TheVLogger\obj\Debug\netcoreapp3.1\Ex07TheVLogger.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex07TheVLogger\obj\Debug\netcoreapp3.1\Ex07TheVLogger.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex07TheVLogger\obj\Debug\netcoreapp3.1\Ex07TheVLogger.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex07TheVLogger\obj\Debug\netcoreapp3.1\Ex07TheVLogger.dll
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex07TheVLogger\obj\Debug\netcoreapp3.1\Ex07TheVLogger.pdb
+C:\Users\Nikolay\source\repos\SetsAndDictionariesAdvanced\Ex07TheVLogger\obj\Debug\netcoreapp3.1\Ex07TheVLogger.genruntimeconfig.cache
