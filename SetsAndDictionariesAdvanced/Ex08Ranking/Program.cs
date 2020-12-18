@@ -10,16 +10,44 @@ namespace Ex08Ranking
         {
             var contests = ReadContests();            
             var students = ReadContestants(contests);
+            PrintOutput(students);
 
-            foreach (var item in students)
+            
+
+        }
+
+        private static void PrintOutput(Dictionary<string, Dictionary<string, int>> students)
+        {
+            FindAndPrintBestStudent(students);
+            Console.WriteLine("Ranking: ");
+            foreach (var item in students.OrderBy(x => x.Key).ToDictionary(x => x.Key, y => y.Value))
             {
                 Console.WriteLine(item.Key);
-                foreach (var course in item.Value)
+                foreach (var course in item.Value.OrderByDescending(x => x.Value).ToDictionary(x => x.Key, y => y.Value))
                 {
-                    Console.WriteLine($"{course.Key} - {course.Value}");
+                    Console.WriteLine($"#  {course.Key} -> {course.Value}");
                 }
             }
+        }
 
+        private static void FindAndPrintBestStudent(Dictionary<string, Dictionary<string, int>> students)
+        {
+            var bestSum = 0;
+            var bestUser = string.Empty;
+            foreach (var item in students)
+            {
+                var userPoints = 0;
+                foreach (var user in item.Value)
+                {
+                    userPoints += user.Value;
+                }
+                if (userPoints>bestSum)
+                {
+                    bestUser = item.Key;
+                    bestSum = userPoints;
+                }
+            }
+            Console.WriteLine($"Best candidate is {bestUser} with total {bestSum} points.");
         }
 
         private static Dictionary<string, Dictionary<string, int>> ReadContestants(Dictionary<string,string> contests)
