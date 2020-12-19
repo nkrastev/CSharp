@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Recursion\ALab01RecursiveArraySum\bin\Debug\netcoreapp3.1\ALab01RecursiveArraySum.exe
+C:\Users\Nikolay\source\repos\Recursion\ALab01RecursiveArraySum\bin\Debug\netcoreapp3.1\ALab01RecursiveArraySum.deps.json
+C:\Users\Nikolay\source\repos\Recursion\ALab01RecursiveArraySum\bin\Debug\netcoreapp3.1\ALab01RecursiveArraySum.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Recursion\ALab01RecursiveArraySum\bin\Debug\netcoreapp3.1\ALab01RecursiveArraySum.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Recursion\ALab01RecursiveArraySum\bin\Debug\netcoreapp3.1\ALab01RecursiveArraySum.dll
+C:\Users\Nikolay\source\repos\Recursion\ALab01RecursiveArraySum\bin\Debug\netcoreapp3.1\ALab01RecursiveArraySum.pdb
+C:\Users\Nikolay\source\repos\Recursion\ALab01RecursiveArraySum\obj\Debug\netcoreapp3.1\ALab01RecursiveArraySum.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Recursion\ALab01RecursiveArraySum\obj\Debug\netcoreapp3.1\ALab01RecursiveArraySum.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Recursion\ALab01RecursiveArraySum\obj\Debug\netcoreapp3.1\ALab01RecursiveArraySum.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Recursion\ALab01RecursiveArraySum\obj\Debug\netcoreapp3.1\ALab01RecursiveArraySum.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Recursion\ALab01RecursiveArraySum\obj\Debug\netcoreapp3.1\ALab01RecursiveArraySum.dll
+C:\Users\Nikolay\source\repos\Recursion\ALab01RecursiveArraySum\obj\Debug\netcoreapp3.1\ALab01RecursiveArraySum.pdb
+C:\Users\Nikolay\source\repos\Recursion\ALab01RecursiveArraySum\obj\Debug\netcoreapp3.1\ALab01RecursiveArraySum.genruntimeconfig.cache
