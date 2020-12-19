@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Recursion\ALab02RecursiveFactorial\bin\Debug\netcoreapp3.1\ALab02RecursiveFactorial.exe
+C:\Users\Nikolay\source\repos\Recursion\ALab02RecursiveFactorial\bin\Debug\netcoreapp3.1\ALab02RecursiveFactorial.deps.json
+C:\Users\Nikolay\source\repos\Recursion\ALab02RecursiveFactorial\bin\Debug\netcoreapp3.1\ALab02RecursiveFactorial.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Recursion\ALab02RecursiveFactorial\bin\Debug\netcoreapp3.1\ALab02RecursiveFactorial.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Recursion\ALab02RecursiveFactorial\bin\Debug\netcoreapp3.1\ALab02RecursiveFactorial.dll
+C:\Users\Nikolay\source\repos\Recursion\ALab02RecursiveFactorial\bin\Debug\netcoreapp3.1\ALab02RecursiveFactorial.pdb
+C:\Users\Nikolay\source\repos\Recursion\ALab02RecursiveFactorial\obj\Debug\netcoreapp3.1\ALab02RecursiveFactorial.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Recursion\ALab02RecursiveFactorial\obj\Debug\netcoreapp3.1\ALab02RecursiveFactorial.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Recursion\ALab02RecursiveFactorial\obj\Debug\netcoreapp3.1\ALab02RecursiveFactorial.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Recursion\ALab02RecursiveFactorial\obj\Debug\netcoreapp3.1\ALab02RecursiveFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Recursion\ALab02RecursiveFactorial\obj\Debug\netcoreapp3.1\ALab02RecursiveFactorial.dll
+C:\Users\Nikolay\source\repos\Recursion\ALab02RecursiveFactorial\obj\Debug\netcoreapp3.1\ALab02RecursiveFactorial.pdb
+C:\Users\Nikolay\source\repos\Recursion\ALab02RecursiveFactorial\obj\Debug\netcoreapp3.1\ALab02RecursiveFactorial.genruntimeconfig.cache
