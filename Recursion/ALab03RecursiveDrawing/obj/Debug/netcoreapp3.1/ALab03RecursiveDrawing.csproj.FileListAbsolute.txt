@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Recursion\ALab03RecursiveDrawing\bin\Debug\netcoreapp3.1\ALab03RecursiveDrawing.exe
+C:\Users\Nikolay\source\repos\Recursion\ALab03RecursiveDrawing\bin\Debug\netcoreapp3.1\ALab03RecursiveDrawing.deps.json
+C:\Users\Nikolay\source\repos\Recursion\ALab03RecursiveDrawing\bin\Debug\netcoreapp3.1\ALab03RecursiveDrawing.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Recursion\ALab03RecursiveDrawing\bin\Debug\netcoreapp3.1\ALab03RecursiveDrawing.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Recursion\ALab03RecursiveDrawing\bin\Debug\netcoreapp3.1\ALab03RecursiveDrawing.dll
+C:\Users\Nikolay\source\repos\Recursion\ALab03RecursiveDrawing\bin\Debug\netcoreapp3.1\ALab03RecursiveDrawing.pdb
+C:\Users\Nikolay\source\repos\Recursion\ALab03RecursiveDrawing\obj\Debug\netcoreapp3.1\ALab03RecursiveDrawing.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Recursion\ALab03RecursiveDrawing\obj\Debug\netcoreapp3.1\ALab03RecursiveDrawing.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Recursion\ALab03RecursiveDrawing\obj\Debug\netcoreapp3.1\ALab03RecursiveDrawing.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Recursion\ALab03RecursiveDrawing\obj\Debug\netcoreapp3.1\ALab03RecursiveDrawing.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Recursion\ALab03RecursiveDrawing\obj\Debug\netcoreapp3.1\ALab03RecursiveDrawing.dll
+C:\Users\Nikolay\source\repos\Recursion\ALab03RecursiveDrawing\obj\Debug\netcoreapp3.1\ALab03RecursiveDrawing.pdb
+C:\Users\Nikolay\source\repos\Recursion\ALab03RecursiveDrawing\obj\Debug\netcoreapp3.1\ALab03RecursiveDrawing.genruntimeconfig.cache
