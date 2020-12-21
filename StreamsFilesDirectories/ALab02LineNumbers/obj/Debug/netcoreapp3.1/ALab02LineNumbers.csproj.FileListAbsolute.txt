@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab02LineNumbers\bin\Debug\netcoreapp3.1\ALab02LineNumbers.exe
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab02LineNumbers\bin\Debug\netcoreapp3.1\ALab02LineNumbers.deps.json
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab02LineNumbers\bin\Debug\netcoreapp3.1\ALab02LineNumbers.runtimeconfig.json
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab02LineNumbers\bin\Debug\netcoreapp3.1\ALab02LineNumbers.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab02LineNumbers\bin\Debug\netcoreapp3.1\ALab02LineNumbers.dll
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab02LineNumbers\bin\Debug\netcoreapp3.1\ALab02LineNumbers.pdb
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab02LineNumbers\obj\Debug\netcoreapp3.1\ALab02LineNumbers.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab02LineNumbers\obj\Debug\netcoreapp3.1\ALab02LineNumbers.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab02LineNumbers\obj\Debug\netcoreapp3.1\ALab02LineNumbers.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab02LineNumbers\obj\Debug\netcoreapp3.1\ALab02LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab02LineNumbers\obj\Debug\netcoreapp3.1\ALab02LineNumbers.dll
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab02LineNumbers\obj\Debug\netcoreapp3.1\ALab02LineNumbers.pdb
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab02LineNumbers\obj\Debug\netcoreapp3.1\ALab02LineNumbers.genruntimeconfig.cache
