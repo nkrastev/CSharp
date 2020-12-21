@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab03WordCount\bin\Debug\netcoreapp3.1\ALab03WordCount.exe
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab03WordCount\bin\Debug\netcoreapp3.1\ALab03WordCount.deps.json
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab03WordCount\bin\Debug\netcoreapp3.1\ALab03WordCount.runtimeconfig.json
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab03WordCount\bin\Debug\netcoreapp3.1\ALab03WordCount.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab03WordCount\bin\Debug\netcoreapp3.1\ALab03WordCount.dll
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab03WordCount\bin\Debug\netcoreapp3.1\ALab03WordCount.pdb
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab03WordCount\obj\Debug\netcoreapp3.1\ALab03WordCount.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab03WordCount\obj\Debug\netcoreapp3.1\ALab03WordCount.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab03WordCount\obj\Debug\netcoreapp3.1\ALab03WordCount.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab03WordCount\obj\Debug\netcoreapp3.1\ALab03WordCount.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab03WordCount\obj\Debug\netcoreapp3.1\ALab03WordCount.dll
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab03WordCount\obj\Debug\netcoreapp3.1\ALab03WordCount.pdb
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab03WordCount\obj\Debug\netcoreapp3.1\ALab03WordCount.genruntimeconfig.cache
