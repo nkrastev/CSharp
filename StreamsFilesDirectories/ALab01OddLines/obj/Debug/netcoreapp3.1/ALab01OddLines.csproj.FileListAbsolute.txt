@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab01 OddLines\bin\Debug\netcoreapp3.1\ALab01OddLines.exe
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab01 OddLines\bin\Debug\netcoreapp3.1\ALab01OddLines.deps.json
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab01 OddLines\bin\Debug\netcoreapp3.1\ALab01OddLines.runtimeconfig.json
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab01 OddLines\bin\Debug\netcoreapp3.1\ALab01OddLines.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab01 OddLines\bin\Debug\netcoreapp3.1\ALab01OddLines.dll
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab01 OddLines\bin\Debug\netcoreapp3.1\ALab01OddLines.pdb
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab01 OddLines\obj\Debug\netcoreapp3.1\ALab01OddLines.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab01 OddLines\obj\Debug\netcoreapp3.1\ALab01OddLines.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab01 OddLines\obj\Debug\netcoreapp3.1\ALab01OddLines.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab01 OddLines\obj\Debug\netcoreapp3.1\ALab01OddLines.dll
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab01 OddLines\obj\Debug\netcoreapp3.1\ALab01OddLines.pdb
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab01 OddLines\obj\Debug\netcoreapp3.1\ALab01OddLines.genruntimeconfig.cache
