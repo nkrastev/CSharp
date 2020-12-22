@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab05SliceAFile\bin\Debug\netcoreapp3.1\ALab05SliceAFile.exe
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab05SliceAFile\bin\Debug\netcoreapp3.1\ALab05SliceAFile.deps.json
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab05SliceAFile\bin\Debug\netcoreapp3.1\ALab05SliceAFile.runtimeconfig.json
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab05SliceAFile\bin\Debug\netcoreapp3.1\ALab05SliceAFile.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab05SliceAFile\bin\Debug\netcoreapp3.1\ALab05SliceAFile.dll
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab05SliceAFile\bin\Debug\netcoreapp3.1\ALab05SliceAFile.pdb
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab05SliceAFile\obj\Debug\netcoreapp3.1\ALab05SliceAFile.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab05SliceAFile\obj\Debug\netcoreapp3.1\ALab05SliceAFile.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab05SliceAFile\obj\Debug\netcoreapp3.1\ALab05SliceAFile.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab05SliceAFile\obj\Debug\netcoreapp3.1\ALab05SliceAFile.dll
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab05SliceAFile\obj\Debug\netcoreapp3.1\ALab05SliceAFile.pdb
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\ALab05SliceAFile\obj\Debug\netcoreapp3.1\ALab05SliceAFile.genruntimeconfig.cache
