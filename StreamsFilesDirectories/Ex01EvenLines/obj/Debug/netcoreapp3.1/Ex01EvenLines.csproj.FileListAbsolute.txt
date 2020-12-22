@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\Ex01EvenLines\bin\Debug\netcoreapp3.1\Ex01EvenLines.exe
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\Ex01EvenLines\bin\Debug\netcoreapp3.1\Ex01EvenLines.deps.json
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\Ex01EvenLines\bin\Debug\netcoreapp3.1\Ex01EvenLines.runtimeconfig.json
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\Ex01EvenLines\bin\Debug\netcoreapp3.1\Ex01EvenLines.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\Ex01EvenLines\bin\Debug\netcoreapp3.1\Ex01EvenLines.dll
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\Ex01EvenLines\bin\Debug\netcoreapp3.1\Ex01EvenLines.pdb
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\Ex01EvenLines\obj\Debug\netcoreapp3.1\Ex01EvenLines.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\Ex01EvenLines\obj\Debug\netcoreapp3.1\Ex01EvenLines.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\Ex01EvenLines\obj\Debug\netcoreapp3.1\Ex01EvenLines.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\Ex01EvenLines\obj\Debug\netcoreapp3.1\Ex01EvenLines.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\Ex01EvenLines\obj\Debug\netcoreapp3.1\Ex01EvenLines.dll
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\Ex01EvenLines\obj\Debug\netcoreapp3.1\Ex01EvenLines.pdb
+C:\Users\Nikolay\source\repos\StreamsFilesDirectories\Ex01EvenLines\obj\Debug\netcoreapp3.1\Ex01EvenLines.genruntimeconfig.cache
