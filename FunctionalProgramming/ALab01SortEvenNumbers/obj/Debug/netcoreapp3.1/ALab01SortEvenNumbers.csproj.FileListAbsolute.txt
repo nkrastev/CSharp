@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab01SortEvenNumbers\bin\Debug\netcoreapp3.1\ALab01SortEvenNumbers.exe
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab01SortEvenNumbers\bin\Debug\netcoreapp3.1\ALab01SortEvenNumbers.deps.json
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab01SortEvenNumbers\bin\Debug\netcoreapp3.1\ALab01SortEvenNumbers.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab01SortEvenNumbers\bin\Debug\netcoreapp3.1\ALab01SortEvenNumbers.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab01SortEvenNumbers\bin\Debug\netcoreapp3.1\ALab01SortEvenNumbers.dll
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab01SortEvenNumbers\bin\Debug\netcoreapp3.1\ALab01SortEvenNumbers.pdb
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab01SortEvenNumbers\obj\Debug\netcoreapp3.1\ALab01SortEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab01SortEvenNumbers\obj\Debug\netcoreapp3.1\ALab01SortEvenNumbers.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab01SortEvenNumbers\obj\Debug\netcoreapp3.1\ALab01SortEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab01SortEvenNumbers\obj\Debug\netcoreapp3.1\ALab01SortEvenNumbers.dll
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab01SortEvenNumbers\obj\Debug\netcoreapp3.1\ALab01SortEvenNumbers.pdb
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab01SortEvenNumbers\obj\Debug\netcoreapp3.1\ALab01SortEvenNumbers.genruntimeconfig.cache
