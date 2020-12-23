@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab02SumNumbers\obj\Debug\netcoreapp3.1\ALab02SumNumbers.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab02SumNumbers\obj\Debug\netcoreapp3.1\ALab02SumNumbers.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab02SumNumbers\obj\Debug\netcoreapp3.1\ALab02SumNumbers.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab02SumNumbers\obj\Debug\netcoreapp3.1\ALab02SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab02SumNumbers\bin\Debug\netcoreapp3.1\ALab02SumNumbers.exe
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab02SumNumbers\bin\Debug\netcoreapp3.1\ALab02SumNumbers.deps.json
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab02SumNumbers\bin\Debug\netcoreapp3.1\ALab02SumNumbers.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab02SumNumbers\bin\Debug\netcoreapp3.1\ALab02SumNumbers.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab02SumNumbers\bin\Debug\netcoreapp3.1\ALab02SumNumbers.dll
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab02SumNumbers\bin\Debug\netcoreapp3.1\ALab02SumNumbers.pdb
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab02SumNumbers\obj\Debug\netcoreapp3.1\ALab02SumNumbers.dll
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab02SumNumbers\obj\Debug\netcoreapp3.1\ALab02SumNumbers.pdb
+C:\Users\Nikolay\source\repos\FunctionalProgramming\ALab02SumNumbers\obj\Debug\netcoreapp3.1\ALab02SumNumbers.genruntimeconfig.cache
