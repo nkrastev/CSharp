@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex05AppliedArithmetics\bin\Debug\netcoreapp3.1\Ex05AppliedArithmetics.exe
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex05AppliedArithmetics\bin\Debug\netcoreapp3.1\Ex05AppliedArithmetics.deps.json
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex05AppliedArithmetics\bin\Debug\netcoreapp3.1\Ex05AppliedArithmetics.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex05AppliedArithmetics\bin\Debug\netcoreapp3.1\Ex05AppliedArithmetics.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex05AppliedArithmetics\bin\Debug\netcoreapp3.1\Ex05AppliedArithmetics.dll
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex05AppliedArithmetics\bin\Debug\netcoreapp3.1\Ex05AppliedArithmetics.pdb
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex05AppliedArithmetics\obj\Debug\netcoreapp3.1\Ex05AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex05AppliedArithmetics\obj\Debug\netcoreapp3.1\Ex05AppliedArithmetics.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex05AppliedArithmetics\obj\Debug\netcoreapp3.1\Ex05AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex05AppliedArithmetics\obj\Debug\netcoreapp3.1\Ex05AppliedArithmetics.dll
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex05AppliedArithmetics\obj\Debug\netcoreapp3.1\Ex05AppliedArithmetics.pdb
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex05AppliedArithmetics\obj\Debug\netcoreapp3.1\Ex05AppliedArithmetics.genruntimeconfig.cache
