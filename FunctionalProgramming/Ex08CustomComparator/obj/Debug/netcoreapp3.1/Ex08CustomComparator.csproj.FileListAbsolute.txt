@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex08CustomComparator\bin\Debug\netcoreapp3.1\Ex08CustomComparator.exe
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex08CustomComparator\bin\Debug\netcoreapp3.1\Ex08CustomComparator.deps.json
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex08CustomComparator\bin\Debug\netcoreapp3.1\Ex08CustomComparator.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex08CustomComparator\bin\Debug\netcoreapp3.1\Ex08CustomComparator.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex08CustomComparator\bin\Debug\netcoreapp3.1\Ex08CustomComparator.dll
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex08CustomComparator\bin\Debug\netcoreapp3.1\Ex08CustomComparator.pdb
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex08CustomComparator\obj\Debug\netcoreapp3.1\Ex08CustomComparator.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex08CustomComparator\obj\Debug\netcoreapp3.1\Ex08CustomComparator.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex08CustomComparator\obj\Debug\netcoreapp3.1\Ex08CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex08CustomComparator\obj\Debug\netcoreapp3.1\Ex08CustomComparator.dll
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex08CustomComparator\obj\Debug\netcoreapp3.1\Ex08CustomComparator.pdb
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex08CustomComparator\obj\Debug\netcoreapp3.1\Ex08CustomComparator.genruntimeconfig.cache
