@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex10PredicateParty\bin\Debug\netcoreapp3.1\Ex10PredicateParty.exe
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex10PredicateParty\bin\Debug\netcoreapp3.1\Ex10PredicateParty.deps.json
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex10PredicateParty\bin\Debug\netcoreapp3.1\Ex10PredicateParty.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex10PredicateParty\bin\Debug\netcoreapp3.1\Ex10PredicateParty.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex10PredicateParty\bin\Debug\netcoreapp3.1\Ex10PredicateParty.dll
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex10PredicateParty\bin\Debug\netcoreapp3.1\Ex10PredicateParty.pdb
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex10PredicateParty\obj\Debug\netcoreapp3.1\Ex10PredicateParty.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex10PredicateParty\obj\Debug\netcoreapp3.1\Ex10PredicateParty.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex10PredicateParty\obj\Debug\netcoreapp3.1\Ex10PredicateParty.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex10PredicateParty\obj\Debug\netcoreapp3.1\Ex10PredicateParty.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex10PredicateParty\obj\Debug\netcoreapp3.1\Ex10PredicateParty.dll
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex10PredicateParty\obj\Debug\netcoreapp3.1\Ex10PredicateParty.pdb
+C:\Users\Nikolay\source\repos\FunctionalProgramming\Ex10PredicateParty\obj\Debug\netcoreapp3.1\Ex10PredicateParty.genruntimeconfig.cache
