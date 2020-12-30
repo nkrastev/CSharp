@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\DefiningClasses\ALab05SpecialCars\bin\Debug\netcoreapp3.1\ALab05SpecialCars.exe
+C:\Users\Nikolay\source\repos\DefiningClasses\ALab05SpecialCars\bin\Debug\netcoreapp3.1\ALab05SpecialCars.deps.json
+C:\Users\Nikolay\source\repos\DefiningClasses\ALab05SpecialCars\bin\Debug\netcoreapp3.1\ALab05SpecialCars.runtimeconfig.json
+C:\Users\Nikolay\source\repos\DefiningClasses\ALab05SpecialCars\bin\Debug\netcoreapp3.1\ALab05SpecialCars.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\DefiningClasses\ALab05SpecialCars\bin\Debug\netcoreapp3.1\ALab05SpecialCars.dll
+C:\Users\Nikolay\source\repos\DefiningClasses\ALab05SpecialCars\bin\Debug\netcoreapp3.1\ALab05SpecialCars.pdb
+C:\Users\Nikolay\source\repos\DefiningClasses\ALab05SpecialCars\obj\Debug\netcoreapp3.1\ALab05SpecialCars.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\DefiningClasses\ALab05SpecialCars\obj\Debug\netcoreapp3.1\ALab05SpecialCars.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\DefiningClasses\ALab05SpecialCars\obj\Debug\netcoreapp3.1\ALab05SpecialCars.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\DefiningClasses\ALab05SpecialCars\obj\Debug\netcoreapp3.1\ALab05SpecialCars.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\DefiningClasses\ALab05SpecialCars\obj\Debug\netcoreapp3.1\ALab05SpecialCars.dll
+C:\Users\Nikolay\source\repos\DefiningClasses\ALab05SpecialCars\obj\Debug\netcoreapp3.1\ALab05SpecialCars.pdb
+C:\Users\Nikolay\source\repos\DefiningClasses\ALab05SpecialCars\obj\Debug\netcoreapp3.1\ALab05SpecialCars.genruntimeconfig.cache
