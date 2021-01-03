@@ -100,6 +100,88 @@ namespace CustomDataStructures
             return result;
 
         }
+        /// <summary>
+        /// Adding element after specific one
+        /// </summary>
+        /// <param name="node">Element to be added after</param>
+        /// <param name="value">Value to be added</param>
+        public void AddAfter(ListNode node, int value)
+        {
+            if (node==null)
+            {
+                throw new ArgumentNullException("Node cannot be empty");
+            }
+
+            var newElement = new ListNode(value);
+            newElement.Next = node.Next;
+            node.Next = newElement;
+            Count++;
+        }
+        /// <summary>
+        /// Adding before node
+        /// </summary>
+        /// <param name="node">Node to add before</param>
+        /// <param name="value">Value to be added</param>
+        public void AddBefore(ListNode node, int value)
+        {
+            if (node==null)
+            {
+                throw new ArgumentNullException("Node cannot be null");
+            }
+
+            var newElement = new ListNode(value);
+
+            if (node==First)
+            {
+                newElement.Next = First;
+                First = newElement;
+            }
+            else
+            {
+                var current = First;
+                while (current!=null)
+                {
+                    if (current.Next==node)
+                    {
+                        newElement.Next = node;
+                        current.Next = newElement;
+                        break;
+                    } 
+                }
+            }
+            Count++;
+
+        }
+        /// <summary>
+        /// Removing Node
+        /// </summary>
+        /// <param name="node"></param>
+        public void Remove(ListNode node)
+        {
+            if (node==null)
+            {
+                throw new ArgumentNullException("Node cannot be null");
+            }
+
+            if (First==node)
+            {
+                First = First.Next;
+            }
+            else
+            {
+                var current = First;
+                while (current!=null)
+                {
+                    if (current.Next==node)
+                    {
+                        current.Next = node.Next;
+                        break;
+                    }
+                }
+                current = current.Next;
+            }
+            Count--;
+        }
 
         /// <summary>
         /// List Loop

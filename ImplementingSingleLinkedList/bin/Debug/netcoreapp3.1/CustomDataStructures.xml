@@ -47,6 +47,27 @@
             </summary>
             <param name="value"></param>
         </member>
+        <member name="M:CustomDataStructures.LinkedList.Find(System.Int32)">
+            <summary>
+            Searching for element
+            </summary>
+            <param name="value">Searched value</param>
+            <returns></returns>
+        </member>
+        <member name="M:CustomDataStructures.LinkedList.AddAfter(CustomDataStructures.ListNode,System.Int32)">
+            <summary>
+            Adding element after specific one
+            </summary>
+            <param name="node">Element to be added after</param>
+            <param name="value">Value to be added</param>
+        </member>
+        <member name="M:CustomDataStructures.LinkedList.AddBefore(CustomDataStructures.ListNode,System.Int32)">
+            <summary>
+            Adding before node
+            </summary>
+            <param name="node">Node to add before</param>
+            <param name="value">Value to be added</param>
+        </member>
         <member name="M:CustomDataStructures.LinkedList.GetEnumerator">
             <summary>
             List Loop

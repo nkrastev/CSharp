@@ -10,6 +10,10 @@ namespace CustomDataStructures
 
             myList.AddFirst(2);
 
+            myList.AddAfter(myList.Find(2), 10);
+            myList.AddBefore(myList.Find(2), 100);
+
+
             foreach (var item in myList)
             {
                 Console.WriteLine(item);
