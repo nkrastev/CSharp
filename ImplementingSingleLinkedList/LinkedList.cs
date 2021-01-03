@@ -182,6 +182,26 @@ namespace CustomDataStructures
             }
             Count--;
         }
+        /// <summary>
+        /// Removing by value
+        /// </summary>
+        /// <param name="value"></param>
+        public void Remove(int value)
+        {
+            var node = Find(value);
+
+            if (node!=null)
+            {
+                Remove(node);
+            }
+        }
+        /// <summary>
+        /// Removing First element
+        /// </summary>
+        public void RemoveFirst()
+        {
+            First = First.Next;
+        }
 
         /// <summary>
         /// List Loop
