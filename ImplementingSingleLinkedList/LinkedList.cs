@@ -200,7 +200,37 @@ namespace CustomDataStructures
         /// </summary>
         public void RemoveFirst()
         {
-            First = First.Next;
+            if (First!=null)
+            {
+                if (First==Last)
+                {
+                    Last = null;
+                }
+                First = First.Next;
+            }
+        }
+        /// <summary>
+        /// Remove last element of the collection
+        /// </summary>
+        public void RemoveLast()
+        {
+            if (Last!=null)
+            {
+                if (Last==First)
+                {
+                    Last = First = null;
+                }
+                var current = First;
+                while (current!=null)
+                {
+                    if (current.Next==Last)
+                    {
+                        current.Next = null;
+                    }
+
+                    current = current.Next;
+                }
+            }
         }
 
         /// <summary>

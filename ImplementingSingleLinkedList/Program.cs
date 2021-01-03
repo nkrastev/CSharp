@@ -2,6 +2,9 @@
 
 namespace CustomDataStructures
 {
+    /// <summary>
+    /// Custom data structure - Linked List
+    /// </summary>
     class Program
     {
         static void Main()
@@ -13,6 +16,7 @@ namespace CustomDataStructures
             myList.AddAfter(myList.Find(2), 10);
             myList.AddBefore(myList.Find(2), 100);
 
+            myList.RemoveLast();
 
             foreach (var item in myList)
             {

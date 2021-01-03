@@ -68,6 +68,28 @@
             <param name="node">Node to add before</param>
             <param name="value">Value to be added</param>
         </member>
+        <member name="M:CustomDataStructures.LinkedList.Remove(CustomDataStructures.ListNode)">
+            <summary>
+            Removing Node
+            </summary>
+            <param name="node"></param>
+        </member>
+        <member name="M:CustomDataStructures.LinkedList.Remove(System.Int32)">
+            <summary>
+            Removing by value
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:CustomDataStructures.LinkedList.RemoveFirst">
+            <summary>
+            Removing First element
+            </summary>
+        </member>
+        <member name="M:CustomDataStructures.LinkedList.RemoveLast">
+            <summary>
+            Remove last element of the collection
+            </summary>
+        </member>
         <member name="M:CustomDataStructures.LinkedList.GetEnumerator">
             <summary>
             List Loop
