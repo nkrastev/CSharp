@@ -5,4 +5,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <WarningLevel>5</WarningLevel>
+    <DocumentationFile>C:\Users\Nikolay\source\repos\ImplementingLinkedList\LinkedList\CustomDataStructures.xml</DocumentationFile>
+  </PropertyGroup>
+
 </Project>
