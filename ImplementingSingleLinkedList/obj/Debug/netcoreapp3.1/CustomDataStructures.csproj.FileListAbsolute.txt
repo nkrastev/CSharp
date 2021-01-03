@@ -1,0 +1,14 @@
+C:\Users\Nikolay\source\GitHub\CSharp-Advanced\ImplementingSingleLinkedList\bin\Debug\netcoreapp3.1\CustomDataStructures.exe
+C:\Users\Nikolay\source\GitHub\CSharp-Advanced\ImplementingSingleLinkedList\bin\Debug\netcoreapp3.1\CustomDataStructures.deps.json
+C:\Users\Nikolay\source\GitHub\CSharp-Advanced\ImplementingSingleLinkedList\bin\Debug\netcoreapp3.1\CustomDataStructures.runtimeconfig.json
+C:\Users\Nikolay\source\GitHub\CSharp-Advanced\ImplementingSingleLinkedList\bin\Debug\netcoreapp3.1\CustomDataStructures.runtimeconfig.dev.json
+C:\Users\Nikolay\source\GitHub\CSharp-Advanced\ImplementingSingleLinkedList\bin\Debug\netcoreapp3.1\CustomDataStructures.dll
+C:\Users\Nikolay\source\GitHub\CSharp-Advanced\ImplementingSingleLinkedList\bin\Debug\netcoreapp3.1\CustomDataStructures.pdb
+C:\Users\Nikolay\source\GitHub\CSharp-Advanced\ImplementingSingleLinkedList\bin\Debug\netcoreapp3.1\CustomDataStructures.xml
+C:\Users\Nikolay\source\GitHub\CSharp-Advanced\ImplementingSingleLinkedList\obj\Debug\netcoreapp3.1\CustomDataStructures.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\GitHub\CSharp-Advanced\ImplementingSingleLinkedList\obj\Debug\netcoreapp3.1\CustomDataStructures.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\GitHub\CSharp-Advanced\ImplementingSingleLinkedList\obj\Debug\netcoreapp3.1\CustomDataStructures.AssemblyInfo.cs
+C:\Users\Nikolay\source\GitHub\CSharp-Advanced\ImplementingSingleLinkedList\obj\Debug\netcoreapp3.1\CustomDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\GitHub\CSharp-Advanced\ImplementingSingleLinkedList\obj\Debug\netcoreapp3.1\CustomDataStructures.dll
+C:\Users\Nikolay\source\GitHub\CSharp-Advanced\ImplementingSingleLinkedList\obj\Debug\netcoreapp3.1\CustomDataStructures.pdb
+C:\Users\Nikolay\source\GitHub\CSharp-Advanced\ImplementingSingleLinkedList\obj\Debug\netcoreapp3.1\CustomDataStructures.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikolay\\source\\repos\\ImplementingLinkedList\\LinkedList\\CustomDataStructures.csproj",
+      "projectUniqueName": "C:\\Users\\Nikolay\\source\\GitHub\\CSharp-Advanced\\ImplementingSingleLinkedList\\CustomDataStructures.csproj",
       "projectName": "CustomDataStructures",
-      "projectPath": "C:\\Users\\Nikolay\\source\\repos\\ImplementingLinkedList\\LinkedList\\CustomDataStructures.csproj",
+      "projectPath": "C:\\Users\\Nikolay\\source\\GitHub\\CSharp-Advanced\\ImplementingSingleLinkedList\\CustomDataStructures.csproj",
       "packagesPath": "C:\\Users\\Nikolay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikolay\\source\\repos\\ImplementingLinkedList\\LinkedList\\obj\\",
+      "outputPath": "C:\\Users\\Nikolay\\source\\GitHub\\CSharp-Advanced\\ImplementingSingleLinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nikolay\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

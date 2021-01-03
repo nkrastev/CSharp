@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CustomDataStructures</name>
+    </assembly>
+    <members>
+        <member name="T:CustomDataStructures.LinkedList">
+            <summary>
+            Linked list of Integers
+            </summary>
+        </member>
+        <member name="P:CustomDataStructures.LinkedList.First">
+            <summary>
+            First Node of the Linked List
+            </summary>
+        </member>
+        <member name="P:CustomDataStructures.LinkedList.Last">
+            <summary>
+            Last Node of the Linked List
+            </summary>
+        </member>
+        <member name="P:CustomDataStructures.LinkedList.Count">
+            <summary>
+            Number of nodes in the List
+            </summary>
+        </member>
+        <member name="M:CustomDataStructures.LinkedList.#ctor">
+            <summary>
+            Linked list count
+            </summary>
+        </member>
+        <member name="M:CustomDataStructures.LinkedList.#ctor(System.Collections.Generic.IEnumerable{System.Int32})">
+            <summary>
+            Linked list loop
+            </summary>
+            <param name="collection"></param>
+        </member>
+        <member name="M:CustomDataStructures.LinkedList.AddLast(System.Int32)">
+            <summary>
+            Adding element at the end
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:CustomDataStructures.LinkedList.AddFirst(System.Int32)">
+            <summary>
+            Adding element at the begining
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:CustomDataStructures.LinkedList.GetEnumerator">
+            <summary>
+            List Loop
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:CustomDataStructures.ListNode">
+            <summary>
+            Node in Linked List
+            </summary>
+        </member>
+        <member name="P:CustomDataStructures.ListNode.Next">
+            <summary>
+            Pointer to next element
+            </summary>
+        </member>
+        <member name="P:CustomDataStructures.ListNode.Value">
+            <summary>
+            Value of current Node
+            </summary>
+        </member>
+        <member name="M:CustomDataStructures.ListNode.#ctor(System.Int32)">
+            <summary>
+            Create new node
+            </summary>
+            <param name="value">The value for the node</param>
+        </member>
+    </members>
+</doc>

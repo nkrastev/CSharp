@@ -22,20 +22,29 @@ namespace CustomDataStructures
         /// Number of nodes in the List
         /// </summary>
         public int Count { get; private set; }
-
+        /// <summary>
+        /// Linked list count
+        /// </summary>
         public LinkedList()
         {
             this.Count = 0;
         }
+        /// <summary>
+        /// Linked list loop
+        /// </summary>
+        /// <param name="collection"></param>
         public LinkedList(IEnumerable<int> collection)
-            :this()
+            : this()
         {
             foreach (var value in collection)
             {
                 this.AddLast(value);
             }
         }
-
+        /// <summary>
+        /// Adding element at the end
+        /// </summary>
+        /// <param name="value"></param>
         public void AddLast(int value)
         {
             var newElement = new ListNode(value);
@@ -51,10 +60,14 @@ namespace CustomDataStructures
             }
             Count++;
         }
+        /// <summary>
+        /// Adding element at the begining
+        /// </summary>
+        /// <param name="value"></param>
         public void AddFirst(int value)
         {
             var newElement = new ListNode(value);
-            if (First==null)
+            if (First == null)
             {
                 First = newElement;
                 Last = newElement;
@@ -66,7 +79,32 @@ namespace CustomDataStructures
             }
             Count++;
         }
+        /// <summary>
+        /// Searching for element
+        /// </summary>
+        /// <param name="value">Searched value</param>
+        /// <returns></returns>
+        public ListNode Find(int value)
+        {
+            ListNode result = null;
+            var current = First;
+            while (current!=null)
+            {
+                if (current.Value==value)
+                {
+                    result = current;
+                    break;
+                }
+                current = current.Next;
+            }
+            return result;
 
+        }
+
+        /// <summary>
+        /// List Loop
+        /// </summary>
+        /// <returns></returns>
         public IEnumerator<int> GetEnumerator()
         {
             ListNode current = First;

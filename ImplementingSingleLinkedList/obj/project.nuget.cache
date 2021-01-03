@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VFTM+Q84TG8+2uWyp8trnYEjgGl5O9S5YntgwkM/keYnDwbMnv2fy6nLHp3/WwNyqXLe6vyOCXa8CC5WNa350Q==",
+  "dgSpecHash": "1NzLOKeswDK/5gsSP9B6miKJKDq8/MF0nTQZQ5GJP6gjEg0XhQt3rcEkT5ZahuLh62aT5vOh5BX/op2fwKA6PQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nikolay\\source\\repos\\ImplementingLinkedList\\LinkedList\\CustomDataStructures.csproj",
+  "projectFilePath": "C:\\Users\\Nikolay\\source\\GitHub\\CSharp-Advanced\\ImplementingSingleLinkedList\\CustomDataStructures.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
