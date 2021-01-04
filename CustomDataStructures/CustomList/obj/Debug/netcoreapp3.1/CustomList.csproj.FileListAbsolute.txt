@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\CustomDataStructure\CustomList\bin\Debug\netcoreapp3.1\CustomList.exe
+C:\Users\Nikolay\source\repos\CustomDataStructure\CustomList\bin\Debug\netcoreapp3.1\CustomList.deps.json
+C:\Users\Nikolay\source\repos\CustomDataStructure\CustomList\bin\Debug\netcoreapp3.1\CustomList.runtimeconfig.json
+C:\Users\Nikolay\source\repos\CustomDataStructure\CustomList\bin\Debug\netcoreapp3.1\CustomList.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\CustomDataStructure\CustomList\bin\Debug\netcoreapp3.1\CustomList.dll
+C:\Users\Nikolay\source\repos\CustomDataStructure\CustomList\bin\Debug\netcoreapp3.1\CustomList.pdb
+C:\Users\Nikolay\source\repos\CustomDataStructure\CustomList\obj\Debug\netcoreapp3.1\CustomList.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\CustomDataStructure\CustomList\obj\Debug\netcoreapp3.1\CustomList.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\CustomDataStructure\CustomList\obj\Debug\netcoreapp3.1\CustomList.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\CustomDataStructure\CustomList\obj\Debug\netcoreapp3.1\CustomList.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\CustomDataStructure\CustomList\obj\Debug\netcoreapp3.1\CustomList.dll
+C:\Users\Nikolay\source\repos\CustomDataStructure\CustomList\obj\Debug\netcoreapp3.1\CustomList.pdb
+C:\Users\Nikolay\source\repos\CustomDataStructure\CustomList\obj\Debug\netcoreapp3.1\CustomList.genruntimeconfig.cache
