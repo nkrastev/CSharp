@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\Generics\ArrayCreator\bin\Debug\netcoreapp3.1\02ArrayCreator.exe
+C:\Users\Nikolay\source\repos\Generics\ArrayCreator\bin\Debug\netcoreapp3.1\02ArrayCreator.deps.json
+C:\Users\Nikolay\source\repos\Generics\ArrayCreator\bin\Debug\netcoreapp3.1\02ArrayCreator.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Generics\ArrayCreator\bin\Debug\netcoreapp3.1\02ArrayCreator.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Generics\ArrayCreator\bin\Debug\netcoreapp3.1\02ArrayCreator.dll
+C:\Users\Nikolay\source\repos\Generics\ArrayCreator\bin\Debug\netcoreapp3.1\02ArrayCreator.pdb
+C:\Users\Nikolay\source\repos\Generics\ArrayCreator\obj\Debug\netcoreapp3.1\02ArrayCreator.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Generics\ArrayCreator\obj\Debug\netcoreapp3.1\02ArrayCreator.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Generics\ArrayCreator\obj\Debug\netcoreapp3.1\02ArrayCreator.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Generics\ArrayCreator\obj\Debug\netcoreapp3.1\02ArrayCreator.dll
+C:\Users\Nikolay\source\repos\Generics\ArrayCreator\obj\Debug\netcoreapp3.1\02ArrayCreator.pdb
+C:\Users\Nikolay\source\repos\Generics\ArrayCreator\obj\Debug\netcoreapp3.1\02ArrayCreator.genruntimeconfig.cache
