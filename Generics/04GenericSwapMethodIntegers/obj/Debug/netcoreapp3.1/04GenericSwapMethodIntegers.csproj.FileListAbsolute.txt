@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Generics-Ex\04GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\04GenericSwapMethodIntegers.exe
+C:\Users\Nikolay\source\repos\Generics-Ex\04GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\04GenericSwapMethodIntegers.deps.json
+C:\Users\Nikolay\source\repos\Generics-Ex\04GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\04GenericSwapMethodIntegers.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Generics-Ex\04GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\04GenericSwapMethodIntegers.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Generics-Ex\04GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\04GenericSwapMethodIntegers.dll
+C:\Users\Nikolay\source\repos\Generics-Ex\04GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\04GenericSwapMethodIntegers.pdb
+C:\Users\Nikolay\source\repos\Generics-Ex\04GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\04GenericSwapMethodIntegers.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Generics-Ex\04GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\04GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Generics-Ex\04GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\04GenericSwapMethodIntegers.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Generics-Ex\04GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\04GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Generics-Ex\04GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\04GenericSwapMethodIntegers.dll
+C:\Users\Nikolay\source\repos\Generics-Ex\04GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\04GenericSwapMethodIntegers.pdb
+C:\Users\Nikolay\source\repos\Generics-Ex\04GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\04GenericSwapMethodIntegers.genruntimeconfig.cache
