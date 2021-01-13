@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\Generics-Ex\08Threeuple\obj\Debug\netcoreapp3.1\08Threeuple.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Generics-Ex\08Threeuple\obj\Debug\netcoreapp3.1\08Threeuple.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Generics-Ex\08Threeuple\obj\Debug\netcoreapp3.1\08Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Generics-Ex\08Threeuple\bin\Debug\netcoreapp3.1\08Threeuple.exe
+C:\Users\Nikolay\source\repos\Generics-Ex\08Threeuple\bin\Debug\netcoreapp3.1\08Threeuple.deps.json
+C:\Users\Nikolay\source\repos\Generics-Ex\08Threeuple\bin\Debug\netcoreapp3.1\08Threeuple.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Generics-Ex\08Threeuple\bin\Debug\netcoreapp3.1\08Threeuple.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Generics-Ex\08Threeuple\bin\Debug\netcoreapp3.1\08Threeuple.dll
+C:\Users\Nikolay\source\repos\Generics-Ex\08Threeuple\bin\Debug\netcoreapp3.1\08Threeuple.pdb
+C:\Users\Nikolay\source\repos\Generics-Ex\08Threeuple\obj\Debug\netcoreapp3.1\08Threeuple.dll
+C:\Users\Nikolay\source\repos\Generics-Ex\08Threeuple\obj\Debug\netcoreapp3.1\08Threeuple.pdb
+C:\Users\Nikolay\source\repos\Generics-Ex\08Threeuple\obj\Debug\netcoreapp3.1\08Threeuple.genruntimeconfig.cache
