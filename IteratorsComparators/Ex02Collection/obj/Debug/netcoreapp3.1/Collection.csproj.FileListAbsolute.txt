@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Collection\bin\Debug\netcoreapp3.1\Collection.exe
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Collection\bin\Debug\netcoreapp3.1\Collection.deps.json
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Collection\bin\Debug\netcoreapp3.1\Collection.runtimeconfig.json
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Collection\bin\Debug\netcoreapp3.1\Collection.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Collection\bin\Debug\netcoreapp3.1\Collection.dll
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Collection\bin\Debug\netcoreapp3.1\Collection.pdb
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Collection\obj\Debug\netcoreapp3.1\Collection.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Collection\obj\Debug\netcoreapp3.1\Collection.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Collection\obj\Debug\netcoreapp3.1\Collection.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Collection\obj\Debug\netcoreapp3.1\Collection.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Collection\obj\Debug\netcoreapp3.1\Collection.dll
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Collection\obj\Debug\netcoreapp3.1\Collection.pdb
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Collection\obj\Debug\netcoreapp3.1\Collection.genruntimeconfig.cache
