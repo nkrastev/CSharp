@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Stack\bin\Debug\netcoreapp3.1\Stack.exe
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Stack\bin\Debug\netcoreapp3.1\Stack.deps.json
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Stack\bin\Debug\netcoreapp3.1\Stack.dll
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Stack\bin\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Stack\obj\Debug\netcoreapp3.1\Stack.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Stack\obj\Debug\netcoreapp3.1\Stack.dll
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Stack\obj\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\Nikolay\source\repos\IteratorsComparators-Ex\Stack\obj\Debug\netcoreapp3.1\Stack.genruntimeconfig.cache
