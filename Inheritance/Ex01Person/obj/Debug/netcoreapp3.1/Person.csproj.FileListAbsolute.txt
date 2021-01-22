@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Inheritance-Exercise\Person\bin\Debug\netcoreapp3.1\Person.exe
+C:\Users\Nikolay\source\repos\Inheritance-Exercise\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+C:\Users\Nikolay\source\repos\Inheritance-Exercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Inheritance-Exercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Inheritance-Exercise\Person\bin\Debug\netcoreapp3.1\Person.dll
+C:\Users\Nikolay\source\repos\Inheritance-Exercise\Person\bin\Debug\netcoreapp3.1\Person.pdb
+C:\Users\Nikolay\source\repos\Inheritance-Exercise\Person\obj\Debug\netcoreapp3.1\Person.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Inheritance-Exercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Inheritance-Exercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Inheritance-Exercise\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Inheritance-Exercise\Person\obj\Debug\netcoreapp3.1\Person.dll
+C:\Users\Nikolay\source\repos\Inheritance-Exercise\Person\obj\Debug\netcoreapp3.1\Person.pdb
+C:\Users\Nikolay\source\repos\Inheritance-Exercise\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache
