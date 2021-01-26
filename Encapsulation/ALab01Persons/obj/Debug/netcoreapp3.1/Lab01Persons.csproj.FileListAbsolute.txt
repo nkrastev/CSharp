@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Encapsulation\Lab01Persons\bin\Debug\netcoreapp3.1\Lab01Persons.exe
+C:\Users\Nikolay\source\repos\Encapsulation\Lab01Persons\bin\Debug\netcoreapp3.1\Lab01Persons.deps.json
+C:\Users\Nikolay\source\repos\Encapsulation\Lab01Persons\bin\Debug\netcoreapp3.1\Lab01Persons.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Encapsulation\Lab01Persons\bin\Debug\netcoreapp3.1\Lab01Persons.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Encapsulation\Lab01Persons\bin\Debug\netcoreapp3.1\Lab01Persons.dll
+C:\Users\Nikolay\source\repos\Encapsulation\Lab01Persons\bin\Debug\netcoreapp3.1\Lab01Persons.pdb
+C:\Users\Nikolay\source\repos\Encapsulation\Lab01Persons\obj\Debug\netcoreapp3.1\Lab01Persons.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Encapsulation\Lab01Persons\obj\Debug\netcoreapp3.1\Lab01Persons.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Encapsulation\Lab01Persons\obj\Debug\netcoreapp3.1\Lab01Persons.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Encapsulation\Lab01Persons\obj\Debug\netcoreapp3.1\Lab01Persons.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Encapsulation\Lab01Persons\obj\Debug\netcoreapp3.1\Lab01Persons.dll
+C:\Users\Nikolay\source\repos\Encapsulation\Lab01Persons\obj\Debug\netcoreapp3.1\Lab01Persons.pdb
+C:\Users\Nikolay\source\repos\Encapsulation\Lab01Persons\obj\Debug\netcoreapp3.1\Lab01Persons.genruntimeconfig.cache
