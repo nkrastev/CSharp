@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\Encapsulation\ALab03Validation\bin\Debug\netcoreapp3.1\ALab03Validation.exe
+C:\Users\Nikolay\source\repos\Encapsulation\ALab03Validation\bin\Debug\netcoreapp3.1\ALab03Validation.deps.json
+C:\Users\Nikolay\source\repos\Encapsulation\ALab03Validation\bin\Debug\netcoreapp3.1\ALab03Validation.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Encapsulation\ALab03Validation\bin\Debug\netcoreapp3.1\ALab03Validation.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Encapsulation\ALab03Validation\bin\Debug\netcoreapp3.1\ALab03Validation.dll
+C:\Users\Nikolay\source\repos\Encapsulation\ALab03Validation\bin\Debug\netcoreapp3.1\ALab03Validation.pdb
+C:\Users\Nikolay\source\repos\Encapsulation\ALab03Validation\obj\Debug\netcoreapp3.1\ALab03Validation.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Encapsulation\ALab03Validation\obj\Debug\netcoreapp3.1\ALab03Validation.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Encapsulation\ALab03Validation\obj\Debug\netcoreapp3.1\ALab03Validation.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Encapsulation\ALab03Validation\obj\Debug\netcoreapp3.1\ALab03Validation.dll
+C:\Users\Nikolay\source\repos\Encapsulation\ALab03Validation\obj\Debug\netcoreapp3.1\ALab03Validation.pdb
+C:\Users\Nikolay\source\repos\Encapsulation\ALab03Validation\obj\Debug\netcoreapp3.1\ALab03Validation.genruntimeconfig.cache
