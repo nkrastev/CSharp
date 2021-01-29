@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\Encapsulation\Ex01ClassBoxData\bin\Debug\netcoreapp3.1\Ex01ClassBoxData.exe
+C:\Users\Nikolay\source\repos\Encapsulation\Ex01ClassBoxData\bin\Debug\netcoreapp3.1\Ex01ClassBoxData.deps.json
+C:\Users\Nikolay\source\repos\Encapsulation\Ex01ClassBoxData\bin\Debug\netcoreapp3.1\Ex01ClassBoxData.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Encapsulation\Ex01ClassBoxData\bin\Debug\netcoreapp3.1\Ex01ClassBoxData.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Encapsulation\Ex01ClassBoxData\bin\Debug\netcoreapp3.1\Ex01ClassBoxData.dll
+C:\Users\Nikolay\source\repos\Encapsulation\Ex01ClassBoxData\bin\Debug\netcoreapp3.1\Ex01ClassBoxData.pdb
+C:\Users\Nikolay\source\repos\Encapsulation\Ex01ClassBoxData\obj\Debug\netcoreapp3.1\Ex01ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Encapsulation\Ex01ClassBoxData\obj\Debug\netcoreapp3.1\Ex01ClassBoxData.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Encapsulation\Ex01ClassBoxData\obj\Debug\netcoreapp3.1\Ex01ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Encapsulation\Ex01ClassBoxData\obj\Debug\netcoreapp3.1\Ex01ClassBoxData.dll
+C:\Users\Nikolay\source\repos\Encapsulation\Ex01ClassBoxData\obj\Debug\netcoreapp3.1\Ex01ClassBoxData.pdb
+C:\Users\Nikolay\source\repos\Encapsulation\Ex01ClassBoxData\obj\Debug\netcoreapp3.1\Ex01ClassBoxData.genruntimeconfig.cache
