@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\Encapsulation\ALab04Team\obj\Debug\netcoreapp3.1\ALab04Team.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Encapsulation\ALab04Team\obj\Debug\netcoreapp3.1\ALab04Team.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Encapsulation\ALab04Team\obj\Debug\netcoreapp3.1\ALab04Team.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Encapsulation\ALab04Team\bin\Debug\netcoreapp3.1\ALab04Team.exe
+C:\Users\Nikolay\source\repos\Encapsulation\ALab04Team\bin\Debug\netcoreapp3.1\ALab04Team.deps.json
+C:\Users\Nikolay\source\repos\Encapsulation\ALab04Team\bin\Debug\netcoreapp3.1\ALab04Team.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Encapsulation\ALab04Team\bin\Debug\netcoreapp3.1\ALab04Team.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Encapsulation\ALab04Team\bin\Debug\netcoreapp3.1\ALab04Team.dll
+C:\Users\Nikolay\source\repos\Encapsulation\ALab04Team\bin\Debug\netcoreapp3.1\ALab04Team.pdb
+C:\Users\Nikolay\source\repos\Encapsulation\ALab04Team\obj\Debug\netcoreapp3.1\ALab04Team.dll
+C:\Users\Nikolay\source\repos\Encapsulation\ALab04Team\obj\Debug\netcoreapp3.1\ALab04Team.pdb
+C:\Users\Nikolay\source\repos\Encapsulation\ALab04Team\obj\Debug\netcoreapp3.1\ALab04Team.genruntimeconfig.cache
