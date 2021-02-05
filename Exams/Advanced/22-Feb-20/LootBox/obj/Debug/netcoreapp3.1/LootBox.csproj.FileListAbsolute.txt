@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Advanced22Feb2020\LootBox\bin\Debug\netcoreapp3.1\LootBox.exe
+C:\Users\Nikolay\source\repos\Advanced22Feb2020\LootBox\bin\Debug\netcoreapp3.1\LootBox.deps.json
+C:\Users\Nikolay\source\repos\Advanced22Feb2020\LootBox\bin\Debug\netcoreapp3.1\LootBox.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Advanced22Feb2020\LootBox\bin\Debug\netcoreapp3.1\LootBox.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Advanced22Feb2020\LootBox\bin\Debug\netcoreapp3.1\LootBox.dll
+C:\Users\Nikolay\source\repos\Advanced22Feb2020\LootBox\bin\Debug\netcoreapp3.1\LootBox.pdb
+C:\Users\Nikolay\source\repos\Advanced22Feb2020\LootBox\obj\Debug\netcoreapp3.1\LootBox.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Advanced22Feb2020\LootBox\obj\Debug\netcoreapp3.1\LootBox.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Advanced22Feb2020\LootBox\obj\Debug\netcoreapp3.1\LootBox.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Advanced22Feb2020\LootBox\obj\Debug\netcoreapp3.1\LootBox.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Advanced22Feb2020\LootBox\obj\Debug\netcoreapp3.1\LootBox.dll
+C:\Users\Nikolay\source\repos\Advanced22Feb2020\LootBox\obj\Debug\netcoreapp3.1\LootBox.pdb
+C:\Users\Nikolay\source\repos\Advanced22Feb2020\LootBox\obj\Debug\netcoreapp3.1\LootBox.genruntimeconfig.cache
