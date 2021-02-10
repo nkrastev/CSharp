@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Polymorphism\Lab02Animals\bin\Debug\netcoreapp3.1\Lab02Animals.exe
+C:\Users\Nikolay\source\repos\Polymorphism\Lab02Animals\bin\Debug\netcoreapp3.1\Lab02Animals.deps.json
+C:\Users\Nikolay\source\repos\Polymorphism\Lab02Animals\bin\Debug\netcoreapp3.1\Lab02Animals.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Polymorphism\Lab02Animals\bin\Debug\netcoreapp3.1\Lab02Animals.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Polymorphism\Lab02Animals\bin\Debug\netcoreapp3.1\Lab02Animals.dll
+C:\Users\Nikolay\source\repos\Polymorphism\Lab02Animals\bin\Debug\netcoreapp3.1\Lab02Animals.pdb
+C:\Users\Nikolay\source\repos\Polymorphism\Lab02Animals\obj\Debug\netcoreapp3.1\Lab02Animals.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Polymorphism\Lab02Animals\obj\Debug\netcoreapp3.1\Lab02Animals.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Polymorphism\Lab02Animals\obj\Debug\netcoreapp3.1\Lab02Animals.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Polymorphism\Lab02Animals\obj\Debug\netcoreapp3.1\Lab02Animals.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Polymorphism\Lab02Animals\obj\Debug\netcoreapp3.1\Lab02Animals.dll
+C:\Users\Nikolay\source\repos\Polymorphism\Lab02Animals\obj\Debug\netcoreapp3.1\Lab02Animals.pdb
+C:\Users\Nikolay\source\repos\Polymorphism\Lab02Animals\obj\Debug\netcoreapp3.1\Lab02Animals.genruntimeconfig.cache
