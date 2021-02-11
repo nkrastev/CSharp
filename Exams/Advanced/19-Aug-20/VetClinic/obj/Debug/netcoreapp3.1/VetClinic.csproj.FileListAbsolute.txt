@@ -1,0 +1,13 @@
+C:\Users\Nikolay\Downloads\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.exe
+C:\Users\Nikolay\Downloads\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.deps.json
+C:\Users\Nikolay\Downloads\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.json
+C:\Users\Nikolay\Downloads\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.dev.json
+C:\Users\Nikolay\Downloads\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.dll
+C:\Users\Nikolay\Downloads\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.pdb
+C:\Users\Nikolay\Downloads\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csprojAssemblyReference.cache
+C:\Users\Nikolay\Downloads\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfoInputs.cache
+C:\Users\Nikolay\Downloads\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfo.cs
+C:\Users\Nikolay\Downloads\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Downloads\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.dll
+C:\Users\Nikolay\Downloads\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.pdb
+C:\Users\Nikolay\Downloads\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.genruntimeconfig.cache
