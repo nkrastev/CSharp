@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\Bee\bin\Debug\netcoreapp3.1\Bee.exe
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\Bee\bin\Debug\netcoreapp3.1\Bee.deps.json
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\Bee\bin\Debug\netcoreapp3.1\Bee.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\Bee\bin\Debug\netcoreapp3.1\Bee.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\Bee\bin\Debug\netcoreapp3.1\Bee.dll
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\Bee\bin\Debug\netcoreapp3.1\Bee.pdb
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\Bee\obj\Debug\netcoreapp3.1\Bee.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\Bee\obj\Debug\netcoreapp3.1\Bee.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\Bee\obj\Debug\netcoreapp3.1\Bee.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\Bee\obj\Debug\netcoreapp3.1\Bee.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\Bee\obj\Debug\netcoreapp3.1\Bee.dll
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\Bee\obj\Debug\netcoreapp3.1\Bee.pdb
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\Bee\obj\Debug\netcoreapp3.1\Bee.genruntimeconfig.cache
