@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\FlowerWreaths\bin\Debug\netcoreapp3.1\FlowerWreaths.exe
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\FlowerWreaths\bin\Debug\netcoreapp3.1\FlowerWreaths.deps.json
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\FlowerWreaths\bin\Debug\netcoreapp3.1\FlowerWreaths.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\FlowerWreaths\bin\Debug\netcoreapp3.1\FlowerWreaths.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\FlowerWreaths\bin\Debug\netcoreapp3.1\FlowerWreaths.dll
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\FlowerWreaths\bin\Debug\netcoreapp3.1\FlowerWreaths.pdb
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\FlowerWreaths\obj\Debug\netcoreapp3.1\FlowerWreaths.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\FlowerWreaths\obj\Debug\netcoreapp3.1\FlowerWreaths.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\FlowerWreaths\obj\Debug\netcoreapp3.1\FlowerWreaths.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\FlowerWreaths\obj\Debug\netcoreapp3.1\FlowerWreaths.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\FlowerWreaths\obj\Debug\netcoreapp3.1\FlowerWreaths.dll
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\FlowerWreaths\obj\Debug\netcoreapp3.1\FlowerWreaths.pdb
+C:\Users\Nikolay\source\repos\Advanced19Aug2020\FlowerWreaths\obj\Debug\netcoreapp3.1\FlowerWreaths.genruntimeconfig.cache
