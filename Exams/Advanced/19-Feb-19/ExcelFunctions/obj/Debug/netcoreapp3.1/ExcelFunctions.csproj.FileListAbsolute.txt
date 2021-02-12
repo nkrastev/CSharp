@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Advanced19Feb19\ExcelFunctions\bin\Debug\netcoreapp3.1\ExcelFunctions.exe
+C:\Users\Nikolay\source\repos\Advanced19Feb19\ExcelFunctions\bin\Debug\netcoreapp3.1\ExcelFunctions.deps.json
+C:\Users\Nikolay\source\repos\Advanced19Feb19\ExcelFunctions\bin\Debug\netcoreapp3.1\ExcelFunctions.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Advanced19Feb19\ExcelFunctions\bin\Debug\netcoreapp3.1\ExcelFunctions.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Advanced19Feb19\ExcelFunctions\bin\Debug\netcoreapp3.1\ExcelFunctions.dll
+C:\Users\Nikolay\source\repos\Advanced19Feb19\ExcelFunctions\bin\Debug\netcoreapp3.1\ExcelFunctions.pdb
+C:\Users\Nikolay\source\repos\Advanced19Feb19\ExcelFunctions\obj\Debug\netcoreapp3.1\ExcelFunctions.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Advanced19Feb19\ExcelFunctions\obj\Debug\netcoreapp3.1\ExcelFunctions.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Advanced19Feb19\ExcelFunctions\obj\Debug\netcoreapp3.1\ExcelFunctions.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Advanced19Feb19\ExcelFunctions\obj\Debug\netcoreapp3.1\ExcelFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Advanced19Feb19\ExcelFunctions\obj\Debug\netcoreapp3.1\ExcelFunctions.dll
+C:\Users\Nikolay\source\repos\Advanced19Feb19\ExcelFunctions\obj\Debug\netcoreapp3.1\ExcelFunctions.pdb
+C:\Users\Nikolay\source\repos\Advanced19Feb19\ExcelFunctions\obj\Debug\netcoreapp3.1\ExcelFunctions.genruntimeconfig.cache
