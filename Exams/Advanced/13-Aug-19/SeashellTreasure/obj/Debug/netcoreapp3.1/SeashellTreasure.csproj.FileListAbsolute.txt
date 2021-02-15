@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SeashellTreasure\bin\Debug\netcoreapp3.1\SeashellTreasure.exe
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SeashellTreasure\bin\Debug\netcoreapp3.1\SeashellTreasure.deps.json
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SeashellTreasure\bin\Debug\netcoreapp3.1\SeashellTreasure.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SeashellTreasure\bin\Debug\netcoreapp3.1\SeashellTreasure.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SeashellTreasure\bin\Debug\netcoreapp3.1\SeashellTreasure.dll
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SeashellTreasure\bin\Debug\netcoreapp3.1\SeashellTreasure.pdb
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SeashellTreasure\obj\Debug\netcoreapp3.1\SeashellTreasure.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SeashellTreasure\obj\Debug\netcoreapp3.1\SeashellTreasure.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SeashellTreasure\obj\Debug\netcoreapp3.1\SeashellTreasure.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SeashellTreasure\obj\Debug\netcoreapp3.1\SeashellTreasure.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SeashellTreasure\obj\Debug\netcoreapp3.1\SeashellTreasure.dll
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SeashellTreasure\obj\Debug\netcoreapp3.1\SeashellTreasure.pdb
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SeashellTreasure\obj\Debug\netcoreapp3.1\SeashellTreasure.genruntimeconfig.cache
