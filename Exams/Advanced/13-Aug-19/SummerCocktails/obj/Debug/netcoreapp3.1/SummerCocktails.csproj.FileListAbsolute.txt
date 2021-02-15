@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SummerCocktails\bin\Debug\netcoreapp3.1\SummerCocktails.exe
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SummerCocktails\bin\Debug\netcoreapp3.1\SummerCocktails.deps.json
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SummerCocktails\bin\Debug\netcoreapp3.1\SummerCocktails.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SummerCocktails\bin\Debug\netcoreapp3.1\SummerCocktails.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SummerCocktails\bin\Debug\netcoreapp3.1\SummerCocktails.dll
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SummerCocktails\bin\Debug\netcoreapp3.1\SummerCocktails.pdb
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SummerCocktails\obj\Debug\netcoreapp3.1\SummerCocktails.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SummerCocktails\obj\Debug\netcoreapp3.1\SummerCocktails.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SummerCocktails\obj\Debug\netcoreapp3.1\SummerCocktails.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SummerCocktails\obj\Debug\netcoreapp3.1\SummerCocktails.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SummerCocktails\obj\Debug\netcoreapp3.1\SummerCocktails.dll
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SummerCocktails\obj\Debug\netcoreapp3.1\SummerCocktails.pdb
+C:\Users\Nikolay\source\repos\Advanced-13-Aug-19\SummerCocktails\obj\Debug\netcoreapp3.1\SummerCocktails.genruntimeconfig.cache
