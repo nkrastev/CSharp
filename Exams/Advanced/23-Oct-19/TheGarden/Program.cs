@@ -18,20 +18,20 @@ namespace TheGarden
             };
 
             var command = Console.ReadLine();
-            while (command!= "End of Harvest")
+            while (command != "End of Harvest")
             {
                 var cmdArgs = command.Split(" ", StringSplitOptions.RemoveEmptyEntries).ToArray();
-                
-                if (cmdArgs[0]=="Harvest")
+
+                if (cmdArgs[0] == "Harvest")
                 {
                     var harvesterRow = int.Parse(cmdArgs[1]);
                     var harvesterCol = int.Parse(cmdArgs[2]);
-                    
+
                     if (ValidCoodrinates(matrix, harvesterRow, harvesterCol) && matrix[harvesterRow][harvesterCol] != ' ')
-                    {                        
-                        if (matrix[harvesterRow][harvesterCol]=='C')
+                    {
+                        if (matrix[harvesterRow][harvesterCol] == 'C')
                         {
-                            harvestResults["Carrots"]++;                            
+                            harvestResults["Carrots"]++;
                         }
                         else if (matrix[harvesterRow][harvesterCol] == 'P')
                         {
@@ -44,15 +44,68 @@ namespace TheGarden
                         matrix[harvesterRow][harvesterCol] = ' ';
                     }
                 }
-                
-                if (cmdArgs[0]== "Mole")
+
+                if (cmdArgs[0] == "Mole")
                 {
                     var moleRow = int.Parse(cmdArgs[1]);
                     var moleCol = int.Parse(cmdArgs[2]);
                     var directionMole = cmdArgs[3];
-                    if (ValidCoodrinates(matrix, moleRow, moleCol))
+                    
+                    for (int i = 0; i < matrix.Length; i++)
                     {
-                        // to do movement of the mole and count of the harmed vegetables
+                        for (int j = 0; j < matrix[i].Length; j++)
+                        {
+                            if (i == moleRow && j == moleCol && matrix[i][j] != ' ')
+                            {
+                                if (directionMole == "up")
+                                {
+                                    for (int k = moleRow; k >= 0; k -= 2)
+                                    {
+                                        if (matrix[k][moleCol] != ' ')
+                                        {
+                                            matrix[k][moleCol] = ' ';
+                                            harvestResults["Harmed vegetables"]++;
+                                        }
+                                    }
+                                }
+
+                                if (directionMole == "down")
+                                {
+                                    for (int k = moleRow; k < matrix.Length; k += 2)
+                                    {
+                                        if (matrix[k][moleCol] != ' ')
+                                        {
+                                            matrix[k][moleCol] = ' ';
+                                            harvestResults["Harmed vegetables"]++;
+                                        }
+                                    }
+                                }
+
+                                if (directionMole == "right")
+                                {
+                                    for (int k = moleCol; k < matrix[i].Length; k += 2)
+                                    {
+                                        if (matrix[moleRow][k] != ' ')
+                                        {
+                                            matrix[moleRow][k] = ' ';
+                                            harvestResults["Harmed vegetables"]++;
+                                        }
+                                    }
+                                }
+
+                                if (directionMole == "left")
+                                {
+                                    for (int k = moleCol; k >= 0; k -= 2)
+                                    {
+                                        if (matrix[moleRow][k] != ' ')
+                                        {
+                                            matrix[moleRow][k] = ' ';
+                                            harvestResults["Harmed vegetables"]++;
+                                        }
+                                    }
+                                }
+                            }
+                        }
                     }
                 }
                 command = Console.ReadLine();
@@ -89,7 +142,7 @@ namespace TheGarden
             {
                 for (int col = 0; col < matrix[row].Length; col++)
                 {
-                    Console.Write(matrix[row][col]+" ");
+                    Console.Write(matrix[row][col] + " ");
                 }
                 Console.WriteLine();
             }
@@ -101,7 +154,7 @@ namespace TheGarden
             var matrix = new char[size][];
             for (int row = 0; row < size; row++)
             {
-                var line = Console.ReadLine().Split(" ",StringSplitOptions.RemoveEmptyEntries).Select(char.Parse).ToArray();
+                var line = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(char.Parse).ToArray();
                 matrix[row] = new char[line.Length];
                 for (int col = 0; col < line.Length; col++)
                 {
