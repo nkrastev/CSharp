@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Advanced-26-10-19\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.exe
+C:\Users\Nikolay\source\repos\Advanced-26-10-19\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.deps.json
+C:\Users\Nikolay\source\repos\Advanced-26-10-19\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Advanced-26-10-19\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Advanced-26-10-19\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.dll
+C:\Users\Nikolay\source\repos\Advanced-26-10-19\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.pdb
+C:\Users\Nikolay\source\repos\Advanced-26-10-19\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Advanced-26-10-19\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Advanced-26-10-19\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Advanced-26-10-19\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Advanced-26-10-19\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.dll
+C:\Users\Nikolay\source\repos\Advanced-26-10-19\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.pdb
+C:\Users\Nikolay\source\repos\Advanced-26-10-19\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.genruntimeconfig.cache
