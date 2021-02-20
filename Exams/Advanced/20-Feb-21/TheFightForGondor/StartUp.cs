@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace TheFightforGondor
 {
-    class Program
+    class StartUp
     {
         static void Main(string[] args)
         {
