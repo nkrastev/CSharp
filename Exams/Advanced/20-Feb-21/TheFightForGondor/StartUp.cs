@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -6,74 +6,76 @@ namespace TheFightforGondor
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            var numberOfWaves = int.Parse(Console.ReadLine());
-            var inputPlates = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse);
-            Queue<int> plates = new Queue<int>(inputPlates);
-            Stack<int> leftOrcs = new Stack<int>();
+            int numberOfWaves = int.Parse(Console.ReadLine());
+
+            List<int> defensePlates = Console.ReadLine()
+                .Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToList();
+
+            Stack<int> warriorsPower = new Stack<int>();
 
             for (int i = 1; i <= numberOfWaves; i++)
             {
-                var inputWave = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse);
-                Stack<int> wave = new Stack<int>(inputWave);
-                if (i % 3==0)
+                int[] inputWarriorPower = Console.ReadLine()
+                .Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToArray();
+
+                for (int k = 0; k < inputWarriorPower.Length; k++)
                 {
-                    //third wave, read input for plate
-                    int reinforcement = int.Parse(Console.ReadLine());
-                    plates.Enqueue(reinforcement);
+                    warriorsPower.Push(inputWarriorPower[k]);
                 }
-                //start attack
-                while (wave.Count>0 && plates.Count>0)
+
+                if (i % 3 == 0)
                 {
-                    if (wave.Peek()==plates.Peek())
+                    int extraPalte = int.Parse(Console.ReadLine());
+
+                    defensePlates.Add(extraPalte);
+                }
+
+                while (defensePlates.Any() && warriorsPower.Any())
+                {
+                    int currentPlate = defensePlates[0];
+                    int currentWarrior = warriorsPower.Peek();
+
+                    if (currentPlate == currentWarrior)
                     {
-                        wave.Pop();
-                        plates.Dequeue();
-                    }
-                    else if (wave.Peek()> plates.Peek())
-                    {
-                        int value = plates.Peek();
-                        plates.Dequeue();
-                        int temp = wave.Pop();
-                        wave.Push(temp - value);
-                    }
-                    else if (plates.Peek()>wave.Peek())
-                    {
-                        int value = wave.Peek();
-                        wave.Pop();
-                        int temp = plates.Dequeue();
-                        plates.Enqueue(temp - value);
+                        defensePlates.RemoveAt(0);
+                        warriorsPower.Pop();
                     }
 
-                    if (plates.Count ==0 )
+                    if (currentPlate > currentWarrior)
                     {
-                        leftOrcs = wave;
-                        break;
+                        defensePlates[0] -= currentWarrior;
+                        warriorsPower.Pop();
+                    }
+
+                    if (currentWarrior > currentPlate)
+                    {
+                        warriorsPower.Push(warriorsPower.Pop() - currentPlate);
+                        defensePlates.RemoveAt(0);
                     }
                 }
-                
+
+                if (!defensePlates.Any())
+                {
+                    break;
+                }
             }
 
-            if (plates.Count>0)
+            if (defensePlates.Any())
             {
-                Console.WriteLine("The people successfully repulsed the orc's attack.");                
+                Console.WriteLine("The people successfully repulsed the orc's attack.");
+                Console.WriteLine($"Plates left: {string.Join(", ", defensePlates)}");
             }
             else
             {
-                Console.WriteLine("The orcs successfully destroyed the Gondor's defense.");                
+                Console.WriteLine("The orcs successfully destroyed the Gondor's defense.");
+                Console.WriteLine($"Orcs left: {string.Join(", ", warriorsPower)}");
             }
-            if (plates.Count>0)
-            {
-                Console.WriteLine($"Plates left: {string.Join(", ", plates)}");
-            }
-            if (leftOrcs.Count>0)
-            {
-                Console.WriteLine($"Orcs left: {string.Join(", ", leftOrcs)}");
-            }
-            
-
-
         }
     }
 }
