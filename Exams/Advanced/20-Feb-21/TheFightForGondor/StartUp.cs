@@ -14,7 +14,6 @@ namespace TheFightforGondor
                 .Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse)
                 .ToList();
-
             Stack<int> warriorsPower = new Stack<int>();
 
             for (int i = 1; i <= numberOfWaves; i++)
