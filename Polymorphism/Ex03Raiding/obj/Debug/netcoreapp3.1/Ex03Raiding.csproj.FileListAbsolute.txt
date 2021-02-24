@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Polymorphism\Ex03Raiding\bin\Debug\netcoreapp3.1\Ex03Raiding.exe
+C:\Users\Nikolay\source\repos\Polymorphism\Ex03Raiding\bin\Debug\netcoreapp3.1\Ex03Raiding.deps.json
+C:\Users\Nikolay\source\repos\Polymorphism\Ex03Raiding\bin\Debug\netcoreapp3.1\Ex03Raiding.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Polymorphism\Ex03Raiding\bin\Debug\netcoreapp3.1\Ex03Raiding.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Polymorphism\Ex03Raiding\bin\Debug\netcoreapp3.1\Ex03Raiding.dll
+C:\Users\Nikolay\source\repos\Polymorphism\Ex03Raiding\bin\Debug\netcoreapp3.1\Ex03Raiding.pdb
+C:\Users\Nikolay\source\repos\Polymorphism\Ex03Raiding\obj\Debug\netcoreapp3.1\Ex03Raiding.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Polymorphism\Ex03Raiding\obj\Debug\netcoreapp3.1\Ex03Raiding.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Polymorphism\Ex03Raiding\obj\Debug\netcoreapp3.1\Ex03Raiding.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Polymorphism\Ex03Raiding\obj\Debug\netcoreapp3.1\Ex03Raiding.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Polymorphism\Ex03Raiding\obj\Debug\netcoreapp3.1\Ex03Raiding.dll
+C:\Users\Nikolay\source\repos\Polymorphism\Ex03Raiding\obj\Debug\netcoreapp3.1\Ex03Raiding.pdb
+C:\Users\Nikolay\source\repos\Polymorphism\Ex03Raiding\obj\Debug\netcoreapp3.1\Ex03Raiding.genruntimeconfig.cache
