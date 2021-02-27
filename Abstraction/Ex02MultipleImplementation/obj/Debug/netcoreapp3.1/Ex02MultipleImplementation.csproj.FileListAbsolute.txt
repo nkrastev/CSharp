@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex02MultipleImplementation\bin\Debug\netcoreapp3.1\Ex02MultipleImplementation.exe
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex02MultipleImplementation\bin\Debug\netcoreapp3.1\Ex02MultipleImplementation.deps.json
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex02MultipleImplementation\bin\Debug\netcoreapp3.1\Ex02MultipleImplementation.runtimeconfig.json
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex02MultipleImplementation\bin\Debug\netcoreapp3.1\Ex02MultipleImplementation.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex02MultipleImplementation\bin\Debug\netcoreapp3.1\Ex02MultipleImplementation.dll
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex02MultipleImplementation\bin\Debug\netcoreapp3.1\Ex02MultipleImplementation.pdb
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex02MultipleImplementation\obj\Debug\netcoreapp3.1\Ex02MultipleImplementation.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex02MultipleImplementation\obj\Debug\netcoreapp3.1\Ex02MultipleImplementation.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex02MultipleImplementation\obj\Debug\netcoreapp3.1\Ex02MultipleImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex02MultipleImplementation\obj\Debug\netcoreapp3.1\Ex02MultipleImplementation.dll
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex02MultipleImplementation\obj\Debug\netcoreapp3.1\Ex02MultipleImplementation.pdb
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex02MultipleImplementation\obj\Debug\netcoreapp3.1\Ex02MultipleImplementation.genruntimeconfig.cache
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex02MultipleImplementation\obj\Debug\netcoreapp3.1\Ex02MultipleImplementation.csprojAssemblyReference.cache
