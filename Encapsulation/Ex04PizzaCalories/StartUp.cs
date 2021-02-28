@@ -1,66 +1,42 @@
-﻿using Ex04PizzaCalories.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System;
 
 namespace Ex04PizzaCalories
 {
-    public class StartUp
+    class StartUp
     {
         static void Main()
         {
             try
             {
-                //TestDough();
-                //TestToppings();
-                
-                var inputPizza = Console.ReadLine().Split();              
-                var inputDough = Console.ReadLine().Split();
+                /*Pizza Meatless
+                Dough Wholegrain Crispy 100
+                Topping Veggies 50
+                Topping Cheese 50
+                END
+                */
+                var inputPizza = Console.ReadLine().Split(' ');
+                Pizza pizza = new Pizza(inputPizza[1]);
 
-                var dough = new Dough(inputDough[1], inputDough[2], double.Parse(inputDough[3]));
+                var inputDough = Console.ReadLine().Split(' ');
+                pizza.Dough = new Dough(inputDough[1], inputDough[2], double.Parse(inputDough[3]));
 
-                //Create Pizza with NO toppings                
-                Pizza pizza = new Pizza(inputPizza[1], dough);              
-
-                //Loop for toppings                                                                             
-                while (true)
+                var inputTopping = Console.ReadLine();
+                while (inputTopping.ToLower()!="end")
                 {
-                    var inputTopping = Console.ReadLine();
-                    if (inputTopping== "END")
-                    {
-                        break;
-                    }
-                    //add topping to pizza
-                    var data = inputTopping.Split();
-                    //data[0] is Topping by default, create dought with data[1] type, and data[2] weight
-                    var newTopping = new Topping(data[1], double.Parse(data[2]));
-                    pizza.AddTopping(newTopping);                    
+                    var input = inputTopping.Split(' ');
+                    Topping newTopping = new Topping(input[1], double.Parse(input[2]));
+                    pizza.AddTopping(newTopping);
+                    inputTopping = Console.ReadLine();
                 }
 
-                Console.WriteLine(pizza.ToString());
+                Console.WriteLine(pizza);
 
             }
-            catch (ArgumentException ex)
+            catch (Exception e)
             {
-                Console.WriteLine(ex.Message);                
+                Console.WriteLine(e.Message);
             }
-
+            
         }
-
-        //test methods
-        public static void TestDough()
-        {
-            var data = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).ToArray();            
-            var dough = new Dough(data[1], data[2], int.Parse(data[3]));
-            Console.WriteLine(dough.CaloriesPerGram());                        
-        }
-
-        public static void TestToppings()
-        {
-            var data = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).ToArray();            
-            var topping = new Topping(data[1], int.Parse(data[2]));
-            Console.WriteLine(topping.CaloriesPerGram());            
-        }
-
     }
 }
