@@ -2,14 +2,13 @@
 
 namespace Ex01ClassBoxData
 {
-    public class Program
+    public class StartUp
     {
         static void Main()
         {
             var lenght = double.Parse(Console.ReadLine());
             var width = double.Parse(Console.ReadLine());
-            var height = double.Parse(Console.ReadLine());
-            var errors = string.Empty;
+            var height = double.Parse(Console.ReadLine());            
 
             try
             {

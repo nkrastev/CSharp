@@ -25,10 +25,7 @@ namespace Ex01ClassBoxData
             get => this.length;
             private set 
             {
-                if (value<=0)
-                {
-                    throw new ArgumentException("Length cannot be zero or negative.");
-                }
+                this.CheckAndThrowExeption(value, "Length");
                 this.length = value;
             } 
         }
@@ -37,10 +34,7 @@ namespace Ex01ClassBoxData
              get => this.width;
              private set
              {
-                if (value <= 0)
-                {
-                    throw new ArgumentException("Width cannot be zero or negative.");
-                }
+                this.CheckAndThrowExeption(value, "Width");                
                 this.width = value;
             }
         }
@@ -49,13 +43,11 @@ namespace Ex01ClassBoxData
             get => this.height;
             private set
             {
-                if (value <= 0)
-                {
-                    throw new ArgumentException("Height cannot be zero or negative.");
-                }
+                this.CheckAndThrowExeption(value, "Height");
                 this.height = value;
             }
         }
+        
 
         //methods
         public double SurfaceArea() => (2 * this.Length * this.Width) + (2 * this.Length * this.Height) + (2 * this.Width * this.Height);
@@ -63,6 +55,14 @@ namespace Ex01ClassBoxData
         public double Lateral() => (2 * this.Length * this.Height + 2 * this.Width* this.Height);
 
         public double Volume() => (this.Length * this.Width * this.Height);
+
+        private void CheckAndThrowExeption(double value, string parameter)
+        {
+            if (value<=0)
+            {
+                throw new ArgumentException($"{parameter} cannot be zero or negative.");
+            }
+        }
 
 
 
