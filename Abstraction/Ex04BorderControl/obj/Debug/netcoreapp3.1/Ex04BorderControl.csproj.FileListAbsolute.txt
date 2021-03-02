@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex04BorderControl\bin\Debug\netcoreapp3.1\Ex04BorderControl.exe
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex04BorderControl\bin\Debug\netcoreapp3.1\Ex04BorderControl.deps.json
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex04BorderControl\bin\Debug\netcoreapp3.1\Ex04BorderControl.runtimeconfig.json
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex04BorderControl\bin\Debug\netcoreapp3.1\Ex04BorderControl.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex04BorderControl\bin\Debug\netcoreapp3.1\Ex04BorderControl.dll
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex04BorderControl\bin\Debug\netcoreapp3.1\Ex04BorderControl.pdb
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex04BorderControl\obj\Debug\netcoreapp3.1\Ex04BorderControl.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex04BorderControl\obj\Debug\netcoreapp3.1\Ex04BorderControl.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex04BorderControl\obj\Debug\netcoreapp3.1\Ex04BorderControl.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex04BorderControl\obj\Debug\netcoreapp3.1\Ex04BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex04BorderControl\obj\Debug\netcoreapp3.1\Ex04BorderControl.dll
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex04BorderControl\obj\Debug\netcoreapp3.1\Ex04BorderControl.pdb
+C:\Users\Nikolay\source\repos\InterfacesAndAbstraction\Ex04BorderControl\obj\Debug\netcoreapp3.1\Ex04BorderControl.genruntimeconfig.cache
