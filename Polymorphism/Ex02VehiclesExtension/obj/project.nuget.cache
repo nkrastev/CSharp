@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lfZpyTamwBXhsnyEnhT/G0LSdBz/mRBLkf97JHvxQQDelpdSKOCKEmwdahOwByWOOd+UF7WZLX32V/uBKT97WA==",
+  "dgSpecHash": "M7WZgg1dL7b3LqtLB73EWJuzJpjRIeHwnByc1Nk5I5C1EY4CO7XSGLR4LRYd0KcL5SGQsElLcX0DHtVae4w1xg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nikolay\\source\\repos\\Polymorphism\\Ex02VehiclesExtension\\Ex02VehiclesExtension.csproj",
+  "projectFilePath": "C:\\Users\\Nikolay\\source\\GITHUB\\CSharp-Advanced\\Polymorphism\\Ex02VehiclesExtension\\Ex02VehiclesExtension.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
