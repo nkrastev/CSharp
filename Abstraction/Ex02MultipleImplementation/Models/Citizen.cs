@@ -14,9 +14,9 @@
             this.Id = id;
             this.Birthdate = birthday;
         }
-        public string Name { get => this.name; set => this.name = value; }
-        public int Age { get => this.age; set => this.age=value; }
-        public string Birthdate { get => this.birthdate; set => this.birthdate = value; }
-        public string Id { get => this.id; set => this.id = value; }
+        public string Name      { get => this.name; private set => this.name = value; }
+        public int Age          { get => this.age; private set => this.age=value; }
+        public string Birthdate { get => this.birthdate; private set => this.birthdate = value; }
+        public string Id        { get => this.id; private set => this.id = value; }
     }
 }
