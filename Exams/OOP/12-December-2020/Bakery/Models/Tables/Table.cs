@@ -78,7 +78,7 @@ namespace Bakery.Models.Tables
         }
         
 
-        public decimal Price => foodOrders.Sum(x => x.Price) + drinkOrders.Sum(x => x.Price) + this.PricePerPerson*this.NumberOfPeople;
+        public decimal Price => foodOrders.Sum(x => x.Price) + drinkOrders.Sum(x => x.Price)+this.NumberOfPeople* this.PricePerPerson;
 
 
         public void Clear()
