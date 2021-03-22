@@ -8,43 +8,49 @@ namespace EasterRaces.Models.Drivers.Entities
 {
     public class Driver : IDriver
     {
+        private string name;
+        private ICar car;
+        private int numberOfWins;
+        private bool canParticipate;
+
 
         public Driver(string name)
         {
-            this.Name = name;
+            this.Name = name;         
+           
         }
 
         public string Name
         {
-            get => this.Name;
+            get => this.name;
             private set
             {
                 if (string.IsNullOrWhiteSpace(value) || value.Length < 5)
                 {
-                    throw new ArgumentException($"Name {this.Name} cannot be less than 5 symbols.");
+                    throw new ArgumentException($"Name {this.name} cannot be less than 5 symbols.");
                 }
-                this.Name = value;
+                this.name = value;
             }
         }
 
         public ICar Car
         {
-            get => this.Car;
-            private set => this.Car = value;
+            get => this.car;
+            private set => this.car = value;
         }
 
         public int NumberOfWins
         {
-            get => this.NumberOfWins;
-            private set => this.NumberOfWins = value;
+            get => this.numberOfWins;
+            private set => this.numberOfWins = value;
         }
 
         public bool CanParticipate
         {
-            get => this.CanParticipate;
+            get => this.canParticipate;
             private set
             {
-                this.CanParticipate = false;
+                this.canParticipate = false;
                 //if (this.Car!=null)
                 //{
                 //    this.CanParticipate = false;

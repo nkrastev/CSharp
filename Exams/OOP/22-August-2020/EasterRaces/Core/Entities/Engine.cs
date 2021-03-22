@@ -10,6 +10,8 @@ namespace EasterRaces.Core.Entities
         private readonly IReader reader;
         private readonly IWriter writer;
 
+        
+
         public Engine(IChampionshipController championshipController, IReader reader, IWriter writer)
         {
             this.controller = championshipController;
