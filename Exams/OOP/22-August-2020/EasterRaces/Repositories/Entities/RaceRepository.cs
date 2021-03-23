@@ -10,6 +10,10 @@ namespace EasterRaces.Repositories.Entities
     public class RaceRepository : IRepository<IRace>
     {
         private List<IRace> raceRepository;
+        public RaceRepository()
+        {
+            this.raceRepository = new List<IRace>();
+        }
         public void Add(IRace model)
         {
             raceRepository.Add(model);

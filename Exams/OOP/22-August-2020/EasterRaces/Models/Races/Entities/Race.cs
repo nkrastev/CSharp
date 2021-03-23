@@ -11,6 +11,8 @@ namespace EasterRaces.Models.Races.Entities
     public class Race : IRace
     {
         private List<IDriver> drivers;
+        private string name;
+        private int laps;
 
         public Race(string name, int laps)
         {
@@ -20,27 +22,27 @@ namespace EasterRaces.Models.Races.Entities
         }
         public string Name
         {
-            get => this.Name;
+            get => this.name;
             private set
             {
                 if (string.IsNullOrWhiteSpace(value) || value.Length < 5)
                 {
                     throw new ArgumentException($"Name {this.Name} cannot be less than 5 symbols.");
                 }
-                this.Name = value;
+                this.name = value;
             }
         }
 
         public int Laps
         {
-            get => this.Laps;
+            get => this.laps;
             private set
             {
                 if (value<1)
                 {
                     throw new ArgumentException("Laps cannot be less than 1.");
                 }
-                this.Laps = value;
+                this.laps = value;
             }
         }
 

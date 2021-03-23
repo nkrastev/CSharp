@@ -9,6 +9,10 @@ namespace EasterRaces.Repositories.Contracts
     public class CarRepository : IRepository<ICar>
     {
         private List<ICar> carsRepository;
+        public CarRepository()
+        {
+            this.carsRepository = new List<ICar>();
+        }
         public void Add(ICar model)
         {
             carsRepository.Add(model);

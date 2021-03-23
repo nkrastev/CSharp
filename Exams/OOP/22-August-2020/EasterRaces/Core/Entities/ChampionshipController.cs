@@ -68,12 +68,13 @@ namespace EasterRaces.Core
             ICar car = null;
             if (type== "Muscle")
             {
-                car = new MuscleCar(model, horsePower);
+                car = new MuscleCar(model, horsePower);                
             }
             if (type== "Sports")
             {
                 car = new SportsCar(model, horsePower);
             }
+            carsRepository.Add(car);
             return $"{car.GetType().Name} {model} is created.";
         }
 
