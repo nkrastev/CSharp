@@ -50,15 +50,15 @@ namespace EasterRaces.Models.Drivers.Entities
             get => this.canParticipate;
             private set
             {
-                this.canParticipate = false;
-                //if (this.Car!=null)
-                //{
-                //    this.CanParticipate = false;
-                //}
-                //else
-                //{
-                //    this.CanParticipate = true;
-                //}
+                //this.canParticipate = false;
+                if (this.car != null)
+                {
+                    this.canParticipate = false;
+                }
+                else
+                {
+                    this.canParticipate = true;
+                }
             }
         }
 
@@ -69,7 +69,7 @@ namespace EasterRaces.Models.Drivers.Entities
                 throw new ArgumentException("Car cannot be null.");
             }
             this.Car = car;
-            this.CanParticipate = true;
+            this.canParticipate = true;
         }
 
         public void WinRace()

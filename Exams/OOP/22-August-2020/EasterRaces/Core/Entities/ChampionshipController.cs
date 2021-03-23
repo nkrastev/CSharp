@@ -40,16 +40,17 @@ namespace EasterRaces.Core
             IDriver driver = driversRepository.GetByName(driverName);
             ICar car = carsRepository.GetByName(carModel);
             driver.AddCar(car);
+            
             return $"Driver {driverName} received car {carModel}.";
         }
 
         public string AddDriverToRace(string raceName, string driverName)
         {
-            if (raceRepository.GetByName(raceName)!=null)
+            if (raceRepository.GetByName(raceName)==null)
             {
                 throw new InvalidOperationException($"Race {raceName} could not be found.");
             }
-            if (driversRepository.GetByName(driverName)!= null)
+            if (driversRepository.GetByName(driverName)== null)
             {
                 throw new InvalidOperationException($"Driver {driverName} could not be found.");
             }
@@ -91,17 +92,18 @@ namespace EasterRaces.Core
 
         public string CreateRace(string name, int laps)
         {
+            IRace race = new Race(name, laps);
             if (raceRepository.GetByName(name)!=null)
             {
                 throw new InvalidOperationException($"Race {name} is already create.");
-            }
-            raceRepository.Add(new Race(name, laps));
+            }            
+            raceRepository.Add(race);
             return $"Race {name} is created.";
         }
 
         public string StartRace(string raceName)
         {
-            if (raceRepository.GetByName(raceName)!=null)
+            if (raceRepository.GetByName(raceName)==null)
             {
                 throw new InvalidOperationException($"Race {raceName} could not be found.");
             }
