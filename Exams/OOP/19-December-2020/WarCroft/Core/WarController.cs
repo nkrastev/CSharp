@@ -65,7 +65,7 @@ namespace WarCroft.Core
 		public string PickUpItem(string[] args)
 		{
 			string characterName = args[0];
-            if (party.Any(x=>x.Name==characterName))
+            if (!party.Any(x=>x.Name==characterName))
             {
 				throw new ArgumentException($"Character {characterName} not found!");
             }
@@ -85,7 +85,7 @@ namespace WarCroft.Core
 			string characterName = args[0];
 			string itemName = args[1];
 			//Makes the character with that name use an item with that name from their bag.
-			if (party.Any(x => x.Name == characterName))
+			if (!party.Any(x => x.Name == characterName))
 			{
 				throw new ArgumentException($"Character {characterName} not found!");
 			}
@@ -122,11 +122,11 @@ namespace WarCroft.Core
 			string attackerName = args[0];
 			string receiverName = args[1];
 			//Makes the attacker attack the receiver.
-			if (party.Any(x => x.Name == attackerName))
+			if (!party.Any(x => x.Name == attackerName))
 			{
 				throw new ArgumentException($"Character {attackerName} not found!");
 			}
-			if (party.Any(x => x.Name == receiverName))
+			if (!party.Any(x => x.Name == receiverName))
 			{
 				throw new ArgumentException($"Character {receiverName} not found!");
 			}
@@ -139,6 +139,7 @@ namespace WarCroft.Core
 			}
 			//attacher is Warrior
 			Warrior warrior = (Warrior)attacker;
+			
 			warrior.Attack(receiver);
 
 			StringBuilder sb = new StringBuilder();
@@ -156,11 +157,11 @@ namespace WarCroft.Core
 			string healerName = args[0];
 			string healingReceiverName = args[1];
 			
-			if (party.Any(x => x.Name == healerName))
+			if (!party.Any(x => x.Name == healerName))
 			{
 				throw new ArgumentException($"Character {healerName} not found!");
 			}
-			if (party.Any(x => x.Name == healingReceiverName))
+			if (!party.Any(x => x.Name == healingReceiverName))
 			{
 				throw new ArgumentException($"Character {healingReceiverName} not found!");
 			}

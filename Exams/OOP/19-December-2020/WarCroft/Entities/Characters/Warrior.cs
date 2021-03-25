@@ -21,10 +21,12 @@ namespace WarCroft.Entities.Characters
             {
                 throw new InvalidOperationException("Cannot attack self!");
             }
-            if (this.IsAlive && character.IsAlive)
+            if (!this.IsAlive || !character.IsAlive)
             {
-                character.TakeDamage(this.AbilityPoints);
+                throw new InvalidOperationException("Must be alive to perform this action!");
             }
+            character.TakeDamage(this.AbilityPoints);
+            
 
         }
     }

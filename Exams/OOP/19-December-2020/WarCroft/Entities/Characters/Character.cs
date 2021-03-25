@@ -112,6 +112,7 @@ namespace WarCroft.Entities.Characters.Contracts
                 }
                 else
                 {
+                    this.health = 0;
                     this.IsAlive = false;
                 }
             }
