@@ -74,7 +74,7 @@ namespace WarCroft.Core
 				throw new InvalidOperationException("No items left in pool!");
             }
 			Item lastItem = pool[pool.Count - 1];
-			Character character = party.Where(x => x.Name == characterName).FirstOrDefault();
+			Character character = party.FirstOrDefault(x => x.Name == characterName);
 			character.Bag.AddItem(lastItem);
 			pool.RemoveAt(pool.Count - 1);
 			return $"{characterName} picked up {pool[pool.Count-1].GetType().Name}!";
@@ -89,7 +89,7 @@ namespace WarCroft.Core
 			{
 				throw new ArgumentException($"Character {characterName} not found!");
 			}
-			Character character = party.Where(x => x.Name == characterName).FirstOrDefault();
+			Character character = party.FirstOrDefault(x => x.Name == characterName);
 			Item itemInTheBag = character.Bag.GetItem(itemName);
 			character.UseItem(itemInTheBag);
 			//if it use Item remove it from the bag???
@@ -130,8 +130,8 @@ namespace WarCroft.Core
 			{
 				throw new ArgumentException($"Character {receiverName} not found!");
 			}
-			Character attacker = party.Where(x => x.Name == attackerName).FirstOrDefault();
-			Character receiver = party.Where(x => x.Name == receiverName).FirstOrDefault();
+			Character attacker = party.FirstOrDefault(x => x.Name == attackerName);
+			Character receiver = party.FirstOrDefault(x => x.Name == receiverName);
 			
             if (attacker.GetType().Name != "Warrior")
             {
@@ -165,8 +165,8 @@ namespace WarCroft.Core
 			{
 				throw new ArgumentException($"Character {healingReceiverName} not found!");
 			}
-			Character healer = party.Where(x => x.Name == healerName).FirstOrDefault();
-			Character receiver = party.Where(x => x.Name == healingReceiverName).FirstOrDefault();
+			Character healer = party.FirstOrDefault(x => x.Name == healerName);
+			Character receiver = party.FirstOrDefault(x => x.Name == healingReceiverName);
 
 			if (healer.GetType().Name != "Priest")
 			{

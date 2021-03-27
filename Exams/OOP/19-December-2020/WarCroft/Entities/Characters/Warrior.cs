@@ -25,9 +25,7 @@ namespace WarCroft.Entities.Characters
             {
                 throw new InvalidOperationException("Must be alive to perform this action!");
             }
-            character.TakeDamage(this.AbilityPoints);
-            
-
+            character.TakeDamage(this.AbilityPoints);         
         }
     }
 }
