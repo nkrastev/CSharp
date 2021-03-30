@@ -1,0 +1,10 @@
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\ParkingSystem\.vs\ParkingSystem\v16\lut\0\b\ParkingSystem\Debug\netcoreapp3.1\ParkingSystem.exe
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\ParkingSystem\.vs\ParkingSystem\v16\lut\0\b\ParkingSystem\Debug\netcoreapp3.1\ParkingSystem.deps.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\ParkingSystem\.vs\ParkingSystem\v16\lut\0\b\ParkingSystem\Debug\netcoreapp3.1\ParkingSystem.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\ParkingSystem\.vs\ParkingSystem\v16\lut\0\b\ParkingSystem\Debug\netcoreapp3.1\ParkingSystem.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\ParkingSystem\.vs\ParkingSystem\v16\lut\0\b\ParkingSystem\Debug\netcoreapp3.1\ParkingSystem.dll
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\ParkingSystem\.vs\ParkingSystem\v16\lut\0\i\ParkingSystem\Debug\netcoreapp3.1\ParkingSystem.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\ParkingSystem\.vs\ParkingSystem\v16\lut\0\i\ParkingSystem\Debug\netcoreapp3.1\ParkingSystem.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\ParkingSystem\.vs\ParkingSystem\v16\lut\0\i\ParkingSystem\Debug\netcoreapp3.1\ParkingSystem.csproj.CopyComplete
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\ParkingSystem\.vs\ParkingSystem\v16\lut\0\i\ParkingSystem\Debug\netcoreapp3.1\ParkingSystem.dll
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\ParkingSystem\.vs\ParkingSystem\v16\lut\0\i\ParkingSystem\Debug\netcoreapp3.1\ParkingSystem.genruntimeconfig.cache
