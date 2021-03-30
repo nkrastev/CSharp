@@ -10,7 +10,7 @@ namespace EasterRaces.Models.Races.Entities
 {
     public class Race : IRace
     {
-        private List<IDriver> drivers;
+        private readonly List<IDriver> drivers;
         private string name;
         private int laps;
 

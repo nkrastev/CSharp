@@ -25,12 +25,12 @@ namespace EasterRaces.Repositories.Contracts
 
         public ICar GetByName(string name)
         {
-            return this.carsRepository.Where(x => x.Model == name).FirstOrDefault();
+            return this.carsRepository.FirstOrDefault(x => x.Model == name);
         }
 
         public bool Remove(ICar model)
         {
-            var isThereEntityForRemove = this.carsRepository.Where(x => x.Model == model.Model).FirstOrDefault();
+            var isThereEntityForRemove = this.carsRepository.FirstOrDefault(x => x.Model == model.Model);
 
             if (isThereEntityForRemove!=null)
             {

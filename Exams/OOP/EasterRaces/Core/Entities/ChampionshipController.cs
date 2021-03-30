@@ -7,6 +7,7 @@ using EasterRaces.Models.Races.Contracts;
 using EasterRaces.Models.Races.Entities;
 using EasterRaces.Repositories.Contracts;
 using EasterRaces.Repositories.Entities;
+using EasterRaces.Utilities.Messages;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,9 +17,9 @@ namespace EasterRaces.Core
 {
     public class ChampionshipController : IChampionshipController
     {
-        private DriverRepository driversRepository;
-        private CarRepository carsRepository;
-        private RaceRepository raceRepository;
+        private readonly DriverRepository driversRepository;
+        private readonly CarRepository carsRepository;
+        private readonly RaceRepository raceRepository;
 
         public ChampionshipController()
         {
@@ -54,6 +55,7 @@ namespace EasterRaces.Core
             {
                 throw new InvalidOperationException($"Driver {driverName} could not be found.");
             }
+           
             IDriver driver = driversRepository.GetByName(driverName);
             IRace race = raceRepository.GetByName(raceName);
             race.AddDriver(driver);
@@ -113,16 +115,14 @@ namespace EasterRaces.Core
                 throw new InvalidOperationException($"Race {raceName} cannot start with less than 3 participants.");
             }
             var allDrivers = driversRepository.GetAll().OrderByDescending(x => x.Car.CalculateRacePoints(currentRace.Laps)).Take(3).ToList();
-            
-            //IDriver first = allDrivers.Take(1).ToList();
-            //var second = allDrivers.Take(2);
-            //var third = allDrivers.Take(3);
-
+        
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine($"Driver {allDrivers[0].Name} wins {raceName} race.");
             sb.AppendLine($"Driver {allDrivers[1].Name} is second in {raceName} race.");
             sb.AppendLine($"Driver {allDrivers[2].Name} is third in {raceName} race.");
+
+            raceRepository.Remove(currentRace);
 
             return sb.ToString().TrimEnd();
             

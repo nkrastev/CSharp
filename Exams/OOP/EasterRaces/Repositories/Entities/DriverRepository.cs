@@ -27,12 +27,12 @@ namespace EasterRaces.Repositories.Entities
 
         public IDriver GetByName(string name)
         {
-            return this.driversRepository.Where(x => x.Name == name).FirstOrDefault();
+            return this.driversRepository.FirstOrDefault(x => x.Name == name);
         }
 
         public bool Remove(IDriver model)
         {
-            var isThereEntityForRemove = this.driversRepository.Where(x => x.Name == model.Name).FirstOrDefault();
+            var isThereEntityForRemove = this.driversRepository.FirstOrDefault(x => x.Name == model.Name);
 
             if (isThereEntityForRemove != null)
             {

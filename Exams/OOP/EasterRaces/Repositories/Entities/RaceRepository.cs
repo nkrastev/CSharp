@@ -26,12 +26,12 @@ namespace EasterRaces.Repositories.Entities
 
         public IRace GetByName(string name)
         {
-            return this.raceRepository.Where(x => x.Name == name).FirstOrDefault();
+            return this.raceRepository.FirstOrDefault(x => x.Name == name);
         }
 
         public bool Remove(IRace model)
         {
-            var isThereEntityForRemove = this.raceRepository.Where(x => x.Name == model.Name).FirstOrDefault();
+            var isThereEntityForRemove = this.raceRepository.FirstOrDefault(x => x.Name == model.Name);
 
             if (isThereEntityForRemove != null)
             {
