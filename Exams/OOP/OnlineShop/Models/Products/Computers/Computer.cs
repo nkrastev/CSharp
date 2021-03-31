@@ -40,17 +40,24 @@ namespace OnlineShop.Models.Products.Computers
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"Overall Performance: {this.OverallPerformance}. Price: {this.Price} - {this.GetType().Name}: {this.Manufacturer} {this.Model} (Id: {this.Id})");
+            sb.AppendLine($"Overall Performance: {this.OverallPerformance:F2}. Price: {this.Price:F2} - {this.GetType().Name}: {this.Manufacturer} {this.Model} (Id: {this.Id})");
             sb.AppendLine($" Components ({this.components.Count}):");
+            
             foreach (var item in this.components)
             {
-                sb.AppendLine($"  {item.GetType().Name}");
+                sb.AppendLine($"  {item.ToString()}");
             }
-            sb.AppendLine($" Peripherals ({this.peripherals.Count}); Average Overall Performance ({this.peripherals.Sum(x => x.OverallPerformance) / this.peripherals.Count * 1.0}):");
+
+            //if there are no peripherals division by 0
+            double overrallP = this.peripherals.Any() ? this.Peripherals.Average(p => p.OverallPerformance) : 0;
+
+            sb.AppendLine($" Peripherals ({this.peripherals.Count}); Average Overall Performance ({overrallP:F2}):");
+
             foreach (var item in this.peripherals)
             {
-                sb.AppendLine($"  {item.GetType().Name}");
+                sb.AppendLine($"  {item.ToString()}");
             }
+
             return sb.ToString().TrimEnd();
         }
 
@@ -62,7 +69,7 @@ namespace OnlineShop.Models.Products.Computers
         {            
             if (this.components.Any(x=>x.GetType().Name==component.GetType().Name))
             {
-                throw new ArgumentException((string.Format(ExceptionMessages.ExistingComponent, component.GetType().Name, this.GetType().Name, this.Id));
+                throw new ArgumentException((string.Format(ExceptionMessages.ExistingComponent, component.GetType().Name, this.GetType().Name, this.Id)));
             }
             this.components.Add(component);
         }

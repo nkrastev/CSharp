@@ -11,6 +11,6 @@ namespace OnlineShop.Models.Products.Components
         {
             
         }
-        public override double OverallPerformance => base.OverallPerformance * 1.25;
+        public override double OverallPerformance => base.OverallPerformance * 1.15;
     }
 }

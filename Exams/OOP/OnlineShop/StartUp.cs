@@ -15,7 +15,8 @@ namespace OnlineShop
             IReader reader = new ConsoleReader();
             IWriter writer = new ConsoleWriter();
             ICommandInterpreter commandInterpreter = new CommandInterpreter();
-            IController controller = null; //new Controller();
+            IController controller = new Controller();
+            //IController controller = null; //new Controller(); Whats The Idea of setting NULL?!?@ 
 
             IEngine engine = new Engine(reader, writer, commandInterpreter, controller);
             engine.Run();

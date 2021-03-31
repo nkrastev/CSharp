@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OnlineShop.Common.Constants;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -22,7 +23,7 @@ namespace OnlineShop.Models.Products.Peripherals
 
         public override string ToString()
         {
-            return base.ToString()+$" Connection Type: {this.ConnectionType}";
+            return base.ToString() + string.Format(SuccessMessages.PeripheralToString, ConnectionType);
         }
     }
 }
