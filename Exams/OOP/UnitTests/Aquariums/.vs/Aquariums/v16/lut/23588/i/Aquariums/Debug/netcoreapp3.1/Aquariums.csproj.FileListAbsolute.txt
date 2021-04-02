@@ -1,0 +1,10 @@
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\b\Aquariums\Debug\netcoreapp3.1\Aquariums.exe
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\b\Aquariums\Debug\netcoreapp3.1\Aquariums.deps.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\b\Aquariums\Debug\netcoreapp3.1\Aquariums.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\b\Aquariums\Debug\netcoreapp3.1\Aquariums.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\b\Aquariums\Debug\netcoreapp3.1\Aquariums.dll
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.1\Aquariums.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.1\Aquariums.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.1\Aquariums.csproj.CopyComplete
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.1\Aquariums.dll
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\i\Aquariums\Debug\netcoreapp3.1\Aquariums.genruntimeconfig.cache

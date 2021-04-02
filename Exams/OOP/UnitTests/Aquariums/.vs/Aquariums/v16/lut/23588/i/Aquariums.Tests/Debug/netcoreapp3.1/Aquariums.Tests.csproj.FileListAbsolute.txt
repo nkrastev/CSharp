@@ -1,0 +1,17 @@
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.1\Aquariums.deps.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.1\Aquariums.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.1\Aquariums.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.1\Aquariums.exe
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.1\Aquariums.Tests.deps.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.1\Aquariums.Tests.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.1\Aquariums.Tests.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\b\Aquariums.Tests\Debug\netcoreapp3.1\Aquariums.Tests.dll
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.1\Aquariums.Tests.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.1\Aquariums.Tests.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.1\Aquariums.Tests.csproj.CopyComplete
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.1\Aquariums.Tests.dll
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Aquariums\.vs\Aquariums\v16\lut\0\i\Aquariums.Tests\Debug\netcoreapp3.1\Aquariums.Tests.genruntimeconfig.cache
