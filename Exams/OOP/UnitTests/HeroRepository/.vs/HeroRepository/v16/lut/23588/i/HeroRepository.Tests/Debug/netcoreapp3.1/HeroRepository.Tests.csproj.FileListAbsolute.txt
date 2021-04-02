@@ -1,0 +1,17 @@
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\HeroRepository\.vs\HeroRepository\v16\lut\0\b\HeroRepository.Tests\Debug\netcoreapp3.1\HeroRepository.deps.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\HeroRepository\.vs\HeroRepository\v16\lut\0\b\HeroRepository.Tests\Debug\netcoreapp3.1\HeroRepository.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\HeroRepository\.vs\HeroRepository\v16\lut\0\b\HeroRepository.Tests\Debug\netcoreapp3.1\HeroRepository.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\HeroRepository\.vs\HeroRepository\v16\lut\0\b\HeroRepository.Tests\Debug\netcoreapp3.1\HeroRepository.exe
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\HeroRepository\.vs\HeroRepository\v16\lut\0\b\HeroRepository.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\HeroRepository\.vs\HeroRepository\v16\lut\0\b\HeroRepository.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\HeroRepository\.vs\HeroRepository\v16\lut\0\b\HeroRepository.Tests\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\HeroRepository\.vs\HeroRepository\v16\lut\0\b\HeroRepository.Tests\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\HeroRepository\.vs\HeroRepository\v16\lut\0\b\HeroRepository.Tests\Debug\netcoreapp3.1\HeroRepository.Tests.deps.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\HeroRepository\.vs\HeroRepository\v16\lut\0\b\HeroRepository.Tests\Debug\netcoreapp3.1\HeroRepository.Tests.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\HeroRepository\.vs\HeroRepository\v16\lut\0\b\HeroRepository.Tests\Debug\netcoreapp3.1\HeroRepository.Tests.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\HeroRepository\.vs\HeroRepository\v16\lut\0\b\HeroRepository.Tests\Debug\netcoreapp3.1\HeroRepository.Tests.dll
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\HeroRepository\.vs\HeroRepository\v16\lut\0\i\HeroRepository.Tests\Debug\netcoreapp3.1\HeroRepository.Tests.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\HeroRepository\.vs\HeroRepository\v16\lut\0\i\HeroRepository.Tests\Debug\netcoreapp3.1\HeroRepository.Tests.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\HeroRepository\.vs\HeroRepository\v16\lut\0\i\HeroRepository.Tests\Debug\netcoreapp3.1\HeroRepository.Tests.csproj.CopyComplete
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\HeroRepository\.vs\HeroRepository\v16\lut\0\i\HeroRepository.Tests\Debug\netcoreapp3.1\HeroRepository.Tests.dll
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\HeroRepository\.vs\HeroRepository\v16\lut\0\i\HeroRepository.Tests\Debug\netcoreapp3.1\HeroRepository.Tests.genruntimeconfig.cache
