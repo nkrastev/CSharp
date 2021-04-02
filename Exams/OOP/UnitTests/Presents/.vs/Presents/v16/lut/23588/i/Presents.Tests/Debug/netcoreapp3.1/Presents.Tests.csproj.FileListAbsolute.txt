@@ -1,0 +1,17 @@
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.1\Presents.deps.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.1\Presents.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.1\Presents.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.1\Presents.exe
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.1\Presents.Tests.deps.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.1\Presents.Tests.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.1\Presents.Tests.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\b\Presents.Tests\Debug\netcoreapp3.1\Presents.Tests.dll
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\i\Presents.Tests\Debug\netcoreapp3.1\Presents.Tests.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\i\Presents.Tests\Debug\netcoreapp3.1\Presents.Tests.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\i\Presents.Tests\Debug\netcoreapp3.1\Presents.Tests.csproj.CopyComplete
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\i\Presents.Tests\Debug\netcoreapp3.1\Presents.Tests.dll
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\i\Presents.Tests\Debug\netcoreapp3.1\Presents.Tests.genruntimeconfig.cache

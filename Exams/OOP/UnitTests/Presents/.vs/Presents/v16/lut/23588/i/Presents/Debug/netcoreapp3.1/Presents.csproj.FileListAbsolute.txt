@@ -1,0 +1,10 @@
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\b\Presents\Debug\netcoreapp3.1\Presents.exe
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\b\Presents\Debug\netcoreapp3.1\Presents.deps.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\b\Presents\Debug\netcoreapp3.1\Presents.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\b\Presents\Debug\netcoreapp3.1\Presents.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\b\Presents\Debug\netcoreapp3.1\Presents.dll
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\i\Presents\Debug\netcoreapp3.1\Presents.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\i\Presents\Debug\netcoreapp3.1\Presents.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\i\Presents\Debug\netcoreapp3.1\Presents.csproj.CopyComplete
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\i\Presents\Debug\netcoreapp3.1\Presents.dll
+C:\Users\Nikolay\source\repos\Exams-OOP\UnitTests\Presents\.vs\Presents\v16\lut\0\i\Presents\Debug\netcoreapp3.1\Presents.genruntimeconfig.cache
