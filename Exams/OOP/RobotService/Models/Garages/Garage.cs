@@ -7,7 +7,7 @@ using System.Text;
 
 namespace RobotService.Models.Garages
 {
-    public abstract class Garage : IGarage
+    public class Garage : IGarage
     {        
         private readonly Dictionary<string, IRobot> robots;
         private int capacity;
@@ -30,7 +30,7 @@ namespace RobotService.Models.Garages
         {           
             if (this.Capacity>=10)
             {
-                throw new ArgumentException("Not enough capacity");
+                throw new InvalidOperationException("Not enough capacity");
             }
             if (this.robots.Any(x=>x.Key==robot.Name))
             {
