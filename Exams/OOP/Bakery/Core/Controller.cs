@@ -58,7 +58,7 @@ namespace Bakery.Core
         {
             if (type!="Cake" && type!="Bread" )
             {
-                throw new ArgumentException("Deeba");
+                throw new ArgumentException("No need of current check");
             }
             BakedFood food = null;
 
@@ -79,7 +79,7 @@ namespace Bakery.Core
         {
             if (type != "InsideTable" && type != "OutsideTable")
             {
-                throw new ArgumentException();
+                throw new ArgumentException("No need of current check");
             }
             Table table = null;
            
