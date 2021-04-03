@@ -63,7 +63,7 @@ namespace CounterStrike.Models.Players
 
         public IGun Gun
         {
-            get => this.Gun;
+            get => this.gun;
             private set
             {
                 if (value==null)
@@ -79,7 +79,7 @@ namespace CounterStrike.Models.Players
             get => this.isAlive;
             private set
             {
-                if (this.Health<0)
+                if (this.Health<=0)
                 {
                     this.isAlive = false;
                 }
@@ -94,23 +94,23 @@ namespace CounterStrike.Models.Players
         {
             /*The TakeDamage() method decreases the Player's health. First you need to reduce the armor. 
             If the armor reaches 0, transfer the damage to health points. If the health points are less than or equal to zero, the player is dead. */
-            if (this.armor>=points)
+            if (this.Armor>=points)
             {
-                this.armor -= points;
+                this.Armor -= points;
             }
-            else if (this.armor<points)
+            else if (this.Armor<points)
             {
-                points -= this.armor;
-                this.armor = 0;
+                points -= this.Armor;
+                this.Armor = 0;
 
-                if (this.health>points)
+                if (this.Health>points)
                 {
-                    this.health -= points;
+                    this.Health -= points;
                 }
                 else
                 {
-                    this.health = 0;
-                    this.isAlive = false;
+                    this.Health = 0;
+                    this.IsAlive = false;
                 }
 
             }

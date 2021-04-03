@@ -11,6 +11,9 @@ namespace CounterStrike.Models.Maps
     {
         public string Start(ICollection<IPlayer> players)
         {
+            //TODO test why players do not take damage!!!
+
+
             var terrorists = players.Where(x => x.GetType().Name == "Terrorist").ToList();
             var counterTerrorists = players.Where(x => x.GetType().Name == "CounterTerrorist").ToList();
 
@@ -21,7 +24,7 @@ namespace CounterStrike.Models.Maps
                 {
                     foreach (var counterTerrorist in counterTerrorists.Where(x => x.IsAlive))
                     {
-                        counterTerrorist.TakeDamage(terrorist.Gun.Fire());
+                        counterTerrorist.TakeDamage(terrorist.Gun.Fire());                        
                     }
                 }
 

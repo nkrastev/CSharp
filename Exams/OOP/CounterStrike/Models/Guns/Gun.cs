@@ -38,7 +38,7 @@ namespace CounterStrike.Models.Guns
                 {
                     throw new ArgumentException("Bullets cannot be below 0.");
                 }
-                this.BulletsCount = value;
+                this.bulletsCount = value;
             }
         }
 
