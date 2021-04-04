@@ -1,4 +1,5 @@
 ﻿using SantaWorkshop.Models.Dwarfs;
+using SantaWorkshop.Models.Dwarfs.Contracts;
 using SantaWorkshop.Repositories.Contracts;
 using System;
 using System.Collections.Generic;
@@ -16,7 +17,7 @@ namespace SantaWorkshop.Repositories
             this.models = new List<Dwarf>();
         }
 
-        public IReadOnlyCollection<Dwarf> Models => this.models.AsReadOnly();
+        public IReadOnlyCollection<Dwarf> Models => this.models.AsReadOnly();        
 
         public void Add(Dwarf model)
         {

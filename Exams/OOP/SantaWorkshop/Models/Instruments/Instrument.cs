@@ -19,23 +19,17 @@ namespace SantaWorkshop.Models.Instruments
             get => power;
             private set
             {
-                if (value<0)
+                if (value < 0)
                 {
-                    this.power = 0;
+                    value = 0;
                 }
-                else
-                {
-                    this.power = value;
-                }
+                this.power = value;
 
             }
         }
 
         public bool IsBroken() => this.Power == 0;
 
-        public void Use()
-        {
-            this.Power -= 10;            
-        }
+        public void Use() => this.Power -= 10;   
     }
 }

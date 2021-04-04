@@ -34,8 +34,7 @@ namespace SantaWorkshop.Models.Dwarfs
         }
 
         public int Energy
-        {
-            //TODO CHECK Property for possible errors
+        {            
             get => energy;
             protected set
             {
@@ -43,14 +42,11 @@ namespace SantaWorkshop.Models.Dwarfs
                 {
                     this.energy = 0;
                 }
-                else
-                {
-                    this.energy = value;
-                }                
+                this.energy = value;
             }
         }
 
-        public ICollection<IInstrument> Instruments => this.Instruments;
+        public ICollection<IInstrument> Instruments => this.instruments;
 
         public void AddInstrument(IInstrument instrument)
         {

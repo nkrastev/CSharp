@@ -16,14 +16,25 @@ namespace SantaWorkshop.Models.Workshops
         }
         public void Craft(IPresent present, IDwarf dwarf)
         {
-           
-            while (
-                !present.IsDone() || 
-                dwarf.Energy==0 || 
-                dwarf.Instruments.Any(x=>x.Power>0))
+        
+            foreach (var instrument in dwarf.Instruments)
             {
-                present.GetCrafted();
-                dwarf.Work();
+                while (!instrument.IsBroken())
+                {
+                    present.GetCrafted();
+                    dwarf.Work();
+                    instrument.Use();
+
+                    if (present.IsDone())
+                    {
+                        break;
+                    }
+                    if (dwarf.Energy == 0)
+                    {
+                        break;
+                    }
+                }
+
             }
         }
     }

@@ -31,19 +31,15 @@ namespace SantaWorkshop.Models.Presents
         }
 
         public int EnergyRequired 
-        {
-            //TODO CHECK Property for possible errors
+        {            
             get => energyRequired;
             private set
             {
                 if (value < 0)
                 {
-                    this.energyRequired = 0;
+                    value = 0;
                 }
-                else
-                {
-                    this.energyRequired = value;
-                }
+                this.energyRequired = value;
             }
         }
 
