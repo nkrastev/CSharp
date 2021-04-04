@@ -40,7 +40,7 @@ namespace CounterStrike.Models.Players
             get => health; 
             private set
             {
-                if (value<=0)
+                if (value<0)
                 {
                     throw new ArgumentException("Player health cannot be below or equal to 0.");
                 }
@@ -76,24 +76,21 @@ namespace CounterStrike.Models.Players
 
         public bool IsAlive
         {
-            get => this.isAlive;
-            private set
+            get
             {
-                if (this.Health<=0)
+                if (this.health>0)
                 {
-                    this.isAlive = false;
+                    return true;
                 }
                 else
                 {
-                    this.isAlive = true;
+                    return false;
                 }
             }
         }
 
         public void TakeDamage(int points)
-        {
-            /*The TakeDamage() method decreases the Player's health. First you need to reduce the armor. 
-            If the armor reaches 0, transfer the damage to health points. If the health points are less than or equal to zero, the player is dead. */
+        {          
             if (this.Armor>=points)
             {
                 this.Armor -= points;
@@ -110,9 +107,8 @@ namespace CounterStrike.Models.Players
                 else
                 {
                     this.Health = 0;
-                    this.IsAlive = false;
+                    this.isAlive = false;
                 }
-
             }
         }
     }
