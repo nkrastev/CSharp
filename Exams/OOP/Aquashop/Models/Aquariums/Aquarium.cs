@@ -69,15 +69,23 @@ namespace AquaShop.Models.Aquariums
         }
 
         public string GetInfo()
-        {
+        {            
             StringBuilder sb = new StringBuilder();
             sb.AppendLine($"{this.Name} ({this.GetType().Name})");
             var fishNames = string.Empty;
-            foreach (var item in fish)
+
+            for (int i = 0; i < fish.Count; i++)
             {
-                fishNames += item.Name+", ";
+                if (i==fish.Count-1)
+                {
+                    fishNames += fish[i].Name;
+                }
+                else
+                {
+                    fishNames += fish[i].Name + ", ";
+                }
             }
-            fishNames.TrimEnd();
+
             if (fishNames==string.Empty)
             {
                 fishNames = "none";

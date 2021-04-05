@@ -16,7 +16,7 @@
         {
             this.writer = new Writer();
             this.reader = new Reader();
-            //this.controller = new Controller();
+            this.controller = new Controller();
         }
 
         public void Run()
@@ -28,9 +28,9 @@
                 {
                     Environment.Exit(0);
                 }
-                //try
-                //{
-                string result = string.Empty;
+                try
+                {
+                    string result = string.Empty;
 
                 if (input[0] == "AddAquarium")
                 {
@@ -80,11 +80,11 @@
                 }
 
                 writer.WriteLine(result);
-                //}
-                //catch (Exception ex)
-                //{
-                //    writer.WriteLine(ex.Message);
-                //}
+                }
+                catch (Exception ex)
+                {
+                    writer.WriteLine(ex.Message);
+                }
             }
         }
     }
