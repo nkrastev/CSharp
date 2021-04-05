@@ -5,7 +5,7 @@ using System.Text;
 
 namespace OnlineShop.Models.Products.Components
 {
-    public class Component : Product, IComponent
+    public abstract class Component : Product, IComponent
     {
         private int generation;
 

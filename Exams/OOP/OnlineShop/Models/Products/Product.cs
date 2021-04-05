@@ -5,7 +5,7 @@ using System.Text;
 
 namespace OnlineShop.Models.Products
 {
-    public class Product : IProduct
+    public abstract class Product : IProduct
     {
         private int id;
         private string manufacturer;
@@ -25,7 +25,7 @@ namespace OnlineShop.Models.Products
         public int Id
         {
             get => id;
-            protected set
+            private set
             {
                 if (value <= 0)
                 {
