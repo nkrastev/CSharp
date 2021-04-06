@@ -11,7 +11,7 @@ namespace ViceCity.Models.Neghbourhoods
     {
         public void Action(IPlayer mainPlayer, ICollection<IPlayer> civilPlayers)
         {
-           
+
             //MAIN PLAYER
             foreach (var gun in mainPlayer.GunRepository.Models)
             {
@@ -29,11 +29,11 @@ namespace ViceCity.Models.Neghbourhoods
                         civilPlayers.Remove(player);
 
                     }
-                }                
+                }
             }
 
             //Civil Players
-           
+
             foreach (var civil in civilPlayers)
             {
                 foreach (var gun in civil.GunRepository.Models)
@@ -58,5 +58,6 @@ namespace ViceCity.Models.Neghbourhoods
                 }
 
             }
+        }
     }
 }

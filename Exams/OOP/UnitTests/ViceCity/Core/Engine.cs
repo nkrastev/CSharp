@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Text;
 using ViceCity.IO.Contracts;
 using ViceCity.IO;
+using System.Linq;
 
 namespace ViceCity.Core
 {
@@ -11,45 +12,49 @@ namespace ViceCity.Core
     {
         private IReader reader;
         private IWriter writer;
-
+        private IController controller;
 
         public Engine()
         {
             this.reader = new Reader();
             this.writer = new Writer();
-
+            this.controller = new Controller();
         }
         public void Run()
         {
-            while (true)
+            string inputArgs;
+            string message = null;
+            while ((inputArgs = this.reader.ReadLine()) != "Exit")
             {
-                var input = reader.ReadLine().Split();
-                if (input[0] == "Exit")
-                {
-                    Environment.Exit(0);
-                }
+                string[] data = inputArgs.Split().ToArray();
+                string command = data[0];
                 try
                 {
-                    if (input[0] == "AddPlayer")
+                    if (command == "AddPlayer")
                     {
-                        
+                        message = this.controller.AddPlayer(data[1]);
                     }
-                    else if (input[0] == "AddGun")
+                    else if (command == "AddGun")
                     {
-
+                        message = this.controller.AddGun(data[1], data[2]);
                     }
-                    else if (input[0] == "AddGunToPlayer")
+                    else if (command == "AddGunToPlayer")
                     {
-
+                        message = this.controller.AddGunToPlayer(data[1]);
                     }
-                    else if (input[0] == "Fight")
+                    else if (command == "Fight")
                     {
+                        message = this.controller.Fight();
+                    }
 
-                    }            
                 }
-                catch (Exception ex)
+                catch (Exception ae)
                 {
-                    writer.WriteLine(ex.Message);
+                    message = ae.Message;
+                }
+                finally
+                {
+                    this.writer.WriteLine(message);
                 }
             }
         }
