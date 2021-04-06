@@ -10,9 +10,9 @@ namespace ViceCity.Models.Neghbourhoods
     public class GangNeighbourhood : INeighbourhood
     {
         public void Action(IPlayer mainPlayer, ICollection<IPlayer> civilPlayers)
-        {
-            //Console.WriteLine($"Fight starts, Tommy has {mainPlayer.GunRepository.Models.Count} guns");
-            //Console.WriteLine($"Fight starts, Number of civilians {civilPlayers.Count}");
+        {   
+            
+
             //MAIN PLAYER
             foreach (var gun in mainPlayer.GunRepository.Models)
             {
@@ -57,8 +57,7 @@ namespace ViceCity.Models.Neghbourhoods
                 }
 
             }
-            //Console.WriteLine($"Fight ends. Tommy has {mainPlayer.GunRepository.Models.Count} guns");
-            //Console.WriteLine($"Fight ends. Number of alive civilians: {civilPlayers.Count}");
+           
         }
     }
 }

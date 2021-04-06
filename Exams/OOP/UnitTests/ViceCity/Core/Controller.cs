@@ -88,8 +88,18 @@ namespace ViceCity.Core
         {
             int totalCivilians = civilPlayers.Count;
             bool noFight = true;
-            
+
+            //before fight
+            Console.WriteLine("Before Fight");
+            PrintDataForTests(tommy, civilPlayers);
+            Console.WriteLine();
+
             this.gangNeighbourhood.Action(tommy, civilPlayers);
+
+            //after fight
+            Console.WriteLine("After Fight");
+            PrintDataForTests(tommy, civilPlayers);
+            Console.WriteLine();
 
             //Fight Happened, Tommy is injured or number of civilians is different or there is injured one
             if (tommy.LifePoints!=100 || totalCivilians!=civilPlayers.Count || civilPlayers.Any(x=>x.LifePoints!=50))
@@ -108,6 +118,16 @@ namespace ViceCity.Core
                     + $"Tommy live points: {tommy.LifePoints}!"+Environment.NewLine
                     +$"Tommy has killed: {totalCivilians-civilPlayers.Count} players!"+Environment.NewLine
                     +$"Left Civil Players: {civilPlayers.Count}!";
+            }
+        }
+
+        protected void PrintDataForTests(IPlayer mainPlayer, ICollection<IPlayer> civilPlayers)
+        {
+            Console.WriteLine($"Tommy life {mainPlayer.LifePoints}, " +
+                $"guns {mainPlayer.GunRepository.Models.Count} with total bullets for all guns: {mainPlayer.GunRepository.Models.Sum(x=>x.TotalBullets)}");
+            foreach (var civilian in civilPlayers)
+            {
+                Console.WriteLine($"Civilian {civilian.Name}, life {civilian.LifePoints}, guns {civilian.GunRepository.Models.Count} ");
             }
         }
     }
