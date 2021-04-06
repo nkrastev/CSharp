@@ -121,7 +121,7 @@ namespace ViceCity.Core
             }
         }
 
-        protected void PrintDataForTests(IPlayer mainPlayer, ICollection<IPlayer> civilPlayers)
+        private void PrintDataForTests(IPlayer mainPlayer, ICollection<IPlayer> civilPlayers)
         {
             Console.WriteLine($"Tommy life {mainPlayer.LifePoints}, " +
                 $"guns {mainPlayer.GunRepository.Models.Count} with total bullets for all guns: {mainPlayer.GunRepository.Models.Sum(x=>x.TotalBullets)}");

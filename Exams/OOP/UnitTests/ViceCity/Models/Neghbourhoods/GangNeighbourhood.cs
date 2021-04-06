@@ -22,6 +22,7 @@ namespace ViceCity.Models.Neghbourhoods
                     {
                         break;
                     }
+                    
                     int shoots = gun.Fire();
                     IPlayer player = civilPlayers.First();
                     player.TakeLifePoints(shoots);
@@ -29,6 +30,7 @@ namespace ViceCity.Models.Neghbourhoods
                     {
                         civilPlayers.Remove(player);
                     }
+                    
                 }
             }
 
