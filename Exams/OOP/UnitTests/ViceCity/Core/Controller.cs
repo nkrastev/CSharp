@@ -86,26 +86,17 @@ namespace ViceCity.Core
 
         public string Fight()
         {
-            this.gangNeighbourhood.Action(tommy, civilPlayers);
+            int totalCivilians = civilPlayers.Count;
             bool noFight = true;
-            int bodiesCounter = 0;
+            
+            this.gangNeighbourhood.Action(tommy, civilPlayers);
 
-            foreach (var civilian in civilPlayers)
-            {
-                if (civilian.LifePoints != 50)
-                {
-                    noFight = false;
-                }
-                if (civilian.IsAlive == false)
-                {
-                    bodiesCounter++;
-                }
-            }
-
-            if (tommy.LifePoints==100)
+            //Fight Happened, Tommy is injured or number of civilians is different or there is injured one
+            if (tommy.LifePoints!=100 || totalCivilians!=civilPlayers.Count || civilPlayers.Any(x=>x.LifePoints!=50))
             {
                 noFight = false;
             }
+            
 
             if (noFight)
             {
@@ -115,8 +106,8 @@ namespace ViceCity.Core
             {
                 return "A fight happened:"+Environment.NewLine
                     + $"Tommy live points: {tommy.LifePoints}!"+Environment.NewLine
-                    +$"Tommy has killed: {bodiesCounter} players!"+Environment.NewLine
-                    +$"Left Civil Players: {civilPlayers.Count-bodiesCounter}!";
+                    +$"Tommy has killed: {totalCivilians-civilPlayers.Count} players!"+Environment.NewLine
+                    +$"Left Civil Players: {civilPlayers.Count}!";
             }
         }
     }

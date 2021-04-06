@@ -35,7 +35,7 @@ namespace ViceCity.Models.Players
             }
         }
 
-        public bool IsAlive => this.lifePoints > 0;
+        public bool IsAlive => this.LifePoints > 0;
 
         public IRepository<IGun> GunRepository
         {
@@ -59,7 +59,7 @@ namespace ViceCity.Models.Players
         {
             if (this.LifePoints < points)
             {
-                this.LifePoints = 0;
+                this.LifePoints = 0;                
             }
             else
             {
