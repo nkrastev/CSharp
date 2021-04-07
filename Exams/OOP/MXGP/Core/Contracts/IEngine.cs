@@ -4,7 +4,8 @@ using System.Text;
 
 namespace MXGP.Core.Contracts
 {
-    class IEngine
+    public interface IEngine
     {
+        void Run();
     }
 }
