@@ -48,9 +48,9 @@ namespace MortalEngines.Entities
         }
         public double HealthPoints { get; set; }
 
-        public double AttackPoints { get; private set; }
+        public double AttackPoints { get; protected set; }
 
-        public double DefensePoints { get; private set; }
+        public double DefensePoints { get; protected set; }
 
         public IList<string> Targets { get; private set; }
 
