@@ -9,7 +9,7 @@ namespace MortalEngines.Entities
     {
         private const double INIT_HEALTHPOINTS = 100;
         public Tank(string name, double attackPoints, double defensePoints) 
-            : base(name, attackPoints, defensePoints, INIT_HEALTHPOINTS)
+            : base(name, attackPoints-40, defensePoints+30, INIT_HEALTHPOINTS)
         {
             this.DefenseMode = true;
 

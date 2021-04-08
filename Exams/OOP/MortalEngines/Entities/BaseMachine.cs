@@ -17,7 +17,7 @@ namespace MortalEngines.Entities
             this.AttackPoints = attackPoints;
             this.DefensePoints = defensePoints;
             this.HealthPoints = healthPoints;
-            this.Pilot = new Pilot();
+            
             this.Targets = new List<String>();
         }
 
@@ -67,6 +67,7 @@ namespace MortalEngines.Entities
             {
                 target.HealthPoints = 0;
             }
+            
 
             this.Targets.Add(target.Name);
         }

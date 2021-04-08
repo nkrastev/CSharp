@@ -9,7 +9,7 @@ namespace MortalEngines.Entities
     {
         private const double INIT_HEALTHPOINTS = 200;
         public Fighter(string name, double attackPoints, double defensePoints) 
-            : base(name, attackPoints, defensePoints, INIT_HEALTHPOINTS)
+            : base(name, attackPoints+50, defensePoints-25, INIT_HEALTHPOINTS)
         {
             this.AggressiveMode = true;
         }
