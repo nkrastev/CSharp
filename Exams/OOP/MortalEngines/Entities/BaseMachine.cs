@@ -61,7 +61,7 @@ namespace MortalEngines.Entities
                 throw new NullReferenceException("Target cannot be null");
             }
            
-            target.HealthPoints = this.AttackPoints - target.DefensePoints;
+            target.HealthPoints -= this.AttackPoints - target.DefensePoints;
             
             if (target.HealthPoints<0)
             {
@@ -77,9 +77,9 @@ namespace MortalEngines.Entities
             StringBuilder sb = new StringBuilder();
             sb.AppendLine($"- {this.Name}");
             sb.AppendLine($" *Type: {this.GetType().Name}");
-            sb.AppendLine($" *Health: {this.HealthPoints}");
-            sb.AppendLine($" *Attack: {this.AttackPoints}");
-            sb.AppendLine($" *Defense: {this.DefensePoints}");
+            sb.AppendLine($" *Health: {this.HealthPoints:F2}");
+            sb.AppendLine($" *Attack: {this.AttackPoints:F2}");
+            sb.AppendLine($" *Defense: {this.DefensePoints:F2}");
 
             if (this.Targets.Count==0)
             {

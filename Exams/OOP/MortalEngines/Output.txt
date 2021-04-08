@@ -1,0 +1,5 @@
+Pilot John hired
+Pilot Nelson hired
+Fighter Boeing manufactured - attack: 230; defense: 65; aggressive: ON
+Pilot John engaged machine Boeing
+Fighter Boeing toggled aggressive mode

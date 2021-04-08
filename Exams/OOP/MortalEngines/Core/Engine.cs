@@ -1,16 +1,24 @@
 ﻿namespace MortalEngines.Core
 {
     using MortalEngines.Core.Contracts;
+    using MortalEngines.IO;
+    using MortalEngines.IO.Contracts;
     using System;
 
     public class Engine : IEngine
     {
         private readonly MachinesManager machinesManager;
+        private readonly IReader reader;
+        private readonly IWriter writer;
 
-        public Engine()
+        public Engine(IReader reader, IWriter writer)
         {
             this.machinesManager = new MachinesManager();
+
+            this.reader = reader;
+            this.writer = writer;            
         }
+        
 
         public void Run()
         {
@@ -71,6 +79,7 @@
                     }
 
                     Console.WriteLine(result);
+                    writer.WriteLine(result);
                 }
                 catch (Exception ex)
                 {

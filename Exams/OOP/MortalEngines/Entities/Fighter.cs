@@ -11,7 +11,7 @@ namespace MortalEngines.Entities
         public Fighter(string name, double attackPoints, double defensePoints) 
             : base(name, attackPoints+50, defensePoints-25, INIT_HEALTHPOINTS)
         {
-            this.AggressiveMode = true;
+            this.AggressiveMode = true;            
         }
         public bool AggressiveMode
         {

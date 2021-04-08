@@ -5,6 +5,6 @@
 
     public interface IReader
     {
-        IList<ICommand> ReadCommands();
+        string ReadLine();
     }
 }
