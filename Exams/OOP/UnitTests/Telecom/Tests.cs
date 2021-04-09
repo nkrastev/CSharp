@@ -34,7 +34,7 @@ namespace Telecom.Tests
         [Test]
         public void ExceptionIfNullModel()
         {
-            Assert.That(() => new Phone("Google", null), Throws.ArgumentException);
+            Assert.That(() => new Phone("GoogleException", null), Throws.ArgumentException);
         }
         [Test]
         public void AddContactInvalidOperationException()
@@ -59,7 +59,7 @@ namespace Telecom.Tests
         {
             phone1.AddContact("Ivan", "0123");
             Assert.AreEqual("Calling Ivan - 0123...", phone1.Call("Ivan"));
-        }
+        }        
 
     }
 }
