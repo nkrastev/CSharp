@@ -13,9 +13,7 @@ namespace EasterRaces.Models.Cars.Entities
 
         protected Car(string model, int horsePower, double cubicCentimeters, int minHorsePower, int maxHorsePower)
         {
-            this.Model = model;
-            this.HorsePower = horsePower;
-            
+            this.Model = model;           
             this.HorsePower = horsePower;
             this.CubicCentimeters = cubicCentimeters;
         }
