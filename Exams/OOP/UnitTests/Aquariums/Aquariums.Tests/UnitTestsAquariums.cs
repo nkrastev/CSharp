@@ -91,6 +91,12 @@ namespace Aquariums.Tests
             Assert.AreEqual(false, fish2.Available);
         }
         //TODO Test? Selling fish returns fish as result
+        [Test]
+        public void SellFishReturnFish()
+        {
+            aquarium.Add(fish1);
+            Assert.AreEqual(fish1, aquarium.SellFish("Gosho"));
+        }
 
         [Test]
         public void ReportReturnsString()
