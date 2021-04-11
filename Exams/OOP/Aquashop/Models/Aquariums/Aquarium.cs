@@ -71,28 +71,11 @@ namespace AquaShop.Models.Aquariums
         public string GetInfo()
         {            
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"{this.Name} ({this.GetType().Name})");
-            var fishNames = string.Empty;
-
-            for (int i = 0; i < fish.Count; i++)
-            {
-                if (i==fish.Count-1)
-                {
-                    fishNames += fish[i].Name;
-                }
-                else
-                {
-                    fishNames += fish[i].Name + ", ";
-                }
-            }
-
-            if (fishNames==string.Empty)
-            {
-                fishNames = "none";
-            }
-            sb.AppendLine($"Fish {fishNames}");
-            sb.AppendLine($"Decorations: {decorations.Count}");
+            sb.AppendLine($"{this.Name} ({this.GetType().Name}):");
+            sb.AppendLine($"Fish: {(this.fish.Any() ? string.Join(", ", fish.Select(x => x.Name)) : "none")}");
+            sb.AppendLine($"Decorations: {this.decorations.Count()}");
             sb.AppendLine($"Comfort: {this.Comfort}");
+
             return sb.ToString().TrimEnd();
         }
 
