@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\Ad Astra\bin\Debug\netcoreapp3.1\Ad Astra.exe
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\Ad Astra\bin\Debug\netcoreapp3.1\Ad Astra.deps.json
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\Ad Astra\bin\Debug\netcoreapp3.1\Ad Astra.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\Ad Astra\bin\Debug\netcoreapp3.1\Ad Astra.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\Ad Astra\bin\Debug\netcoreapp3.1\Ad Astra.dll
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\Ad Astra\bin\Debug\netcoreapp3.1\Ad Astra.pdb
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\Ad Astra\obj\Debug\netcoreapp3.1\Ad Astra.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\Ad Astra\obj\Debug\netcoreapp3.1\Ad Astra.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\Ad Astra\obj\Debug\netcoreapp3.1\Ad Astra.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\Ad Astra\obj\Debug\netcoreapp3.1\Ad Astra.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\Ad Astra\obj\Debug\netcoreapp3.1\Ad Astra.dll
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\Ad Astra\obj\Debug\netcoreapp3.1\Ad Astra.pdb
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\Ad Astra\obj\Debug\netcoreapp3.1\Ad Astra.genruntimeconfig.cache

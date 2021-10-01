@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo04FoldandSum\bin\Debug\netcoreapp3.1\Mo04FoldandSum.exe
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo04FoldandSum\bin\Debug\netcoreapp3.1\Mo04FoldandSum.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo04FoldandSum\bin\Debug\netcoreapp3.1\Mo04FoldandSum.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo04FoldandSum\bin\Debug\netcoreapp3.1\Mo04FoldandSum.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo04FoldandSum\bin\Debug\netcoreapp3.1\Mo04FoldandSum.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo04FoldandSum\bin\Debug\netcoreapp3.1\Mo04FoldandSum.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo04FoldandSum\obj\Debug\netcoreapp3.1\Mo04FoldandSum.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo04FoldandSum\obj\Debug\netcoreapp3.1\Mo04FoldandSum.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo04FoldandSum\obj\Debug\netcoreapp3.1\Mo04FoldandSum.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo04FoldandSum\obj\Debug\netcoreapp3.1\Mo04FoldandSum.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo04FoldandSum\obj\Debug\netcoreapp3.1\Mo04FoldandSum.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo04FoldandSum\obj\Debug\netcoreapp3.1\Mo04FoldandSum.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo04FoldandSum\obj\Debug\netcoreapp3.1\Mo04FoldandSum.genruntimeconfig.cache

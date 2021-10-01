@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex06Courses\bin\Debug\netcoreapp3.1\Ex06Courses.exe
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex06Courses\bin\Debug\netcoreapp3.1\Ex06Courses.deps.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex06Courses\bin\Debug\netcoreapp3.1\Ex06Courses.runtimeconfig.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex06Courses\bin\Debug\netcoreapp3.1\Ex06Courses.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex06Courses\bin\Debug\netcoreapp3.1\Ex06Courses.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex06Courses\bin\Debug\netcoreapp3.1\Ex06Courses.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex06Courses\obj\Debug\netcoreapp3.1\Ex06Courses.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex06Courses\obj\Debug\netcoreapp3.1\Ex06Courses.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex06Courses\obj\Debug\netcoreapp3.1\Ex06Courses.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex06Courses\obj\Debug\netcoreapp3.1\Ex06Courses.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex06Courses\obj\Debug\netcoreapp3.1\Ex06Courses.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex06Courses\obj\Debug\netcoreapp3.1\Ex06Courses.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex06Courses\obj\Debug\netcoreapp3.1\Ex06Courses.genruntimeconfig.cache

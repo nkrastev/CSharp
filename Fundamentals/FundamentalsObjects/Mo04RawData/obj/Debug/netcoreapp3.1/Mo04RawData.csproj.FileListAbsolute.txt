@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsObjects\Mo04RawData\bin\Debug\netcoreapp3.1\Mo04RawData.exe
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsObjects\Mo04RawData\bin\Debug\netcoreapp3.1\Mo04RawData.deps.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsObjects\Mo04RawData\bin\Debug\netcoreapp3.1\Mo04RawData.runtimeconfig.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsObjects\Mo04RawData\bin\Debug\netcoreapp3.1\Mo04RawData.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsObjects\Mo04RawData\bin\Debug\netcoreapp3.1\Mo04RawData.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsObjects\Mo04RawData\bin\Debug\netcoreapp3.1\Mo04RawData.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsObjects\Mo04RawData\obj\Debug\netcoreapp3.1\Mo04RawData.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsObjects\Mo04RawData\obj\Debug\netcoreapp3.1\Mo04RawData.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsObjects\Mo04RawData\obj\Debug\netcoreapp3.1\Mo04RawData.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsObjects\Mo04RawData\obj\Debug\netcoreapp3.1\Mo04RawData.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsObjects\Mo04RawData\obj\Debug\netcoreapp3.1\Mo04RawData.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsObjects\Mo04RawData\obj\Debug\netcoreapp3.1\Mo04RawData.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsObjects\Mo04RawData\obj\Debug\netcoreapp3.1\Mo04RawData.genruntimeconfig.cache

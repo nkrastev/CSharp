@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex01Furniture\bin\Debug\netcoreapp3.1\Ex01Furniture.exe
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex01Furniture\bin\Debug\netcoreapp3.1\Ex01Furniture.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex01Furniture\bin\Debug\netcoreapp3.1\Ex01Furniture.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex01Furniture\bin\Debug\netcoreapp3.1\Ex01Furniture.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex01Furniture\bin\Debug\netcoreapp3.1\Ex01Furniture.dll
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex01Furniture\bin\Debug\netcoreapp3.1\Ex01Furniture.pdb
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex01Furniture\obj\Debug\netcoreapp3.1\Ex01Furniture.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex01Furniture\obj\Debug\netcoreapp3.1\Ex01Furniture.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex01Furniture\obj\Debug\netcoreapp3.1\Ex01Furniture.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex01Furniture\obj\Debug\netcoreapp3.1\Ex01Furniture.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex01Furniture\obj\Debug\netcoreapp3.1\Ex01Furniture.dll
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex01Furniture\obj\Debug\netcoreapp3.1\Ex01Furniture.pdb
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex01Furniture\obj\Debug\netcoreapp3.1\Ex01Furniture.genruntimeconfig.cache

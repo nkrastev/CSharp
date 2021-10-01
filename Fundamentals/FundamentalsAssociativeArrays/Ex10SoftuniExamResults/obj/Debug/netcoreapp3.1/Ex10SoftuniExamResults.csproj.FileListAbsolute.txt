@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex10SoftuniExamResults\bin\Debug\netcoreapp3.1\Ex10SoftuniExamResults.exe
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex10SoftuniExamResults\bin\Debug\netcoreapp3.1\Ex10SoftuniExamResults.deps.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex10SoftuniExamResults\bin\Debug\netcoreapp3.1\Ex10SoftuniExamResults.runtimeconfig.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex10SoftuniExamResults\bin\Debug\netcoreapp3.1\Ex10SoftuniExamResults.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex10SoftuniExamResults\bin\Debug\netcoreapp3.1\Ex10SoftuniExamResults.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex10SoftuniExamResults\bin\Debug\netcoreapp3.1\Ex10SoftuniExamResults.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex10SoftuniExamResults\obj\Debug\netcoreapp3.1\Ex10SoftuniExamResults.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex10SoftuniExamResults\obj\Debug\netcoreapp3.1\Ex10SoftuniExamResults.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex10SoftuniExamResults\obj\Debug\netcoreapp3.1\Ex10SoftuniExamResults.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex10SoftuniExamResults\obj\Debug\netcoreapp3.1\Ex10SoftuniExamResults.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex10SoftuniExamResults\obj\Debug\netcoreapp3.1\Ex10SoftuniExamResults.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex10SoftuniExamResults\obj\Debug\netcoreapp3.1\Ex10SoftuniExamResults.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex10SoftuniExamResults\obj\Debug\netcoreapp3.1\Ex10SoftuniExamResults.genruntimeconfig.cache

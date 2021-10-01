@@ -1,0 +1,13 @@
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\ALab01CountRealNumbers\bin\Debug\netcoreapp3.1\ALab01CountRealNumbers.exe
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\ALab01CountRealNumbers\bin\Debug\netcoreapp3.1\ALab01CountRealNumbers.deps.json
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\ALab01CountRealNumbers\bin\Debug\netcoreapp3.1\ALab01CountRealNumbers.runtimeconfig.json
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\ALab01CountRealNumbers\bin\Debug\netcoreapp3.1\ALab01CountRealNumbers.runtimeconfig.dev.json
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\ALab01CountRealNumbers\bin\Debug\netcoreapp3.1\ALab01CountRealNumbers.dll
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\ALab01CountRealNumbers\bin\Debug\netcoreapp3.1\ALab01CountRealNumbers.pdb
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\ALab01CountRealNumbers\obj\Debug\netcoreapp3.1\ALab01CountRealNumbers.csprojAssemblyReference.cache
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\ALab01CountRealNumbers\obj\Debug\netcoreapp3.1\ALab01CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\ALab01CountRealNumbers\obj\Debug\netcoreapp3.1\ALab01CountRealNumbers.AssemblyInfo.cs
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\ALab01CountRealNumbers\obj\Debug\netcoreapp3.1\ALab01CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\ALab01CountRealNumbers\obj\Debug\netcoreapp3.1\ALab01CountRealNumbers.dll
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\ALab01CountRealNumbers\obj\Debug\netcoreapp3.1\ALab01CountRealNumbers.pdb
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\ALab01CountRealNumbers\obj\Debug\netcoreapp3.1\ALab01CountRealNumbers.genruntimeconfig.cache

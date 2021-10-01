@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Mo04TribonacciSequence\bin\Debug\netcoreapp3.1\Mo04TribonacciSequence.exe
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Mo04TribonacciSequence\bin\Debug\netcoreapp3.1\Mo04TribonacciSequence.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Mo04TribonacciSequence\bin\Debug\netcoreapp3.1\Mo04TribonacciSequence.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Mo04TribonacciSequence\bin\Debug\netcoreapp3.1\Mo04TribonacciSequence.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Mo04TribonacciSequence\bin\Debug\netcoreapp3.1\Mo04TribonacciSequence.dll
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Mo04TribonacciSequence\bin\Debug\netcoreapp3.1\Mo04TribonacciSequence.pdb
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Mo04TribonacciSequence\obj\Debug\netcoreapp3.1\Mo04TribonacciSequence.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Mo04TribonacciSequence\obj\Debug\netcoreapp3.1\Mo04TribonacciSequence.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Mo04TribonacciSequence\obj\Debug\netcoreapp3.1\Mo04TribonacciSequence.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Mo04TribonacciSequence\obj\Debug\netcoreapp3.1\Mo04TribonacciSequence.dll
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Mo04TribonacciSequence\obj\Debug\netcoreapp3.1\Mo04TribonacciSequence.pdb
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Mo04TribonacciSequence\obj\Debug\netcoreapp3.1\Mo04TribonacciSequence.genruntimeconfig.cache

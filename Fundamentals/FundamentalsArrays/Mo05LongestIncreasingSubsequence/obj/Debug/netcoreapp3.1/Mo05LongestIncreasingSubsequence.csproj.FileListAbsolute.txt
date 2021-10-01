@@ -1,0 +1,13 @@
+C:\Users\Nikolay\GITHUB\CSharp-Fundamentals\FundamentalsArrays\Mo05LongestIncreasingSubsequence\bin\Debug\netcoreapp3.1\Mo05LongestIncreasingSubsequence.exe
+C:\Users\Nikolay\GITHUB\CSharp-Fundamentals\FundamentalsArrays\Mo05LongestIncreasingSubsequence\bin\Debug\netcoreapp3.1\Mo05LongestIncreasingSubsequence.deps.json
+C:\Users\Nikolay\GITHUB\CSharp-Fundamentals\FundamentalsArrays\Mo05LongestIncreasingSubsequence\bin\Debug\netcoreapp3.1\Mo05LongestIncreasingSubsequence.runtimeconfig.json
+C:\Users\Nikolay\GITHUB\CSharp-Fundamentals\FundamentalsArrays\Mo05LongestIncreasingSubsequence\bin\Debug\netcoreapp3.1\Mo05LongestIncreasingSubsequence.runtimeconfig.dev.json
+C:\Users\Nikolay\GITHUB\CSharp-Fundamentals\FundamentalsArrays\Mo05LongestIncreasingSubsequence\bin\Debug\netcoreapp3.1\Mo05LongestIncreasingSubsequence.dll
+C:\Users\Nikolay\GITHUB\CSharp-Fundamentals\FundamentalsArrays\Mo05LongestIncreasingSubsequence\bin\Debug\netcoreapp3.1\Mo05LongestIncreasingSubsequence.pdb
+C:\Users\Nikolay\GITHUB\CSharp-Fundamentals\FundamentalsArrays\Mo05LongestIncreasingSubsequence\obj\Debug\netcoreapp3.1\Mo05LongestIncreasingSubsequence.csprojAssemblyReference.cache
+C:\Users\Nikolay\GITHUB\CSharp-Fundamentals\FundamentalsArrays\Mo05LongestIncreasingSubsequence\obj\Debug\netcoreapp3.1\Mo05LongestIncreasingSubsequence.AssemblyInfoInputs.cache
+C:\Users\Nikolay\GITHUB\CSharp-Fundamentals\FundamentalsArrays\Mo05LongestIncreasingSubsequence\obj\Debug\netcoreapp3.1\Mo05LongestIncreasingSubsequence.AssemblyInfo.cs
+C:\Users\Nikolay\GITHUB\CSharp-Fundamentals\FundamentalsArrays\Mo05LongestIncreasingSubsequence\obj\Debug\netcoreapp3.1\Mo05LongestIncreasingSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\GITHUB\CSharp-Fundamentals\FundamentalsArrays\Mo05LongestIncreasingSubsequence\obj\Debug\netcoreapp3.1\Mo05LongestIncreasingSubsequence.dll
+C:\Users\Nikolay\GITHUB\CSharp-Fundamentals\FundamentalsArrays\Mo05LongestIncreasingSubsequence\obj\Debug\netcoreapp3.1\Mo05LongestIncreasingSubsequence.pdb
+C:\Users\Nikolay\GITHUB\CSharp-Fundamentals\FundamentalsArrays\Mo05LongestIncreasingSubsequence\obj\Debug\netcoreapp3.1\Mo05LongestIncreasingSubsequence.genruntimeconfig.cache

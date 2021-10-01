@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ме04MixedupLists\bin\Debug\netcoreapp3.1\Ме04MixedupLists.exe
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ме04MixedupLists\bin\Debug\netcoreapp3.1\Ме04MixedupLists.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ме04MixedupLists\bin\Debug\netcoreapp3.1\Ме04MixedupLists.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ме04MixedupLists\bin\Debug\netcoreapp3.1\Ме04MixedupLists.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ме04MixedupLists\bin\Debug\netcoreapp3.1\Ме04MixedupLists.dll
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ме04MixedupLists\bin\Debug\netcoreapp3.1\Ме04MixedupLists.pdb
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ме04MixedupLists\obj\Debug\netcoreapp3.1\Ме04MixedupLists.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ме04MixedupLists\obj\Debug\netcoreapp3.1\Ме04MixedupLists.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ме04MixedupLists\obj\Debug\netcoreapp3.1\Ме04MixedupLists.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ме04MixedupLists\obj\Debug\netcoreapp3.1\Ме04MixedupLists.dll
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ме04MixedupLists\obj\Debug\netcoreapp3.1\Ме04MixedupLists.pdb
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ме04MixedupLists\obj\Debug\netcoreapp3.1\Ме04MixedupLists.genruntimeconfig.cache

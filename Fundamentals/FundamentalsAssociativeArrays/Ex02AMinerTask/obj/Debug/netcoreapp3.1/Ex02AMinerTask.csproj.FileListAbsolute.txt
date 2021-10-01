@@ -1,0 +1,12 @@
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex02AMinerTask\bin\Debug\netcoreapp3.1\Ex02AMinerTask.exe
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex02AMinerTask\bin\Debug\netcoreapp3.1\Ex02AMinerTask.deps.json
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex02AMinerTask\bin\Debug\netcoreapp3.1\Ex02AMinerTask.runtimeconfig.json
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex02AMinerTask\bin\Debug\netcoreapp3.1\Ex02AMinerTask.runtimeconfig.dev.json
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex02AMinerTask\bin\Debug\netcoreapp3.1\Ex02AMinerTask.dll
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex02AMinerTask\bin\Debug\netcoreapp3.1\Ex02AMinerTask.pdb
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex02AMinerTask\obj\Debug\netcoreapp3.1\Ex02AMinerTask.AssemblyInfoInputs.cache
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex02AMinerTask\obj\Debug\netcoreapp3.1\Ex02AMinerTask.AssemblyInfo.cs
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex02AMinerTask\obj\Debug\netcoreapp3.1\Ex02AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex02AMinerTask\obj\Debug\netcoreapp3.1\Ex02AMinerTask.dll
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex02AMinerTask\obj\Debug\netcoreapp3.1\Ex02AMinerTask.pdb
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex02AMinerTask\obj\Debug\netcoreapp3.1\Ex02AMinerTask.genruntimeconfig.cache

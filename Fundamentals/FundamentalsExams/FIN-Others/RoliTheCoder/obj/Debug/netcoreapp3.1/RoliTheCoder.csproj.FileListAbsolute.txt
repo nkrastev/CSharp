@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FIN-Others\RoliTheCoder\bin\Debug\netcoreapp3.1\RoliTheCoder.exe
+C:\Users\Nikolay\source\repos\FIN-Others\RoliTheCoder\bin\Debug\netcoreapp3.1\RoliTheCoder.deps.json
+C:\Users\Nikolay\source\repos\FIN-Others\RoliTheCoder\bin\Debug\netcoreapp3.1\RoliTheCoder.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FIN-Others\RoliTheCoder\bin\Debug\netcoreapp3.1\RoliTheCoder.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FIN-Others\RoliTheCoder\bin\Debug\netcoreapp3.1\RoliTheCoder.dll
+C:\Users\Nikolay\source\repos\FIN-Others\RoliTheCoder\bin\Debug\netcoreapp3.1\RoliTheCoder.pdb
+C:\Users\Nikolay\source\repos\FIN-Others\RoliTheCoder\obj\Debug\netcoreapp3.1\RoliTheCoder.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FIN-Others\RoliTheCoder\obj\Debug\netcoreapp3.1\RoliTheCoder.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FIN-Others\RoliTheCoder\obj\Debug\netcoreapp3.1\RoliTheCoder.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FIN-Others\RoliTheCoder\obj\Debug\netcoreapp3.1\RoliTheCoder.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FIN-Others\RoliTheCoder\obj\Debug\netcoreapp3.1\RoliTheCoder.dll
+C:\Users\Nikolay\source\repos\FIN-Others\RoliTheCoder\obj\Debug\netcoreapp3.1\RoliTheCoder.pdb
+C:\Users\Nikolay\source\repos\FIN-Others\RoliTheCoder\obj\Debug\netcoreapp3.1\RoliTheCoder.genruntimeconfig.cache

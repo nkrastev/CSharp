@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\Exams\EmailValidator\bin\Debug\netcoreapp3.1\EmailValidator.exe
+C:\Users\Nikolay\source\repos\Exams\EmailValidator\bin\Debug\netcoreapp3.1\EmailValidator.deps.json
+C:\Users\Nikolay\source\repos\Exams\EmailValidator\bin\Debug\netcoreapp3.1\EmailValidator.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Exams\EmailValidator\bin\Debug\netcoreapp3.1\EmailValidator.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Exams\EmailValidator\bin\Debug\netcoreapp3.1\EmailValidator.dll
+C:\Users\Nikolay\source\repos\Exams\EmailValidator\bin\Debug\netcoreapp3.1\EmailValidator.pdb
+C:\Users\Nikolay\source\repos\Exams\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Exams\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Exams\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Exams\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.dll
+C:\Users\Nikolay\source\repos\Exams\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.pdb
+C:\Users\Nikolay\source\repos\Exams\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Me05DrumSet/1.0.0": {
+        "runtime": {
+          "Me05DrumSet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Me05DrumSet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

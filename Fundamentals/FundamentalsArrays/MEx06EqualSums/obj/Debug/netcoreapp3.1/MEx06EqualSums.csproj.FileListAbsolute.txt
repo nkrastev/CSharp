@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx06EqualSums\bin\Debug\netcoreapp3.1\MEx06EqualSums.exe
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx06EqualSums\bin\Debug\netcoreapp3.1\MEx06EqualSums.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx06EqualSums\bin\Debug\netcoreapp3.1\MEx06EqualSums.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx06EqualSums\bin\Debug\netcoreapp3.1\MEx06EqualSums.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx06EqualSums\bin\Debug\netcoreapp3.1\MEx06EqualSums.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx06EqualSums\bin\Debug\netcoreapp3.1\MEx06EqualSums.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx06EqualSums\obj\Debug\netcoreapp3.1\MEx06EqualSums.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx06EqualSums\obj\Debug\netcoreapp3.1\MEx06EqualSums.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx06EqualSums\obj\Debug\netcoreapp3.1\MEx06EqualSums.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx06EqualSums\obj\Debug\netcoreapp3.1\MEx06EqualSums.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx06EqualSums\obj\Debug\netcoreapp3.1\MEx06EqualSums.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx06EqualSums\obj\Debug\netcoreapp3.1\MEx06EqualSums.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx06EqualSums\obj\Debug\netcoreapp3.1\MEx06EqualSums.genruntimeconfig.cache

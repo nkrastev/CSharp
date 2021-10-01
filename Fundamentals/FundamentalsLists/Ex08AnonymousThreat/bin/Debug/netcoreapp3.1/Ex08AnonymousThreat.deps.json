@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ex08AnonymousThreat/1.0.0": {
+        "runtime": {
+          "Ex08AnonymousThreat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex08AnonymousThreat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

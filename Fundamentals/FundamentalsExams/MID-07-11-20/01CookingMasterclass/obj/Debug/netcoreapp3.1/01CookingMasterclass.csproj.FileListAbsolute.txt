@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01CookingMasterclass\bin\Debug\netcoreapp3.1\01CookingMasterclass.exe
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01CookingMasterclass\bin\Debug\netcoreapp3.1\01CookingMasterclass.deps.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01CookingMasterclass\bin\Debug\netcoreapp3.1\01CookingMasterclass.runtimeconfig.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01CookingMasterclass\bin\Debug\netcoreapp3.1\01CookingMasterclass.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01CookingMasterclass\bin\Debug\netcoreapp3.1\01CookingMasterclass.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01CookingMasterclass\bin\Debug\netcoreapp3.1\01CookingMasterclass.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01CookingMasterclass\obj\Debug\netcoreapp3.1\01CookingMasterclass.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01CookingMasterclass\obj\Debug\netcoreapp3.1\01CookingMasterclass.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01CookingMasterclass\obj\Debug\netcoreapp3.1\01CookingMasterclass.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01CookingMasterclass\obj\Debug\netcoreapp3.1\01CookingMasterclass.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01CookingMasterclass\obj\Debug\netcoreapp3.1\01CookingMasterclass.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01CookingMasterclass\obj\Debug\netcoreapp3.1\01CookingMasterclass.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01CookingMasterclass\obj\Debug\netcoreapp3.1\01CookingMasterclass.genruntimeconfig.cache

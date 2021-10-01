@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab05Students\bin\Debug\netcoreapp3.1\ALab05Students.exe
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab05Students\bin\Debug\netcoreapp3.1\ALab05Students.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab05Students\bin\Debug\netcoreapp3.1\ALab05Students.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab05Students\bin\Debug\netcoreapp3.1\ALab05Students.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab05Students\bin\Debug\netcoreapp3.1\ALab05Students.dll
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab05Students\bin\Debug\netcoreapp3.1\ALab05Students.pdb
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab05Students\obj\Debug\netcoreapp3.1\ALab05Students.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab05Students\obj\Debug\netcoreapp3.1\ALab05Students.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab05Students\obj\Debug\netcoreapp3.1\ALab05Students.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab05Students\obj\Debug\netcoreapp3.1\ALab05Students.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab05Students\obj\Debug\netcoreapp3.1\ALab05Students.dll
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab05Students\obj\Debug\netcoreapp3.1\ALab05Students.pdb
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab05Students\obj\Debug\netcoreapp3.1\ALab05Students.genruntimeconfig.cache

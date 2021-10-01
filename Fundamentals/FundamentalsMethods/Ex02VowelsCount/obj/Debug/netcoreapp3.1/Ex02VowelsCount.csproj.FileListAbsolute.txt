@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex02VowelsCount\bin\Debug\netcoreapp3.1\Ex02VowelsCount.exe
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex02VowelsCount\bin\Debug\netcoreapp3.1\Ex02VowelsCount.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex02VowelsCount\bin\Debug\netcoreapp3.1\Ex02VowelsCount.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex02VowelsCount\bin\Debug\netcoreapp3.1\Ex02VowelsCount.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex02VowelsCount\bin\Debug\netcoreapp3.1\Ex02VowelsCount.dll
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex02VowelsCount\bin\Debug\netcoreapp3.1\Ex02VowelsCount.pdb
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex02VowelsCount\obj\Debug\netcoreapp3.1\Ex02VowelsCount.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex02VowelsCount\obj\Debug\netcoreapp3.1\Ex02VowelsCount.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex02VowelsCount\obj\Debug\netcoreapp3.1\Ex02VowelsCount.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex02VowelsCount\obj\Debug\netcoreapp3.1\Ex02VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex02VowelsCount\obj\Debug\netcoreapp3.1\Ex02VowelsCount.dll
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex02VowelsCount\obj\Debug\netcoreapp3.1\Ex02VowelsCount.pdb
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex02VowelsCount\obj\Debug\netcoreapp3.1\Ex02VowelsCount.genruntimeconfig.cache

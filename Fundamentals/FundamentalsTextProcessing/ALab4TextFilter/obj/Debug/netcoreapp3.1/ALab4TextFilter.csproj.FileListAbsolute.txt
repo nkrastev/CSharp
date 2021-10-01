@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\ALab4TextFilter\bin\Debug\netcoreapp3.1\ALab4TextFilter.exe
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\ALab4TextFilter\bin\Debug\netcoreapp3.1\ALab4TextFilter.deps.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\ALab4TextFilter\bin\Debug\netcoreapp3.1\ALab4TextFilter.runtimeconfig.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\ALab4TextFilter\bin\Debug\netcoreapp3.1\ALab4TextFilter.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\ALab4TextFilter\bin\Debug\netcoreapp3.1\ALab4TextFilter.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\ALab4TextFilter\bin\Debug\netcoreapp3.1\ALab4TextFilter.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\ALab4TextFilter\obj\Debug\netcoreapp3.1\ALab4TextFilter.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\ALab4TextFilter\obj\Debug\netcoreapp3.1\ALab4TextFilter.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\ALab4TextFilter\obj\Debug\netcoreapp3.1\ALab4TextFilter.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\ALab4TextFilter\obj\Debug\netcoreapp3.1\ALab4TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\ALab4TextFilter\obj\Debug\netcoreapp3.1\ALab4TextFilter.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\ALab4TextFilter\obj\Debug\netcoreapp3.1\ALab4TextFilter.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\ALab4TextFilter\obj\Debug\netcoreapp3.1\ALab4TextFilter.genruntimeconfig.cache

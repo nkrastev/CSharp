@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex06MiddleCharacters\bin\Debug\netcoreapp3.1\Ex06MiddleCharacters.exe
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex06MiddleCharacters\bin\Debug\netcoreapp3.1\Ex06MiddleCharacters.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex06MiddleCharacters\bin\Debug\netcoreapp3.1\Ex06MiddleCharacters.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex06MiddleCharacters\bin\Debug\netcoreapp3.1\Ex06MiddleCharacters.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex06MiddleCharacters\bin\Debug\netcoreapp3.1\Ex06MiddleCharacters.dll
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex06MiddleCharacters\bin\Debug\netcoreapp3.1\Ex06MiddleCharacters.pdb
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex06MiddleCharacters\obj\Debug\netcoreapp3.1\Ex06MiddleCharacters.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex06MiddleCharacters\obj\Debug\netcoreapp3.1\Ex06MiddleCharacters.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex06MiddleCharacters\obj\Debug\netcoreapp3.1\Ex06MiddleCharacters.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex06MiddleCharacters\obj\Debug\netcoreapp3.1\Ex06MiddleCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex06MiddleCharacters\obj\Debug\netcoreapp3.1\Ex06MiddleCharacters.dll
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex06MiddleCharacters\obj\Debug\netcoreapp3.1\Ex06MiddleCharacters.pdb
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex06MiddleCharacters\obj\Debug\netcoreapp3.1\Ex06MiddleCharacters.genruntimeconfig.cache

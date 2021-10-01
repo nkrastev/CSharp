@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\ALab05DigitsLettersandOther\bin\Debug\netcoreapp3.1\ALab05DigitsLettersandOther.exe
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\ALab05DigitsLettersandOther\bin\Debug\netcoreapp3.1\ALab05DigitsLettersandOther.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\ALab05DigitsLettersandOther\bin\Debug\netcoreapp3.1\ALab05DigitsLettersandOther.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\ALab05DigitsLettersandOther\bin\Debug\netcoreapp3.1\ALab05DigitsLettersandOther.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\ALab05DigitsLettersandOther\bin\Debug\netcoreapp3.1\ALab05DigitsLettersandOther.dll
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\ALab05DigitsLettersandOther\bin\Debug\netcoreapp3.1\ALab05DigitsLettersandOther.pdb
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\ALab05DigitsLettersandOther\obj\Debug\netcoreapp3.1\ALab05DigitsLettersandOther.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\ALab05DigitsLettersandOther\obj\Debug\netcoreapp3.1\ALab05DigitsLettersandOther.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\ALab05DigitsLettersandOther\obj\Debug\netcoreapp3.1\ALab05DigitsLettersandOther.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\ALab05DigitsLettersandOther\obj\Debug\netcoreapp3.1\ALab05DigitsLettersandOther.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\ALab05DigitsLettersandOther\obj\Debug\netcoreapp3.1\ALab05DigitsLettersandOther.dll
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\ALab05DigitsLettersandOther\obj\Debug\netcoreapp3.1\ALab05DigitsLettersandOther.pdb
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\ALab05DigitsLettersandOther\obj\Debug\netcoreapp3.1\ALab05DigitsLettersandOther.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\Mo04MorseCodeTranslator\bin\Debug\netcoreapp3.1\Mo04MorseCodeTranslator.exe
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\Mo04MorseCodeTranslator\bin\Debug\netcoreapp3.1\Mo04MorseCodeTranslator.deps.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\Mo04MorseCodeTranslator\bin\Debug\netcoreapp3.1\Mo04MorseCodeTranslator.runtimeconfig.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\Mo04MorseCodeTranslator\bin\Debug\netcoreapp3.1\Mo04MorseCodeTranslator.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\Mo04MorseCodeTranslator\bin\Debug\netcoreapp3.1\Mo04MorseCodeTranslator.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\Mo04MorseCodeTranslator\bin\Debug\netcoreapp3.1\Mo04MorseCodeTranslator.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\Mo04MorseCodeTranslator\obj\Debug\netcoreapp3.1\Mo04MorseCodeTranslator.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\Mo04MorseCodeTranslator\obj\Debug\netcoreapp3.1\Mo04MorseCodeTranslator.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\Mo04MorseCodeTranslator\obj\Debug\netcoreapp3.1\Mo04MorseCodeTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\Mo04MorseCodeTranslator\obj\Debug\netcoreapp3.1\Mo04MorseCodeTranslator.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\Mo04MorseCodeTranslator\obj\Debug\netcoreapp3.1\Mo04MorseCodeTranslator.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\Mo04MorseCodeTranslator\obj\Debug\netcoreapp3.1\Mo04MorseCodeTranslator.genruntimeconfig.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsTextProcessing\Text Processing\Mo04MorseCodeTranslator\obj\Debug\netcoreapp3.1\Mo04MorseCodeTranslator.csprojAssemblyReference.cache

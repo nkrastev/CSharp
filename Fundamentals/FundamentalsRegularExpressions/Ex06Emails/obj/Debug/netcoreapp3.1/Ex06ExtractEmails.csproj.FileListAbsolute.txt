@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex06\bin\Debug\netcoreapp3.1\Ex06ExtractEmails.exe
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex06\bin\Debug\netcoreapp3.1\Ex06ExtractEmails.deps.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex06\bin\Debug\netcoreapp3.1\Ex06ExtractEmails.runtimeconfig.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex06\bin\Debug\netcoreapp3.1\Ex06ExtractEmails.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex06\bin\Debug\netcoreapp3.1\Ex06ExtractEmails.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex06\bin\Debug\netcoreapp3.1\Ex06ExtractEmails.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex06\obj\Debug\netcoreapp3.1\Ex06ExtractEmails.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex06\obj\Debug\netcoreapp3.1\Ex06ExtractEmails.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex06\obj\Debug\netcoreapp3.1\Ex06ExtractEmails.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex06\obj\Debug\netcoreapp3.1\Ex06ExtractEmails.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex06\obj\Debug\netcoreapp3.1\Ex06ExtractEmails.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex06\obj\Debug\netcoreapp3.1\Ex06ExtractEmails.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex06\obj\Debug\netcoreapp3.1\Ex06ExtractEmails.genruntimeconfig.cache

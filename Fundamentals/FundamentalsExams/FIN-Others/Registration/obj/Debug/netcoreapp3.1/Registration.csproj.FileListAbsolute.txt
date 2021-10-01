@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\Exams\Registration\bin\Debug\netcoreapp3.1\Registration.exe
+C:\Users\Nikolay\source\repos\Exams\Registration\bin\Debug\netcoreapp3.1\Registration.deps.json
+C:\Users\Nikolay\source\repos\Exams\Registration\bin\Debug\netcoreapp3.1\Registration.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Exams\Registration\bin\Debug\netcoreapp3.1\Registration.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Exams\Registration\bin\Debug\netcoreapp3.1\Registration.dll
+C:\Users\Nikolay\source\repos\Exams\Registration\bin\Debug\netcoreapp3.1\Registration.pdb
+C:\Users\Nikolay\source\repos\Exams\Registration\obj\Debug\netcoreapp3.1\Registration.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Exams\Registration\obj\Debug\netcoreapp3.1\Registration.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Exams\Registration\obj\Debug\netcoreapp3.1\Registration.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Exams\Registration\obj\Debug\netcoreapp3.1\Registration.dll
+C:\Users\Nikolay\source\repos\Exams\Registration\obj\Debug\netcoreapp3.1\Registration.pdb
+C:\Users\Nikolay\source\repos\Exams\Registration\obj\Debug\netcoreapp3.1\Registration.genruntimeconfig.cache

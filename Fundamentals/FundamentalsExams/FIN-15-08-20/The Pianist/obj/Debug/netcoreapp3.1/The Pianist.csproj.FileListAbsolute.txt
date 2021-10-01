@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Pianist\bin\Debug\netcoreapp3.1\The Pianist.exe
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Pianist\bin\Debug\netcoreapp3.1\The Pianist.deps.json
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Pianist\bin\Debug\netcoreapp3.1\The Pianist.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Pianist\bin\Debug\netcoreapp3.1\The Pianist.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Pianist\bin\Debug\netcoreapp3.1\The Pianist.dll
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Pianist\bin\Debug\netcoreapp3.1\The Pianist.pdb
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Pianist\obj\Debug\netcoreapp3.1\The Pianist.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Pianist\obj\Debug\netcoreapp3.1\The Pianist.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Pianist\obj\Debug\netcoreapp3.1\The Pianist.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Pianist\obj\Debug\netcoreapp3.1\The Pianist.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Pianist\obj\Debug\netcoreapp3.1\The Pianist.dll
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Pianist\obj\Debug\netcoreapp3.1\The Pianist.pdb
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Pianist\obj\Debug\netcoreapp3.1\The Pianist.genruntimeconfig.cache

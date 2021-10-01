@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex07StudentAcademy\bin\Debug\netcoreapp3.1\Ex07StudentAcademy.exe
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex07StudentAcademy\bin\Debug\netcoreapp3.1\Ex07StudentAcademy.deps.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex07StudentAcademy\bin\Debug\netcoreapp3.1\Ex07StudentAcademy.runtimeconfig.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex07StudentAcademy\bin\Debug\netcoreapp3.1\Ex07StudentAcademy.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex07StudentAcademy\bin\Debug\netcoreapp3.1\Ex07StudentAcademy.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex07StudentAcademy\bin\Debug\netcoreapp3.1\Ex07StudentAcademy.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex07StudentAcademy\obj\Debug\netcoreapp3.1\Ex07StudentAcademy.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex07StudentAcademy\obj\Debug\netcoreapp3.1\Ex07StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex07StudentAcademy\obj\Debug\netcoreapp3.1\Ex07StudentAcademy.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex07StudentAcademy\obj\Debug\netcoreapp3.1\Ex07StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex07StudentAcademy\obj\Debug\netcoreapp3.1\Ex07StudentAcademy.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex07StudentAcademy\obj\Debug\netcoreapp3.1\Ex07StudentAcademy.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex07StudentAcademy\obj\Debug\netcoreapp3.1\Ex07StudentAcademy.genruntimeconfig.cache

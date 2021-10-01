@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\bin\Debug\netcoreapp3.1\ALabTasks.exe
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\bin\Debug\netcoreapp3.1\ALabTasks.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\bin\Debug\netcoreapp3.1\ALabTasks.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\bin\Debug\netcoreapp3.1\ALabTasks.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\bin\Debug\netcoreapp3.1\ALabTasks.dll
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\bin\Debug\netcoreapp3.1\ALabTasks.pdb
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\obj\Debug\netcoreapp3.1\ALabTasks.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\obj\Debug\netcoreapp3.1\ALabTasks.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\obj\Debug\netcoreapp3.1\ALabTasks.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\obj\Debug\netcoreapp3.1\ALabTasks.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\obj\Debug\netcoreapp3.1\ALabTasks.dll
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\obj\Debug\netcoreapp3.1\ALabTasks.pdb
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\obj\Debug\netcoreapp3.1\ALabTasks.genruntimeconfig.cache

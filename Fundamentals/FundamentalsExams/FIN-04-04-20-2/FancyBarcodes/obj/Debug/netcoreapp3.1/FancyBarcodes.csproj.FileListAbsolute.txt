@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FINAL-04-04-20-2\FancyBarcodes\bin\Debug\netcoreapp3.1\FancyBarcodes.exe
+C:\Users\Nikolay\source\repos\FINAL-04-04-20-2\FancyBarcodes\bin\Debug\netcoreapp3.1\FancyBarcodes.deps.json
+C:\Users\Nikolay\source\repos\FINAL-04-04-20-2\FancyBarcodes\bin\Debug\netcoreapp3.1\FancyBarcodes.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FINAL-04-04-20-2\FancyBarcodes\bin\Debug\netcoreapp3.1\FancyBarcodes.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FINAL-04-04-20-2\FancyBarcodes\bin\Debug\netcoreapp3.1\FancyBarcodes.dll
+C:\Users\Nikolay\source\repos\FINAL-04-04-20-2\FancyBarcodes\bin\Debug\netcoreapp3.1\FancyBarcodes.pdb
+C:\Users\Nikolay\source\repos\FINAL-04-04-20-2\FancyBarcodes\obj\Debug\netcoreapp3.1\FancyBarcodes.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FINAL-04-04-20-2\FancyBarcodes\obj\Debug\netcoreapp3.1\FancyBarcodes.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FINAL-04-04-20-2\FancyBarcodes\obj\Debug\netcoreapp3.1\FancyBarcodes.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FINAL-04-04-20-2\FancyBarcodes\obj\Debug\netcoreapp3.1\FancyBarcodes.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FINAL-04-04-20-2\FancyBarcodes\obj\Debug\netcoreapp3.1\FancyBarcodes.dll
+C:\Users\Nikolay\source\repos\FINAL-04-04-20-2\FancyBarcodes\obj\Debug\netcoreapp3.1\FancyBarcodes.pdb
+C:\Users\Nikolay\source\repos\FINAL-04-04-20-2\FancyBarcodes\obj\Debug\netcoreapp3.1\FancyBarcodes.genruntimeconfig.cache

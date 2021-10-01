@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FIN-Others\Deciphering\bin\Debug\netcoreapp3.1\Deciphering.exe
+C:\Users\Nikolay\source\repos\FIN-Others\Deciphering\bin\Debug\netcoreapp3.1\Deciphering.deps.json
+C:\Users\Nikolay\source\repos\FIN-Others\Deciphering\bin\Debug\netcoreapp3.1\Deciphering.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FIN-Others\Deciphering\bin\Debug\netcoreapp3.1\Deciphering.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FIN-Others\Deciphering\bin\Debug\netcoreapp3.1\Deciphering.dll
+C:\Users\Nikolay\source\repos\FIN-Others\Deciphering\bin\Debug\netcoreapp3.1\Deciphering.pdb
+C:\Users\Nikolay\source\repos\FIN-Others\Deciphering\obj\Debug\netcoreapp3.1\Deciphering.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FIN-Others\Deciphering\obj\Debug\netcoreapp3.1\Deciphering.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FIN-Others\Deciphering\obj\Debug\netcoreapp3.1\Deciphering.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FIN-Others\Deciphering\obj\Debug\netcoreapp3.1\Deciphering.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FIN-Others\Deciphering\obj\Debug\netcoreapp3.1\Deciphering.dll
+C:\Users\Nikolay\source\repos\FIN-Others\Deciphering\obj\Debug\netcoreapp3.1\Deciphering.pdb
+C:\Users\Nikolay\source\repos\FIN-Others\Deciphering\obj\Debug\netcoreapp3.1\Deciphering.genruntimeconfig.cache

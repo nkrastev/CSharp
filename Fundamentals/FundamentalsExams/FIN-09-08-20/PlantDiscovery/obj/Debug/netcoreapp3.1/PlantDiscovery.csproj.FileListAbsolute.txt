@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\FINAL-09-08-20\PlantDiscovery\bin\Debug\netcoreapp3.1\PlantDiscovery.exe
+C:\Users\Nikolay\source\repos\FINAL-09-08-20\PlantDiscovery\bin\Debug\netcoreapp3.1\PlantDiscovery.deps.json
+C:\Users\Nikolay\source\repos\FINAL-09-08-20\PlantDiscovery\bin\Debug\netcoreapp3.1\PlantDiscovery.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FINAL-09-08-20\PlantDiscovery\bin\Debug\netcoreapp3.1\PlantDiscovery.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FINAL-09-08-20\PlantDiscovery\bin\Debug\netcoreapp3.1\PlantDiscovery.dll
+C:\Users\Nikolay\source\repos\FINAL-09-08-20\PlantDiscovery\bin\Debug\netcoreapp3.1\PlantDiscovery.pdb
+C:\Users\Nikolay\source\repos\FINAL-09-08-20\PlantDiscovery\obj\Debug\netcoreapp3.1\PlantDiscovery.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FINAL-09-08-20\PlantDiscovery\obj\Debug\netcoreapp3.1\PlantDiscovery.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FINAL-09-08-20\PlantDiscovery\obj\Debug\netcoreapp3.1\PlantDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FINAL-09-08-20\PlantDiscovery\obj\Debug\netcoreapp3.1\PlantDiscovery.dll
+C:\Users\Nikolay\source\repos\FINAL-09-08-20\PlantDiscovery\obj\Debug\netcoreapp3.1\PlantDiscovery.pdb
+C:\Users\Nikolay\source\repos\FINAL-09-08-20\PlantDiscovery\obj\Debug\netcoreapp3.1\PlantDiscovery.genruntimeconfig.cache

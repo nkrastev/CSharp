@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo03RecursiveFibonacci\bin\Debug\netcoreapp3.1\Mo03RecursiveFibonacci.exe
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo03RecursiveFibonacci\bin\Debug\netcoreapp3.1\Mo03RecursiveFibonacci.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo03RecursiveFibonacci\bin\Debug\netcoreapp3.1\Mo03RecursiveFibonacci.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo03RecursiveFibonacci\bin\Debug\netcoreapp3.1\Mo03RecursiveFibonacci.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo03RecursiveFibonacci\bin\Debug\netcoreapp3.1\Mo03RecursiveFibonacci.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo03RecursiveFibonacci\bin\Debug\netcoreapp3.1\Mo03RecursiveFibonacci.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo03RecursiveFibonacci\obj\Debug\netcoreapp3.1\Mo03RecursiveFibonacci.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo03RecursiveFibonacci\obj\Debug\netcoreapp3.1\Mo03RecursiveFibonacci.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo03RecursiveFibonacci\obj\Debug\netcoreapp3.1\Mo03RecursiveFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo03RecursiveFibonacci\obj\Debug\netcoreapp3.1\Mo03RecursiveFibonacci.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo03RecursiveFibonacci\obj\Debug\netcoreapp3.1\Mo03RecursiveFibonacci.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo03RecursiveFibonacci\obj\Debug\netcoreapp3.1\Mo03RecursiveFibonacci.genruntimeconfig.cache

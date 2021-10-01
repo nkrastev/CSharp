@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex09PokemonDontGo\bin\Debug\netcoreapp3.1\Ex09PokemonDontGo.exe
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex09PokemonDontGo\bin\Debug\netcoreapp3.1\Ex09PokemonDontGo.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex09PokemonDontGo\bin\Debug\netcoreapp3.1\Ex09PokemonDontGo.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex09PokemonDontGo\bin\Debug\netcoreapp3.1\Ex09PokemonDontGo.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex09PokemonDontGo\bin\Debug\netcoreapp3.1\Ex09PokemonDontGo.dll
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex09PokemonDontGo\bin\Debug\netcoreapp3.1\Ex09PokemonDontGo.pdb
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex09PokemonDontGo\obj\Debug\netcoreapp3.1\Ex09PokemonDontGo.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex09PokemonDontGo\obj\Debug\netcoreapp3.1\Ex09PokemonDontGo.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex09PokemonDontGo\obj\Debug\netcoreapp3.1\Ex09PokemonDontGo.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex09PokemonDontGo\obj\Debug\netcoreapp3.1\Ex09PokemonDontGo.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex09PokemonDontGo\obj\Debug\netcoreapp3.1\Ex09PokemonDontGo.dll
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex09PokemonDontGo\obj\Debug\netcoreapp3.1\Ex09PokemonDontGo.pdb
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex09PokemonDontGo\obj\Debug\netcoreapp3.1\Ex09PokemonDontGo.genruntimeconfig.cache

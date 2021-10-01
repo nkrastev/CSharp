@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex08FactorialDivision\bin\Debug\netcoreapp3.1\Ex08FactorialDivision.exe
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex08FactorialDivision\bin\Debug\netcoreapp3.1\Ex08FactorialDivision.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex08FactorialDivision\bin\Debug\netcoreapp3.1\Ex08FactorialDivision.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex08FactorialDivision\bin\Debug\netcoreapp3.1\Ex08FactorialDivision.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex08FactorialDivision\bin\Debug\netcoreapp3.1\Ex08FactorialDivision.dll
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex08FactorialDivision\bin\Debug\netcoreapp3.1\Ex08FactorialDivision.pdb
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex08FactorialDivision\obj\Debug\netcoreapp3.1\Ex08FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex08FactorialDivision\obj\Debug\netcoreapp3.1\Ex08FactorialDivision.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex08FactorialDivision\obj\Debug\netcoreapp3.1\Ex08FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex08FactorialDivision\obj\Debug\netcoreapp3.1\Ex08FactorialDivision.dll
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex08FactorialDivision\obj\Debug\netcoreapp3.1\Ex08FactorialDivision.pdb
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex08FactorialDivision\obj\Debug\netcoreapp3.1\Ex08FactorialDivision.genruntimeconfig.cache

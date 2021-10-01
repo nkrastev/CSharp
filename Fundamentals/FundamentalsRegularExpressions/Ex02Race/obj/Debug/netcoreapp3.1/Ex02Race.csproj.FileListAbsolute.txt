@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex02Race\bin\Debug\netcoreapp3.1\Ex02Race.exe
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex02Race\bin\Debug\netcoreapp3.1\Ex02Race.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex02Race\bin\Debug\netcoreapp3.1\Ex02Race.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex02Race\bin\Debug\netcoreapp3.1\Ex02Race.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex02Race\bin\Debug\netcoreapp3.1\Ex02Race.dll
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex02Race\bin\Debug\netcoreapp3.1\Ex02Race.pdb
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex02Race\obj\Debug\netcoreapp3.1\Ex02Race.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex02Race\obj\Debug\netcoreapp3.1\Ex02Race.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex02Race\obj\Debug\netcoreapp3.1\Ex02Race.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex02Race\obj\Debug\netcoreapp3.1\Ex02Race.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex02Race\obj\Debug\netcoreapp3.1\Ex02Race.dll
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex02Race\obj\Debug\netcoreapp3.1\Ex02Race.pdb
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\Ex02Race\obj\Debug\netcoreapp3.1\Ex02Race.genruntimeconfig.cache

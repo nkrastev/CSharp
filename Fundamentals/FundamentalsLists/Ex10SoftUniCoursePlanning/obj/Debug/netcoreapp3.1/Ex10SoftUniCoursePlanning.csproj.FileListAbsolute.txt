@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex10SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\Ex10SoftUniCoursePlanning.exe
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex10SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\Ex10SoftUniCoursePlanning.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex10SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\Ex10SoftUniCoursePlanning.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex10SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\Ex10SoftUniCoursePlanning.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex10SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\Ex10SoftUniCoursePlanning.dll
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex10SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\Ex10SoftUniCoursePlanning.pdb
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex10SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\Ex10SoftUniCoursePlanning.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex10SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\Ex10SoftUniCoursePlanning.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex10SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\Ex10SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex10SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\Ex10SoftUniCoursePlanning.dll
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex10SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\Ex10SoftUniCoursePlanning.pdb
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex10SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\Ex10SoftUniCoursePlanning.genruntimeconfig.cache
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex10SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\Ex10SoftUniCoursePlanning.csprojAssemblyReference.cache

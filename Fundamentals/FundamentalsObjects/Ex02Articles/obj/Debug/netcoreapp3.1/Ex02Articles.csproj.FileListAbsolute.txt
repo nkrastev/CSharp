@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Ex02Articles\bin\Debug\netcoreapp3.1\Ex02Articles.exe
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Ex02Articles\bin\Debug\netcoreapp3.1\Ex02Articles.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Ex02Articles\bin\Debug\netcoreapp3.1\Ex02Articles.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Ex02Articles\bin\Debug\netcoreapp3.1\Ex02Articles.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Ex02Articles\bin\Debug\netcoreapp3.1\Ex02Articles.dll
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Ex02Articles\bin\Debug\netcoreapp3.1\Ex02Articles.pdb
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Ex02Articles\obj\Debug\netcoreapp3.1\Ex02Articles.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Ex02Articles\obj\Debug\netcoreapp3.1\Ex02Articles.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Ex02Articles\obj\Debug\netcoreapp3.1\Ex02Articles.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Ex02Articles\obj\Debug\netcoreapp3.1\Ex02Articles.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Ex02Articles\obj\Debug\netcoreapp3.1\Ex02Articles.dll
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Ex02Articles\obj\Debug\netcoreapp3.1\Ex02Articles.pdb
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Ex02Articles\obj\Debug\netcoreapp3.1\Ex02Articles.genruntimeconfig.cache

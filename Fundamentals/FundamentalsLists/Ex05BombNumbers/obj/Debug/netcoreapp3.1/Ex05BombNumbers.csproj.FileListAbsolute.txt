@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex05BombNumbers\bin\Debug\netcoreapp3.1\Ex05BombNumbers.exe
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex05BombNumbers\bin\Debug\netcoreapp3.1\Ex05BombNumbers.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex05BombNumbers\bin\Debug\netcoreapp3.1\Ex05BombNumbers.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex05BombNumbers\bin\Debug\netcoreapp3.1\Ex05BombNumbers.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex05BombNumbers\bin\Debug\netcoreapp3.1\Ex05BombNumbers.dll
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex05BombNumbers\bin\Debug\netcoreapp3.1\Ex05BombNumbers.pdb
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex05BombNumbers\obj\Debug\netcoreapp3.1\Ex05BombNumbers.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex05BombNumbers\obj\Debug\netcoreapp3.1\Ex05BombNumbers.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex05BombNumbers\obj\Debug\netcoreapp3.1\Ex05BombNumbers.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex05BombNumbers\obj\Debug\netcoreapp3.1\Ex05BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex05BombNumbers\obj\Debug\netcoreapp3.1\Ex05BombNumbers.dll
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex05BombNumbers\obj\Debug\netcoreapp3.1\Ex05BombNumbers.pdb
+C:\Users\Nikolay\source\repos\FundamentalsLists\Ex05BombNumbers\obj\Debug\netcoreapp3.1\Ex05BombNumbers.genruntimeconfig.cache

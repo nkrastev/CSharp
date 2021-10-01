@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Mo03SpeedRacing\bin\Debug\netcoreapp3.1\Mo03SpeedRacing.exe
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Mo03SpeedRacing\bin\Debug\netcoreapp3.1\Mo03SpeedRacing.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Mo03SpeedRacing\bin\Debug\netcoreapp3.1\Mo03SpeedRacing.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Mo03SpeedRacing\bin\Debug\netcoreapp3.1\Mo03SpeedRacing.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Mo03SpeedRacing\bin\Debug\netcoreapp3.1\Mo03SpeedRacing.dll
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Mo03SpeedRacing\bin\Debug\netcoreapp3.1\Mo03SpeedRacing.pdb
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Mo03SpeedRacing\obj\Debug\netcoreapp3.1\Mo03SpeedRacing.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Mo03SpeedRacing\obj\Debug\netcoreapp3.1\Mo03SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Mo03SpeedRacing\obj\Debug\netcoreapp3.1\Mo03SpeedRacing.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Mo03SpeedRacing\obj\Debug\netcoreapp3.1\Mo03SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Mo03SpeedRacing\obj\Debug\netcoreapp3.1\Mo03SpeedRacing.dll
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Mo03SpeedRacing\obj\Debug\netcoreapp3.1\Mo03SpeedRacing.pdb
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\Mo03SpeedRacing\obj\Debug\netcoreapp3.1\Mo03SpeedRacing.genruntimeconfig.cache

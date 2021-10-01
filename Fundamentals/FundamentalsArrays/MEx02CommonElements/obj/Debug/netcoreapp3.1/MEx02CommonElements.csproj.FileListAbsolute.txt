@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx02CommonElements\bin\Debug\netcoreapp3.1\MEx02CommonElements.exe
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx02CommonElements\bin\Debug\netcoreapp3.1\MEx02CommonElements.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx02CommonElements\bin\Debug\netcoreapp3.1\MEx02CommonElements.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx02CommonElements\bin\Debug\netcoreapp3.1\MEx02CommonElements.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx02CommonElements\bin\Debug\netcoreapp3.1\MEx02CommonElements.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx02CommonElements\bin\Debug\netcoreapp3.1\MEx02CommonElements.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx02CommonElements\obj\Debug\netcoreapp3.1\MEx02CommonElements.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx02CommonElements\obj\Debug\netcoreapp3.1\MEx02CommonElements.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx02CommonElements\obj\Debug\netcoreapp3.1\MEx02CommonElements.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx02CommonElements\obj\Debug\netcoreapp3.1\MEx02CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx02CommonElements\obj\Debug\netcoreapp3.1\MEx02CommonElements.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx02CommonElements\obj\Debug\netcoreapp3.1\MEx02CommonElements.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx02CommonElements\obj\Debug\netcoreapp3.1\MEx02CommonElements.genruntimeconfig.cache

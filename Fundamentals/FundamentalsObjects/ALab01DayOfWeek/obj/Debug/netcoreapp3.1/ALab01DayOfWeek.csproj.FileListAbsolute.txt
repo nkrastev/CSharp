@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab01DayOfWeek\bin\Debug\netcoreapp3.1\ALab01DayOfWeek.exe
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab01DayOfWeek\bin\Debug\netcoreapp3.1\ALab01DayOfWeek.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab01DayOfWeek\bin\Debug\netcoreapp3.1\ALab01DayOfWeek.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab01DayOfWeek\bin\Debug\netcoreapp3.1\ALab01DayOfWeek.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab01DayOfWeek\bin\Debug\netcoreapp3.1\ALab01DayOfWeek.dll
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab01DayOfWeek\bin\Debug\netcoreapp3.1\ALab01DayOfWeek.pdb
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab01DayOfWeek\obj\Debug\netcoreapp3.1\ALab01DayOfWeek.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab01DayOfWeek\obj\Debug\netcoreapp3.1\ALab01DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab01DayOfWeek\obj\Debug\netcoreapp3.1\ALab01DayOfWeek.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab01DayOfWeek\obj\Debug\netcoreapp3.1\ALab01DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab01DayOfWeek\obj\Debug\netcoreapp3.1\ALab01DayOfWeek.dll
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab01DayOfWeek\obj\Debug\netcoreapp3.1\ALab01DayOfWeek.pdb
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab01DayOfWeek\obj\Debug\netcoreapp3.1\ALab01DayOfWeek.genruntimeconfig.cache

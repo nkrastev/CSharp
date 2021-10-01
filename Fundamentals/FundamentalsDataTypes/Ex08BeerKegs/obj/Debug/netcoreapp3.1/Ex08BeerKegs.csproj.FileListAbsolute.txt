@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex08BeerKegs\obj\Debug\netcoreapp3.1\Ex08BeerKegs.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex08BeerKegs\obj\Debug\netcoreapp3.1\Ex08BeerKegs.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex08BeerKegs\obj\Debug\netcoreapp3.1\Ex08BeerKegs.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex08BeerKegs\obj\Debug\netcoreapp3.1\Ex08BeerKegs.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex08BeerKegs\bin\Debug\netcoreapp3.1\Ex08BeerKegs.exe
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex08BeerKegs\bin\Debug\netcoreapp3.1\Ex08BeerKegs.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex08BeerKegs\bin\Debug\netcoreapp3.1\Ex08BeerKegs.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex08BeerKegs\bin\Debug\netcoreapp3.1\Ex08BeerKegs.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex08BeerKegs\bin\Debug\netcoreapp3.1\Ex08BeerKegs.dll
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex08BeerKegs\bin\Debug\netcoreapp3.1\Ex08BeerKegs.pdb
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex08BeerKegs\obj\Debug\netcoreapp3.1\Ex08BeerKegs.dll
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex08BeerKegs\obj\Debug\netcoreapp3.1\Ex08BeerKegs.pdb
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex08BeerKegs\obj\Debug\netcoreapp3.1\Ex08BeerKegs.genruntimeconfig.cache

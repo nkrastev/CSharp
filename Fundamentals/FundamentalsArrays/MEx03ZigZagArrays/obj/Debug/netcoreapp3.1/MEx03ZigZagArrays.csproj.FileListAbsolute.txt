@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx03ZigZagArrays\bin\Debug\netcoreapp3.1\MEx03ZigZagArrays.exe
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx03ZigZagArrays\bin\Debug\netcoreapp3.1\MEx03ZigZagArrays.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx03ZigZagArrays\bin\Debug\netcoreapp3.1\MEx03ZigZagArrays.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx03ZigZagArrays\bin\Debug\netcoreapp3.1\MEx03ZigZagArrays.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx03ZigZagArrays\bin\Debug\netcoreapp3.1\MEx03ZigZagArrays.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx03ZigZagArrays\bin\Debug\netcoreapp3.1\MEx03ZigZagArrays.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx03ZigZagArrays\obj\Debug\netcoreapp3.1\MEx03ZigZagArrays.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx03ZigZagArrays\obj\Debug\netcoreapp3.1\MEx03ZigZagArrays.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx03ZigZagArrays\obj\Debug\netcoreapp3.1\MEx03ZigZagArrays.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx03ZigZagArrays\obj\Debug\netcoreapp3.1\MEx03ZigZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx03ZigZagArrays\obj\Debug\netcoreapp3.1\MEx03ZigZagArrays.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx03ZigZagArrays\obj\Debug\netcoreapp3.1\MEx03ZigZagArrays.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx03ZigZagArrays\obj\Debug\netcoreapp3.1\MEx03ZigZagArrays.genruntimeconfig.cache

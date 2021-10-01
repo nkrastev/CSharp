@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FINAL-10-04-20\MirrorWords\bin\Debug\netcoreapp3.1\MirrorWords.exe
+C:\Users\Nikolay\source\repos\FINAL-10-04-20\MirrorWords\bin\Debug\netcoreapp3.1\MirrorWords.deps.json
+C:\Users\Nikolay\source\repos\FINAL-10-04-20\MirrorWords\bin\Debug\netcoreapp3.1\MirrorWords.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FINAL-10-04-20\MirrorWords\bin\Debug\netcoreapp3.1\MirrorWords.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FINAL-10-04-20\MirrorWords\bin\Debug\netcoreapp3.1\MirrorWords.dll
+C:\Users\Nikolay\source\repos\FINAL-10-04-20\MirrorWords\bin\Debug\netcoreapp3.1\MirrorWords.pdb
+C:\Users\Nikolay\source\repos\FINAL-10-04-20\MirrorWords\obj\Debug\netcoreapp3.1\MirrorWords.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FINAL-10-04-20\MirrorWords\obj\Debug\netcoreapp3.1\MirrorWords.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FINAL-10-04-20\MirrorWords\obj\Debug\netcoreapp3.1\MirrorWords.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FINAL-10-04-20\MirrorWords\obj\Debug\netcoreapp3.1\MirrorWords.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FINAL-10-04-20\MirrorWords\obj\Debug\netcoreapp3.1\MirrorWords.dll
+C:\Users\Nikolay\source\repos\FINAL-10-04-20\MirrorWords\obj\Debug\netcoreapp3.1\MirrorWords.pdb
+C:\Users\Nikolay\source\repos\FINAL-10-04-20\MirrorWords\obj\Debug\netcoreapp3.1\MirrorWords.genruntimeconfig.cache

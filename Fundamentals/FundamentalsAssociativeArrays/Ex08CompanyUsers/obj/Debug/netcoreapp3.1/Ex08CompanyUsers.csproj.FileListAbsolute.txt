@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex08CompanyUsers\bin\Debug\netcoreapp3.1\Ex08CompanyUsers.exe
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex08CompanyUsers\bin\Debug\netcoreapp3.1\Ex08CompanyUsers.deps.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex08CompanyUsers\bin\Debug\netcoreapp3.1\Ex08CompanyUsers.runtimeconfig.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex08CompanyUsers\bin\Debug\netcoreapp3.1\Ex08CompanyUsers.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex08CompanyUsers\bin\Debug\netcoreapp3.1\Ex08CompanyUsers.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex08CompanyUsers\bin\Debug\netcoreapp3.1\Ex08CompanyUsers.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex08CompanyUsers\obj\Debug\netcoreapp3.1\Ex08CompanyUsers.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex08CompanyUsers\obj\Debug\netcoreapp3.1\Ex08CompanyUsers.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex08CompanyUsers\obj\Debug\netcoreapp3.1\Ex08CompanyUsers.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex08CompanyUsers\obj\Debug\netcoreapp3.1\Ex08CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex08CompanyUsers\obj\Debug\netcoreapp3.1\Ex08CompanyUsers.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex08CompanyUsers\obj\Debug\netcoreapp3.1\Ex08CompanyUsers.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\AssociativeArrays\Ex08CompanyUsers\obj\Debug\netcoreapp3.1\Ex08CompanyUsers.genruntimeconfig.cache

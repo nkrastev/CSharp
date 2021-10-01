@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Mo02RageQuit\bin\Debug\netcoreapp3.1\Mo02RageQuit.exe
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Mo02RageQuit\bin\Debug\netcoreapp3.1\Mo02RageQuit.deps.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Mo02RageQuit\bin\Debug\netcoreapp3.1\Mo02RageQuit.runtimeconfig.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Mo02RageQuit\bin\Debug\netcoreapp3.1\Mo02RageQuit.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Mo02RageQuit\bin\Debug\netcoreapp3.1\Mo02RageQuit.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Mo02RageQuit\bin\Debug\netcoreapp3.1\Mo02RageQuit.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Mo02RageQuit\obj\Debug\netcoreapp3.1\Mo02RageQuit.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Mo02RageQuit\obj\Debug\netcoreapp3.1\Mo02RageQuit.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Mo02RageQuit\obj\Debug\netcoreapp3.1\Mo02RageQuit.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Mo02RageQuit\obj\Debug\netcoreapp3.1\Mo02RageQuit.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Mo02RageQuit\obj\Debug\netcoreapp3.1\Mo02RageQuit.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Mo02RageQuit\obj\Debug\netcoreapp3.1\Mo02RageQuit.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Mo02RageQuit\obj\Debug\netcoreapp3.1\Mo02RageQuit.genruntimeconfig.cache

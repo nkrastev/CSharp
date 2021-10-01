@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx04ArrayRotation\bin\Debug\netcoreapp3.1\MEx04ArrayRotation.exe
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx04ArrayRotation\bin\Debug\netcoreapp3.1\MEx04ArrayRotation.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx04ArrayRotation\bin\Debug\netcoreapp3.1\MEx04ArrayRotation.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx04ArrayRotation\bin\Debug\netcoreapp3.1\MEx04ArrayRotation.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx04ArrayRotation\bin\Debug\netcoreapp3.1\MEx04ArrayRotation.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx04ArrayRotation\bin\Debug\netcoreapp3.1\MEx04ArrayRotation.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx04ArrayRotation\obj\Debug\netcoreapp3.1\MEx04ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx04ArrayRotation\obj\Debug\netcoreapp3.1\MEx04ArrayRotation.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx04ArrayRotation\obj\Debug\netcoreapp3.1\MEx04ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx04ArrayRotation\obj\Debug\netcoreapp3.1\MEx04ArrayRotation.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx04ArrayRotation\obj\Debug\netcoreapp3.1\MEx04ArrayRotation.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx04ArrayRotation\obj\Debug\netcoreapp3.1\MEx04ArrayRotation.genruntimeconfig.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx04ArrayRotation\obj\Debug\netcoreapp3.1\MEx04ArrayRotation.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Mo03FloatingEquality\bin\Debug\netcoreapp3.1\Mo03FloatingEquality.exe
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Mo03FloatingEquality\bin\Debug\netcoreapp3.1\Mo03FloatingEquality.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Mo03FloatingEquality\bin\Debug\netcoreapp3.1\Mo03FloatingEquality.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Mo03FloatingEquality\bin\Debug\netcoreapp3.1\Mo03FloatingEquality.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Mo03FloatingEquality\bin\Debug\netcoreapp3.1\Mo03FloatingEquality.dll
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Mo03FloatingEquality\bin\Debug\netcoreapp3.1\Mo03FloatingEquality.pdb
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Mo03FloatingEquality\obj\Debug\netcoreapp3.1\Mo03FloatingEquality.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Mo03FloatingEquality\obj\Debug\netcoreapp3.1\Mo03FloatingEquality.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Mo03FloatingEquality\obj\Debug\netcoreapp3.1\Mo03FloatingEquality.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Mo03FloatingEquality\obj\Debug\netcoreapp3.1\Mo03FloatingEquality.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Mo03FloatingEquality\obj\Debug\netcoreapp3.1\Mo03FloatingEquality.dll
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Mo03FloatingEquality\obj\Debug\netcoreapp3.1\Mo03FloatingEquality.pdb
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Mo03FloatingEquality\obj\Debug\netcoreapp3.1\Mo03FloatingEquality.genruntimeconfig.cache

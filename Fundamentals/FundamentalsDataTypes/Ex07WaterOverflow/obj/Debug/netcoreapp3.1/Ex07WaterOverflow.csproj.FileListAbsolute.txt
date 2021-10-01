@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex07WaterOverflow\bin\Debug\netcoreapp3.1\Ex07WaterOverflow.exe
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex07WaterOverflow\bin\Debug\netcoreapp3.1\Ex07WaterOverflow.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex07WaterOverflow\bin\Debug\netcoreapp3.1\Ex07WaterOverflow.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex07WaterOverflow\bin\Debug\netcoreapp3.1\Ex07WaterOverflow.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex07WaterOverflow\bin\Debug\netcoreapp3.1\Ex07WaterOverflow.dll
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex07WaterOverflow\bin\Debug\netcoreapp3.1\Ex07WaterOverflow.pdb
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex07WaterOverflow\obj\Debug\netcoreapp3.1\Ex07WaterOverflow.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex07WaterOverflow\obj\Debug\netcoreapp3.1\Ex07WaterOverflow.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex07WaterOverflow\obj\Debug\netcoreapp3.1\Ex07WaterOverflow.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex07WaterOverflow\obj\Debug\netcoreapp3.1\Ex07WaterOverflow.dll
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex07WaterOverflow\obj\Debug\netcoreapp3.1\Ex07WaterOverflow.pdb
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex07WaterOverflow\obj\Debug\netcoreapp3.1\Ex07WaterOverflow.genruntimeconfig.cache

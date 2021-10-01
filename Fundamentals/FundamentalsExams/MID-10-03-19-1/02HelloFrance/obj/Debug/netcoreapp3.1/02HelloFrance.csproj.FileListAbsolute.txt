@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\02HelloFrance\obj\Debug\netcoreapp3.1\02HelloFrance.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\02HelloFrance\obj\Debug\netcoreapp3.1\02HelloFrance.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\02HelloFrance\obj\Debug\netcoreapp3.1\02HelloFrance.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\02HelloFrance\obj\Debug\netcoreapp3.1\02HelloFrance.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\02HelloFrance\bin\Debug\netcoreapp3.1\02HelloFrance.exe
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\02HelloFrance\bin\Debug\netcoreapp3.1\02HelloFrance.deps.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\02HelloFrance\bin\Debug\netcoreapp3.1\02HelloFrance.runtimeconfig.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\02HelloFrance\bin\Debug\netcoreapp3.1\02HelloFrance.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\02HelloFrance\bin\Debug\netcoreapp3.1\02HelloFrance.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\02HelloFrance\bin\Debug\netcoreapp3.1\02HelloFrance.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\02HelloFrance\obj\Debug\netcoreapp3.1\02HelloFrance.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\02HelloFrance\obj\Debug\netcoreapp3.1\02HelloFrance.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\02HelloFrance\obj\Debug\netcoreapp3.1\02HelloFrance.genruntimeconfig.cache

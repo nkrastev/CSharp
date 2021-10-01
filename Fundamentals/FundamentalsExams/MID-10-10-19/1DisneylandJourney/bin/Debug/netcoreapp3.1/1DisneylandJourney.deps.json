@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1DisneylandJourney/1.0.0": {
+        "runtime": {
+          "1DisneylandJourney.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1DisneylandJourney/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

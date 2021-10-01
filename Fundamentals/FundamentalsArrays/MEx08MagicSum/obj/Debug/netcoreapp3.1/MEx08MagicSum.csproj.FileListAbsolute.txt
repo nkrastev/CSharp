@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx08MagicSum\bin\Debug\netcoreapp3.1\MEx08MagicSum.exe
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx08MagicSum\bin\Debug\netcoreapp3.1\MEx08MagicSum.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx08MagicSum\bin\Debug\netcoreapp3.1\MEx08MagicSum.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx08MagicSum\bin\Debug\netcoreapp3.1\MEx08MagicSum.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx08MagicSum\bin\Debug\netcoreapp3.1\MEx08MagicSum.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx08MagicSum\bin\Debug\netcoreapp3.1\MEx08MagicSum.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx08MagicSum\obj\Debug\netcoreapp3.1\MEx08MagicSum.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx08MagicSum\obj\Debug\netcoreapp3.1\MEx08MagicSum.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx08MagicSum\obj\Debug\netcoreapp3.1\MEx08MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx08MagicSum\obj\Debug\netcoreapp3.1\MEx08MagicSum.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx08MagicSum\obj\Debug\netcoreapp3.1\MEx08MagicSum.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx08MagicSum\obj\Debug\netcoreapp3.1\MEx08MagicSum.genruntimeconfig.cache

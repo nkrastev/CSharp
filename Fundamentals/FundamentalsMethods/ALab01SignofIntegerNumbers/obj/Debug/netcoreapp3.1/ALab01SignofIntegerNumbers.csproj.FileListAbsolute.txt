@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\bin\Debug\netcoreapp3.1\ALab01SignofIntegerNumbers.exe
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\bin\Debug\netcoreapp3.1\ALab01SignofIntegerNumbers.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\bin\Debug\netcoreapp3.1\ALab01SignofIntegerNumbers.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\bin\Debug\netcoreapp3.1\ALab01SignofIntegerNumbers.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\bin\Debug\netcoreapp3.1\ALab01SignofIntegerNumbers.dll
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\bin\Debug\netcoreapp3.1\ALab01SignofIntegerNumbers.pdb
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\obj\Debug\netcoreapp3.1\ALab01SignofIntegerNumbers.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\obj\Debug\netcoreapp3.1\ALab01SignofIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\obj\Debug\netcoreapp3.1\ALab01SignofIntegerNumbers.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\obj\Debug\netcoreapp3.1\ALab01SignofIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\obj\Debug\netcoreapp3.1\ALab01SignofIntegerNumbers.dll
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\obj\Debug\netcoreapp3.1\ALab01SignofIntegerNumbers.pdb
+C:\Users\Nikolay\source\repos\FundamentalsMethods\ALab01SignofIntegerNumbers\obj\Debug\netcoreapp3.1\ALab01SignofIntegerNumbers.genruntimeconfig.cache

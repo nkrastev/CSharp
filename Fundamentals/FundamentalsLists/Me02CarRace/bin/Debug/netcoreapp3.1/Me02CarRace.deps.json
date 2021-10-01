@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Me02CarRace/1.0.0": {
+        "runtime": {
+          "Me02CarRace.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Me02CarRace/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

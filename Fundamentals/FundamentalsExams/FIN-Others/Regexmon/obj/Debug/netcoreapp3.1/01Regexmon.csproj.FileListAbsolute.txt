@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FIN-Others\01Regexmon\bin\Debug\netcoreapp3.1\01Regexmon.exe
+C:\Users\Nikolay\source\repos\FIN-Others\01Regexmon\bin\Debug\netcoreapp3.1\01Regexmon.deps.json
+C:\Users\Nikolay\source\repos\FIN-Others\01Regexmon\bin\Debug\netcoreapp3.1\01Regexmon.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FIN-Others\01Regexmon\bin\Debug\netcoreapp3.1\01Regexmon.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FIN-Others\01Regexmon\bin\Debug\netcoreapp3.1\01Regexmon.dll
+C:\Users\Nikolay\source\repos\FIN-Others\01Regexmon\bin\Debug\netcoreapp3.1\01Regexmon.pdb
+C:\Users\Nikolay\source\repos\FIN-Others\01Regexmon\obj\Debug\netcoreapp3.1\01Regexmon.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FIN-Others\01Regexmon\obj\Debug\netcoreapp3.1\01Regexmon.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FIN-Others\01Regexmon\obj\Debug\netcoreapp3.1\01Regexmon.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FIN-Others\01Regexmon\obj\Debug\netcoreapp3.1\01Regexmon.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FIN-Others\01Regexmon\obj\Debug\netcoreapp3.1\01Regexmon.dll
+C:\Users\Nikolay\source\repos\FIN-Others\01Regexmon\obj\Debug\netcoreapp3.1\01Regexmon.pdb
+C:\Users\Nikolay\source\repos\FIN-Others\01Regexmon\obj\Debug\netcoreapp3.1\01Regexmon.genruntimeconfig.cache

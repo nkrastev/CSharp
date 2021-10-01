@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab03BigFactorial\bin\Debug\netcoreapp3.1\ALab03BigFactorial.exe
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab03BigFactorial\bin\Debug\netcoreapp3.1\ALab03BigFactorial.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab03BigFactorial\bin\Debug\netcoreapp3.1\ALab03BigFactorial.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab03BigFactorial\bin\Debug\netcoreapp3.1\ALab03BigFactorial.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab03BigFactorial\bin\Debug\netcoreapp3.1\ALab03BigFactorial.dll
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab03BigFactorial\bin\Debug\netcoreapp3.1\ALab03BigFactorial.pdb
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab03BigFactorial\obj\Debug\netcoreapp3.1\ALab03BigFactorial.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab03BigFactorial\obj\Debug\netcoreapp3.1\ALab03BigFactorial.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab03BigFactorial\obj\Debug\netcoreapp3.1\ALab03BigFactorial.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab03BigFactorial\obj\Debug\netcoreapp3.1\ALab03BigFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab03BigFactorial\obj\Debug\netcoreapp3.1\ALab03BigFactorial.dll
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab03BigFactorial\obj\Debug\netcoreapp3.1\ALab03BigFactorial.pdb
+C:\Users\Nikolay\source\repos\FundamentalsObjectClasses\ALab03BigFactorial\obj\Debug\netcoreapp3.1\ALab03BigFactorial.genruntimeconfig.cache

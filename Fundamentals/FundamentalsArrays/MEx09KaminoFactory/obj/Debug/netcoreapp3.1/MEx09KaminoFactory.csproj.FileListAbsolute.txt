@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx09KaminoFactory\bin\Debug\netcoreapp3.1\MEx09KaminoFactory.exe
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx09KaminoFactory\bin\Debug\netcoreapp3.1\MEx09KaminoFactory.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx09KaminoFactory\bin\Debug\netcoreapp3.1\MEx09KaminoFactory.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx09KaminoFactory\bin\Debug\netcoreapp3.1\MEx09KaminoFactory.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx09KaminoFactory\bin\Debug\netcoreapp3.1\MEx09KaminoFactory.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx09KaminoFactory\bin\Debug\netcoreapp3.1\MEx09KaminoFactory.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx09KaminoFactory\obj\Debug\netcoreapp3.1\MEx09KaminoFactory.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx09KaminoFactory\obj\Debug\netcoreapp3.1\MEx09KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx09KaminoFactory\obj\Debug\netcoreapp3.1\MEx09KaminoFactory.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx09KaminoFactory\obj\Debug\netcoreapp3.1\MEx09KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx09KaminoFactory\obj\Debug\netcoreapp3.1\MEx09KaminoFactory.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx09KaminoFactory\obj\Debug\netcoreapp3.1\MEx09KaminoFactory.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx09KaminoFactory\obj\Debug\netcoreapp3.1\MEx09KaminoFactory.genruntimeconfig.cache

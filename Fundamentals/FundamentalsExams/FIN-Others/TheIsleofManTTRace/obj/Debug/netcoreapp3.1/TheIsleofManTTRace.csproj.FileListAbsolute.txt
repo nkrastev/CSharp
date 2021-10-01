@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\Exams\TheIsleofManTTRace\bin\Debug\netcoreapp3.1\TheIsleofManTTRace.exe
+C:\Users\Nikolay\source\repos\Exams\TheIsleofManTTRace\bin\Debug\netcoreapp3.1\TheIsleofManTTRace.deps.json
+C:\Users\Nikolay\source\repos\Exams\TheIsleofManTTRace\bin\Debug\netcoreapp3.1\TheIsleofManTTRace.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Exams\TheIsleofManTTRace\bin\Debug\netcoreapp3.1\TheIsleofManTTRace.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\Exams\TheIsleofManTTRace\bin\Debug\netcoreapp3.1\TheIsleofManTTRace.dll
+C:\Users\Nikolay\source\repos\Exams\TheIsleofManTTRace\bin\Debug\netcoreapp3.1\TheIsleofManTTRace.pdb
+C:\Users\Nikolay\source\repos\Exams\TheIsleofManTTRace\obj\Debug\netcoreapp3.1\TheIsleofManTTRace.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\Exams\TheIsleofManTTRace\obj\Debug\netcoreapp3.1\TheIsleofManTTRace.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Exams\TheIsleofManTTRace\obj\Debug\netcoreapp3.1\TheIsleofManTTRace.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Exams\TheIsleofManTTRace\obj\Debug\netcoreapp3.1\TheIsleofManTTRace.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Exams\TheIsleofManTTRace\obj\Debug\netcoreapp3.1\TheIsleofManTTRace.dll
+C:\Users\Nikolay\source\repos\Exams\TheIsleofManTTRace\obj\Debug\netcoreapp3.1\TheIsleofManTTRace.pdb
+C:\Users\Nikolay\source\repos\Exams\TheIsleofManTTRace\obj\Debug\netcoreapp3.1\TheIsleofManTTRace.genruntimeconfig.cache

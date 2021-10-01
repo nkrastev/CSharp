@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo02PascalTriangle\bin\Debug\netcoreapp3.1\Mo02PascalTriangle.exe
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo02PascalTriangle\bin\Debug\netcoreapp3.1\Mo02PascalTriangle.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo02PascalTriangle\bin\Debug\netcoreapp3.1\Mo02PascalTriangle.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo02PascalTriangle\bin\Debug\netcoreapp3.1\Mo02PascalTriangle.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo02PascalTriangle\bin\Debug\netcoreapp3.1\Mo02PascalTriangle.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo02PascalTriangle\bin\Debug\netcoreapp3.1\Mo02PascalTriangle.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo02PascalTriangle\obj\Debug\netcoreapp3.1\Mo02PascalTriangle.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo02PascalTriangle\obj\Debug\netcoreapp3.1\Mo02PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo02PascalTriangle\obj\Debug\netcoreapp3.1\Mo02PascalTriangle.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo02PascalTriangle\obj\Debug\netcoreapp3.1\Mo02PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo02PascalTriangle\obj\Debug\netcoreapp3.1\Mo02PascalTriangle.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo02PascalTriangle\obj\Debug\netcoreapp3.1\Mo02PascalTriangle.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\Mo02PascalTriangle\obj\Debug\netcoreapp3.1\Mo02PascalTriangle.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\ALab03MatchDates\bin\Debug\netcoreapp3.1\ALab03MatchDates.exe
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\ALab03MatchDates\bin\Debug\netcoreapp3.1\ALab03MatchDates.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\ALab03MatchDates\bin\Debug\netcoreapp3.1\ALab03MatchDates.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\ALab03MatchDates\bin\Debug\netcoreapp3.1\ALab03MatchDates.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\ALab03MatchDates\bin\Debug\netcoreapp3.1\ALab03MatchDates.dll
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\ALab03MatchDates\bin\Debug\netcoreapp3.1\ALab03MatchDates.pdb
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\ALab03MatchDates\obj\Debug\netcoreapp3.1\ALab03MatchDates.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\ALab03MatchDates\obj\Debug\netcoreapp3.1\ALab03MatchDates.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\ALab03MatchDates\obj\Debug\netcoreapp3.1\ALab03MatchDates.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\ALab03MatchDates\obj\Debug\netcoreapp3.1\ALab03MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\ALab03MatchDates\obj\Debug\netcoreapp3.1\ALab03MatchDates.dll
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\ALab03MatchDates\obj\Debug\netcoreapp3.1\ALab03MatchDates.pdb
+C:\Users\Nikolay\source\repos\FundamentalsRegularExpressions\ALab03MatchDates\obj\Debug\netcoreapp3.1\ALab03MatchDates.genruntimeconfig.cache

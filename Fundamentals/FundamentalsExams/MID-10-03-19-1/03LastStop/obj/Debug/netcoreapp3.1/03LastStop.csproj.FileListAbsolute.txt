@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\03LastStop\bin\Debug\netcoreapp3.1\03LastStop.exe
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\03LastStop\bin\Debug\netcoreapp3.1\03LastStop.deps.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\03LastStop\bin\Debug\netcoreapp3.1\03LastStop.runtimeconfig.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\03LastStop\bin\Debug\netcoreapp3.1\03LastStop.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\03LastStop\bin\Debug\netcoreapp3.1\03LastStop.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\03LastStop\bin\Debug\netcoreapp3.1\03LastStop.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\03LastStop\obj\Debug\netcoreapp3.1\03LastStop.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\03LastStop\obj\Debug\netcoreapp3.1\03LastStop.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\03LastStop\obj\Debug\netcoreapp3.1\03LastStop.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\03LastStop\obj\Debug\netcoreapp3.1\03LastStop.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\03LastStop\obj\Debug\netcoreapp3.1\03LastStop.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\03LastStop\obj\Debug\netcoreapp3.1\03LastStop.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\03LastStop\obj\Debug\netcoreapp3.1\03LastStop.genruntimeconfig.cache

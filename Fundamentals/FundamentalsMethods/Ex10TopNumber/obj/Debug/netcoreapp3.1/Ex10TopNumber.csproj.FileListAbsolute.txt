@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex10TopNumber\bin\Debug\netcoreapp3.1\Ex10TopNumber.exe
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex10TopNumber\bin\Debug\netcoreapp3.1\Ex10TopNumber.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex10TopNumber\bin\Debug\netcoreapp3.1\Ex10TopNumber.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex10TopNumber\bin\Debug\netcoreapp3.1\Ex10TopNumber.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex10TopNumber\bin\Debug\netcoreapp3.1\Ex10TopNumber.dll
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex10TopNumber\bin\Debug\netcoreapp3.1\Ex10TopNumber.pdb
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex10TopNumber\obj\Debug\netcoreapp3.1\Ex10TopNumber.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex10TopNumber\obj\Debug\netcoreapp3.1\Ex10TopNumber.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex10TopNumber\obj\Debug\netcoreapp3.1\Ex10TopNumber.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex10TopNumber\obj\Debug\netcoreapp3.1\Ex10TopNumber.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex10TopNumber\obj\Debug\netcoreapp3.1\Ex10TopNumber.dll
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex10TopNumber\obj\Debug\netcoreapp3.1\Ex10TopNumber.pdb
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex10TopNumber\obj\Debug\netcoreapp3.1\Ex10TopNumber.genruntimeconfig.cache

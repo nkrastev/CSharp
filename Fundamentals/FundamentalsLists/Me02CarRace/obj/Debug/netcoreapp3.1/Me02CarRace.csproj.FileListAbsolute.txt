@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me02CarRace\bin\Debug\netcoreapp3.1\Me02CarRace.exe
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me02CarRace\bin\Debug\netcoreapp3.1\Me02CarRace.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me02CarRace\bin\Debug\netcoreapp3.1\Me02CarRace.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me02CarRace\bin\Debug\netcoreapp3.1\Me02CarRace.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me02CarRace\bin\Debug\netcoreapp3.1\Me02CarRace.dll
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me02CarRace\bin\Debug\netcoreapp3.1\Me02CarRace.pdb
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me02CarRace\obj\Debug\netcoreapp3.1\Me02CarRace.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me02CarRace\obj\Debug\netcoreapp3.1\Me02CarRace.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me02CarRace\obj\Debug\netcoreapp3.1\Me02CarRace.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me02CarRace\obj\Debug\netcoreapp3.1\Me02CarRace.dll
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me02CarRace\obj\Debug\netcoreapp3.1\Me02CarRace.pdb
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me02CarRace\obj\Debug\netcoreapp3.1\Me02CarRace.genruntimeconfig.cache

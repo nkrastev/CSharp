@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Imitation Game\bin\Debug\netcoreapp3.1\The Imitation Game.exe
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Imitation Game\bin\Debug\netcoreapp3.1\The Imitation Game.deps.json
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Imitation Game\bin\Debug\netcoreapp3.1\The Imitation Game.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Imitation Game\bin\Debug\netcoreapp3.1\The Imitation Game.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Imitation Game\bin\Debug\netcoreapp3.1\The Imitation Game.dll
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Imitation Game\bin\Debug\netcoreapp3.1\The Imitation Game.pdb
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Imitation Game\obj\Debug\netcoreapp3.1\The Imitation Game.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Imitation Game\obj\Debug\netcoreapp3.1\The Imitation Game.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Imitation Game\obj\Debug\netcoreapp3.1\The Imitation Game.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Imitation Game\obj\Debug\netcoreapp3.1\The Imitation Game.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Imitation Game\obj\Debug\netcoreapp3.1\The Imitation Game.dll
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Imitation Game\obj\Debug\netcoreapp3.1\The Imitation Game.pdb
+C:\Users\Nikolay\source\repos\FINAL-15-08-20\The Imitation Game\obj\Debug\netcoreapp3.1\The Imitation Game.genruntimeconfig.cache

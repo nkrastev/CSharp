@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\MID-10-03-19-1\bin\Debug\netcoreapp3.1\01SpringVacationTrip.exe
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\MID-10-03-19-1\bin\Debug\netcoreapp3.1\01SpringVacationTrip.deps.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\MID-10-03-19-1\bin\Debug\netcoreapp3.1\01SpringVacationTrip.runtimeconfig.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\MID-10-03-19-1\bin\Debug\netcoreapp3.1\01SpringVacationTrip.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\MID-10-03-19-1\bin\Debug\netcoreapp3.1\01SpringVacationTrip.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\MID-10-03-19-1\bin\Debug\netcoreapp3.1\01SpringVacationTrip.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\MID-10-03-19-1\obj\Debug\netcoreapp3.1\01SpringVacationTrip.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\MID-10-03-19-1\obj\Debug\netcoreapp3.1\01SpringVacationTrip.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\MID-10-03-19-1\obj\Debug\netcoreapp3.1\01SpringVacationTrip.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\MID-10-03-19-1\obj\Debug\netcoreapp3.1\01SpringVacationTrip.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\MID-10-03-19-1\obj\Debug\netcoreapp3.1\01SpringVacationTrip.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\MID-10-03-19-1\obj\Debug\netcoreapp3.1\01SpringVacationTrip.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-10-03-19-1\MID-10-03-19-1\obj\Debug\netcoreapp3.1\01SpringVacationTrip.genruntimeconfig.cache

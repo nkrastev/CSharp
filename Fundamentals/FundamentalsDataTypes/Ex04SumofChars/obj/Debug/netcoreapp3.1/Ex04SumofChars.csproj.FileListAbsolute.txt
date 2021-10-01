@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex04SumofChars\bin\Debug\netcoreapp3.1\Ex04SumofChars.exe
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex04SumofChars\bin\Debug\netcoreapp3.1\Ex04SumofChars.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex04SumofChars\bin\Debug\netcoreapp3.1\Ex04SumofChars.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex04SumofChars\bin\Debug\netcoreapp3.1\Ex04SumofChars.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex04SumofChars\bin\Debug\netcoreapp3.1\Ex04SumofChars.dll
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex04SumofChars\bin\Debug\netcoreapp3.1\Ex04SumofChars.pdb
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex04SumofChars\obj\Debug\netcoreapp3.1\Ex04SumofChars.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex04SumofChars\obj\Debug\netcoreapp3.1\Ex04SumofChars.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex04SumofChars\obj\Debug\netcoreapp3.1\Ex04SumofChars.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex04SumofChars\obj\Debug\netcoreapp3.1\Ex04SumofChars.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex04SumofChars\obj\Debug\netcoreapp3.1\Ex04SumofChars.dll
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex04SumofChars\obj\Debug\netcoreapp3.1\Ex04SumofChars.pdb
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex04SumofChars\obj\Debug\netcoreapp3.1\Ex04SumofChars.genruntimeconfig.cache

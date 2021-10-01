@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex04StarEnigma\bin\Debug\netcoreapp3.1\Ex04StarEnigma.exe
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex04StarEnigma\bin\Debug\netcoreapp3.1\Ex04StarEnigma.deps.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex04StarEnigma\bin\Debug\netcoreapp3.1\Ex04StarEnigma.runtimeconfig.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex04StarEnigma\bin\Debug\netcoreapp3.1\Ex04StarEnigma.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex04StarEnigma\bin\Debug\netcoreapp3.1\Ex04StarEnigma.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex04StarEnigma\bin\Debug\netcoreapp3.1\Ex04StarEnigma.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex04StarEnigma\obj\Debug\netcoreapp3.1\Ex04StarEnigma.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex04StarEnigma\obj\Debug\netcoreapp3.1\Ex04StarEnigma.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex04StarEnigma\obj\Debug\netcoreapp3.1\Ex04StarEnigma.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex04StarEnigma\obj\Debug\netcoreapp3.1\Ex04StarEnigma.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex04StarEnigma\obj\Debug\netcoreapp3.1\Ex04StarEnigma.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex04StarEnigma\obj\Debug\netcoreapp3.1\Ex04StarEnigma.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\FundamentalsRegularExpressions\Ex04StarEnigma\obj\Debug\netcoreapp3.1\Ex04StarEnigma.genruntimeconfig.cache

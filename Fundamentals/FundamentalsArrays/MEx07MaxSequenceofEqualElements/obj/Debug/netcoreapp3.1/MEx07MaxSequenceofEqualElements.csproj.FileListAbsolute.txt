@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx07MaxSequenceofEqualElements\bin\Debug\netcoreapp3.1\MEx07MaxSequenceofEqualElements.exe
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx07MaxSequenceofEqualElements\bin\Debug\netcoreapp3.1\MEx07MaxSequenceofEqualElements.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx07MaxSequenceofEqualElements\bin\Debug\netcoreapp3.1\MEx07MaxSequenceofEqualElements.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx07MaxSequenceofEqualElements\bin\Debug\netcoreapp3.1\MEx07MaxSequenceofEqualElements.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx07MaxSequenceofEqualElements\bin\Debug\netcoreapp3.1\MEx07MaxSequenceofEqualElements.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx07MaxSequenceofEqualElements\bin\Debug\netcoreapp3.1\MEx07MaxSequenceofEqualElements.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx07MaxSequenceofEqualElements\obj\Debug\netcoreapp3.1\MEx07MaxSequenceofEqualElements.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx07MaxSequenceofEqualElements\obj\Debug\netcoreapp3.1\MEx07MaxSequenceofEqualElements.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx07MaxSequenceofEqualElements\obj\Debug\netcoreapp3.1\MEx07MaxSequenceofEqualElements.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx07MaxSequenceofEqualElements\obj\Debug\netcoreapp3.1\MEx07MaxSequenceofEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx07MaxSequenceofEqualElements\obj\Debug\netcoreapp3.1\MEx07MaxSequenceofEqualElements.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx07MaxSequenceofEqualElements\obj\Debug\netcoreapp3.1\MEx07MaxSequenceofEqualElements.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\MEx07MaxSequenceofEqualElements\obj\Debug\netcoreapp3.1\MEx07MaxSequenceofEqualElements.genruntimeconfig.cache

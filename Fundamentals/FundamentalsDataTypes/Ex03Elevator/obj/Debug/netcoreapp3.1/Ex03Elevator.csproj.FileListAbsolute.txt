@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex03Elevator\bin\Debug\netcoreapp3.1\Ex03Elevator.exe
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex03Elevator\bin\Debug\netcoreapp3.1\Ex03Elevator.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex03Elevator\bin\Debug\netcoreapp3.1\Ex03Elevator.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex03Elevator\bin\Debug\netcoreapp3.1\Ex03Elevator.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex03Elevator\bin\Debug\netcoreapp3.1\Ex03Elevator.dll
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex03Elevator\bin\Debug\netcoreapp3.1\Ex03Elevator.pdb
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex03Elevator\obj\Debug\netcoreapp3.1\Ex03Elevator.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex03Elevator\obj\Debug\netcoreapp3.1\Ex03Elevator.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex03Elevator\obj\Debug\netcoreapp3.1\Ex03Elevator.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex03Elevator\obj\Debug\netcoreapp3.1\Ex03Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex03Elevator\obj\Debug\netcoreapp3.1\Ex03Elevator.dll
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex03Elevator\obj\Debug\netcoreapp3.1\Ex03Elevator.pdb
+C:\Users\Nikolay\source\repos\FundamentalsDataTypes\Ex03Elevator\obj\Debug\netcoreapp3.1\Ex03Elevator.genruntimeconfig.cache

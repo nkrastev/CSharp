@@ -1,0 +1,13 @@
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex01CountCharsinaString\bin\Debug\netcoreapp3.1\Ex01CountCharsinaString.exe
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex01CountCharsinaString\bin\Debug\netcoreapp3.1\Ex01CountCharsinaString.deps.json
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex01CountCharsinaString\bin\Debug\netcoreapp3.1\Ex01CountCharsinaString.runtimeconfig.json
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex01CountCharsinaString\bin\Debug\netcoreapp3.1\Ex01CountCharsinaString.runtimeconfig.dev.json
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex01CountCharsinaString\bin\Debug\netcoreapp3.1\Ex01CountCharsinaString.dll
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex01CountCharsinaString\bin\Debug\netcoreapp3.1\Ex01CountCharsinaString.pdb
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex01CountCharsinaString\obj\Debug\netcoreapp3.1\Ex01CountCharsinaString.csprojAssemblyReference.cache
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex01CountCharsinaString\obj\Debug\netcoreapp3.1\Ex01CountCharsinaString.AssemblyInfoInputs.cache
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex01CountCharsinaString\obj\Debug\netcoreapp3.1\Ex01CountCharsinaString.AssemblyInfo.cs
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex01CountCharsinaString\obj\Debug\netcoreapp3.1\Ex01CountCharsinaString.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex01CountCharsinaString\obj\Debug\netcoreapp3.1\Ex01CountCharsinaString.dll
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex01CountCharsinaString\obj\Debug\netcoreapp3.1\Ex01CountCharsinaString.pdb
+C:\Users\Nikolay\GITHUB\FundamentalsAssociativeArrays\Ex01CountCharsinaString\obj\Debug\netcoreapp3.1\Ex01CountCharsinaString.genruntimeconfig.cache

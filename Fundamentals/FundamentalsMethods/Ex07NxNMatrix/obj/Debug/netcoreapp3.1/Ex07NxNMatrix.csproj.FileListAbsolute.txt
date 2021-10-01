@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex07NxNMatrix\bin\Debug\netcoreapp3.1\Ex07NxNMatrix.exe
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex07NxNMatrix\bin\Debug\netcoreapp3.1\Ex07NxNMatrix.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex07NxNMatrix\bin\Debug\netcoreapp3.1\Ex07NxNMatrix.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex07NxNMatrix\bin\Debug\netcoreapp3.1\Ex07NxNMatrix.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex07NxNMatrix\bin\Debug\netcoreapp3.1\Ex07NxNMatrix.dll
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex07NxNMatrix\bin\Debug\netcoreapp3.1\Ex07NxNMatrix.pdb
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex07NxNMatrix\obj\Debug\netcoreapp3.1\Ex07NxNMatrix.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex07NxNMatrix\obj\Debug\netcoreapp3.1\Ex07NxNMatrix.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex07NxNMatrix\obj\Debug\netcoreapp3.1\Ex07NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex07NxNMatrix\obj\Debug\netcoreapp3.1\Ex07NxNMatrix.dll
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex07NxNMatrix\obj\Debug\netcoreapp3.1\Ex07NxNMatrix.pdb
+C:\Users\Nikolay\source\repos\FundamentalsMethods\Ex07NxNMatrix\obj\Debug\netcoreapp3.1\Ex07NxNMatrix.genruntimeconfig.cache

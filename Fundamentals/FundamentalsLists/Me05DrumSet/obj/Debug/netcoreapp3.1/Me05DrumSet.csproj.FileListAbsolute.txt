@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me05DrumSet\bin\Debug\netcoreapp3.1\Me05DrumSet.exe
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me05DrumSet\bin\Debug\netcoreapp3.1\Me05DrumSet.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me05DrumSet\bin\Debug\netcoreapp3.1\Me05DrumSet.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me05DrumSet\bin\Debug\netcoreapp3.1\Me05DrumSet.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me05DrumSet\bin\Debug\netcoreapp3.1\Me05DrumSet.dll
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me05DrumSet\bin\Debug\netcoreapp3.1\Me05DrumSet.pdb
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me05DrumSet\obj\Debug\netcoreapp3.1\Me05DrumSet.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me05DrumSet\obj\Debug\netcoreapp3.1\Me05DrumSet.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me05DrumSet\obj\Debug\netcoreapp3.1\Me05DrumSet.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me05DrumSet\obj\Debug\netcoreapp3.1\Me05DrumSet.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me05DrumSet\obj\Debug\netcoreapp3.1\Me05DrumSet.dll
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me05DrumSet\obj\Debug\netcoreapp3.1\Me05DrumSet.pdb
+C:\Users\Nikolay\source\repos\FundamentalsLists\Me05DrumSet\obj\Debug\netcoreapp3.1\Me05DrumSet.genruntimeconfig.cache

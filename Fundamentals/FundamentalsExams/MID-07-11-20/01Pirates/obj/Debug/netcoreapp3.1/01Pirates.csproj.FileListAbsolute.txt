@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01Pirates\bin\Debug\netcoreapp3.1\01Pirates.exe
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01Pirates\bin\Debug\netcoreapp3.1\01Pirates.deps.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01Pirates\bin\Debug\netcoreapp3.1\01Pirates.runtimeconfig.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01Pirates\bin\Debug\netcoreapp3.1\01Pirates.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01Pirates\bin\Debug\netcoreapp3.1\01Pirates.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01Pirates\bin\Debug\netcoreapp3.1\01Pirates.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01Pirates\obj\Debug\netcoreapp3.1\01Pirates.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01Pirates\obj\Debug\netcoreapp3.1\01Pirates.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01Pirates\obj\Debug\netcoreapp3.1\01Pirates.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01Pirates\obj\Debug\netcoreapp3.1\01Pirates.dll
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01Pirates\obj\Debug\netcoreapp3.1\01Pirates.pdb
+C:\Users\Nikolay\source\repos\CSharp-Fundamentals\Exams\MID-07-11-20\01Pirates\obj\Debug\netcoreapp3.1\01Pirates.genruntimeconfig.cache

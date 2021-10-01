@@ -1,0 +1,12 @@
+C:\Users\Nikolay\source\repos\FundamentalsArrays\temp\bin\Debug\netcoreapp3.1\temp.exe
+C:\Users\Nikolay\source\repos\FundamentalsArrays\temp\bin\Debug\netcoreapp3.1\temp.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\temp\bin\Debug\netcoreapp3.1\temp.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\temp\bin\Debug\netcoreapp3.1\temp.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsArrays\temp\bin\Debug\netcoreapp3.1\temp.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\temp\bin\Debug\netcoreapp3.1\temp.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\temp\obj\Debug\netcoreapp3.1\temp.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\temp\obj\Debug\netcoreapp3.1\temp.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsArrays\temp\obj\Debug\netcoreapp3.1\temp.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsArrays\temp\obj\Debug\netcoreapp3.1\temp.dll
+C:\Users\Nikolay\source\repos\FundamentalsArrays\temp\obj\Debug\netcoreapp3.1\temp.pdb
+C:\Users\Nikolay\source\repos\FundamentalsArrays\temp\obj\Debug\netcoreapp3.1\temp.genruntimeconfig.cache

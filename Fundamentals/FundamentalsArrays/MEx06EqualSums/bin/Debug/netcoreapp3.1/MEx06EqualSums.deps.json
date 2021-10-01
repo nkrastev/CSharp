@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MEx06EqualSums/1.0.0": {
+        "runtime": {
+          "MEx06EqualSums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MEx06EqualSums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

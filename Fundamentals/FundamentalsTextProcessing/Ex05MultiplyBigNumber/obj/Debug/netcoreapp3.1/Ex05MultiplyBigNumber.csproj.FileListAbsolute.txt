@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\Ex05MultiplyBigNumber\bin\Debug\netcoreapp3.1\Ex05MultiplyBigNumber.exe
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\Ex05MultiplyBigNumber\bin\Debug\netcoreapp3.1\Ex05MultiplyBigNumber.deps.json
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\Ex05MultiplyBigNumber\bin\Debug\netcoreapp3.1\Ex05MultiplyBigNumber.runtimeconfig.json
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\Ex05MultiplyBigNumber\bin\Debug\netcoreapp3.1\Ex05MultiplyBigNumber.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\Ex05MultiplyBigNumber\bin\Debug\netcoreapp3.1\Ex05MultiplyBigNumber.dll
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\Ex05MultiplyBigNumber\bin\Debug\netcoreapp3.1\Ex05MultiplyBigNumber.pdb
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\Ex05MultiplyBigNumber\obj\Debug\netcoreapp3.1\Ex05MultiplyBigNumber.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\Ex05MultiplyBigNumber\obj\Debug\netcoreapp3.1\Ex05MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\Ex05MultiplyBigNumber\obj\Debug\netcoreapp3.1\Ex05MultiplyBigNumber.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\Ex05MultiplyBigNumber\obj\Debug\netcoreapp3.1\Ex05MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\Ex05MultiplyBigNumber\obj\Debug\netcoreapp3.1\Ex05MultiplyBigNumber.dll
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\Ex05MultiplyBigNumber\obj\Debug\netcoreapp3.1\Ex05MultiplyBigNumber.pdb
+C:\Users\Nikolay\source\repos\FundamentalsTextProcessing\Ex05MultiplyBigNumber\obj\Debug\netcoreapp3.1\Ex05MultiplyBigNumber.genruntimeconfig.cache

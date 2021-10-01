@@ -1,0 +1,13 @@
+C:\Users\Nikolay\source\repos\MID-16-04-19\02EasterGifts\bin\Debug\netcoreapp3.1\02EasterGifts.exe
+C:\Users\Nikolay\source\repos\MID-16-04-19\02EasterGifts\bin\Debug\netcoreapp3.1\02EasterGifts.deps.json
+C:\Users\Nikolay\source\repos\MID-16-04-19\02EasterGifts\bin\Debug\netcoreapp3.1\02EasterGifts.runtimeconfig.json
+C:\Users\Nikolay\source\repos\MID-16-04-19\02EasterGifts\bin\Debug\netcoreapp3.1\02EasterGifts.runtimeconfig.dev.json
+C:\Users\Nikolay\source\repos\MID-16-04-19\02EasterGifts\bin\Debug\netcoreapp3.1\02EasterGifts.dll
+C:\Users\Nikolay\source\repos\MID-16-04-19\02EasterGifts\bin\Debug\netcoreapp3.1\02EasterGifts.pdb
+C:\Users\Nikolay\source\repos\MID-16-04-19\02EasterGifts\obj\Debug\netcoreapp3.1\02EasterGifts.csprojAssemblyReference.cache
+C:\Users\Nikolay\source\repos\MID-16-04-19\02EasterGifts\obj\Debug\netcoreapp3.1\02EasterGifts.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\MID-16-04-19\02EasterGifts\obj\Debug\netcoreapp3.1\02EasterGifts.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\MID-16-04-19\02EasterGifts\obj\Debug\netcoreapp3.1\02EasterGifts.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\MID-16-04-19\02EasterGifts\obj\Debug\netcoreapp3.1\02EasterGifts.dll
+C:\Users\Nikolay\source\repos\MID-16-04-19\02EasterGifts\obj\Debug\netcoreapp3.1\02EasterGifts.pdb
+C:\Users\Nikolay\source\repos\MID-16-04-19\02EasterGifts\obj\Debug\netcoreapp3.1\02EasterGifts.genruntimeconfig.cache

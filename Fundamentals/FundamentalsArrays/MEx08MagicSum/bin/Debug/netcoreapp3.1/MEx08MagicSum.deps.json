@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MEx08MagicSum/1.0.0": {
+        "runtime": {
+          "MEx08MagicSum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MEx08MagicSum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
