@@ -6,10 +6,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="DataProcessor\Dto\Export\**" />
+    <Compile Remove="DataProcessor\Dto\Import\**" />
     <Compile Remove="DataProcessor\ExportDto\**" />
     <Compile Remove="DataProcessor\ImportDto\**" />
+    <EmbeddedResource Remove="DataProcessor\Dto\Export\**" />
+    <EmbeddedResource Remove="DataProcessor\Dto\Import\**" />
     <EmbeddedResource Remove="DataProcessor\ExportDto\**" />
     <EmbeddedResource Remove="DataProcessor\ImportDto\**" />
+    <None Remove="DataProcessor\Dto\Export\**" />
+    <None Remove="DataProcessor\Dto\Import\**" />
     <None Remove="DataProcessor\ExportDto\**" />
     <None Remove="DataProcessor\ImportDto\**" />
   </ItemGroup>
@@ -30,8 +36,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DataProcessor\Dto\Import\" />
-    <Folder Include="DataProcessor\Dto\Export\" />
     <Folder Include="ExportResults\" />
     <Folder Include="ImportResults\" />
   </ItemGroup>

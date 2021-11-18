@@ -13,7 +13,7 @@
 		{
 			var context = new VaporStoreDbContext();
 
-			//Mapper.Initialize(config => config.AddProfile<VaporStoreProfile>());
+			Mapper.Initialize(config => config.AddProfile<VaporStoreProfile>());
 
 			ResetDatabase(context, shouldDropDatabase: true);
 
@@ -42,11 +42,11 @@
 			var games = Deserializer.ImportGames(context, File.ReadAllText(baseDir + "games.json"));
 			PrintAndExportEntityToFile(games, exportDir + "ImportGames.txt");
 
-			/*var users = Deserializer.ImportUsers(context, File.ReadAllText(baseDir + "users.json"));
+			var users = Deserializer.ImportUsers(context, File.ReadAllText(baseDir + "users.json"));
 			PrintAndExportEntityToFile(users, exportDir + "ImportUsers.txt");
 
 			var purchases = Deserializer.ImportPurchases(context, File.ReadAllText(baseDir + "purchases.xml"));
-			PrintAndExportEntityToFile(purchases, exportDir + "ImportPurchases.txt");*/
+			PrintAndExportEntityToFile(purchases, exportDir + "ImportPurchases.txt");
 		}
 
 		private static void ResetDatabase(DbContext context, bool shouldDropDatabase = false)
