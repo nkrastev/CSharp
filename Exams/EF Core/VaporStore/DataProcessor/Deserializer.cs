@@ -132,6 +132,10 @@
             }
 
             context.Games.AddRange(validGames);
+            context.Genres.AddRange(genres);
+            context.Developers.AddRange(developers);
+            context.Tags.AddRange(tags);
+
             context.SaveChanges();
 
             return sb.ToString().TrimEnd();
