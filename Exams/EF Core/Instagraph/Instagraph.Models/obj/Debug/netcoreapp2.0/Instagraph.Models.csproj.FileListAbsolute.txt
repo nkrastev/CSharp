@@ -1,0 +1,10 @@
+C:\Users\Nikolay\source\repos\Exams-EFCore\Instagraph\Instagraph.Models\bin\Debug\netcoreapp2.0\Instagraph.Models.deps.json
+C:\Users\Nikolay\source\repos\Exams-EFCore\Instagraph\Instagraph.Models\bin\Debug\netcoreapp2.0\Instagraph.Models.dll
+C:\Users\Nikolay\source\repos\Exams-EFCore\Instagraph\Instagraph.Models\bin\Debug\netcoreapp2.0\Instagraph.Models.pdb
+C:\Users\Nikolay\source\repos\Exams-EFCore\Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.csproj.AssemblyReference.cache
+C:\Users\Nikolay\source\repos\Exams-EFCore\Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay\source\repos\Exams-EFCore\Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Exams-EFCore\Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Exams-EFCore\Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Exams-EFCore\Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.dll
+C:\Users\Nikolay\source\repos\Exams-EFCore\Instagraph\Instagraph.Models\obj\Debug\netcoreapp2.0\Instagraph.Models.pdb
