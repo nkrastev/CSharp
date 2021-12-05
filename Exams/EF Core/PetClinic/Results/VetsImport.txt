@@ -1,0 +1,11 @@
+---Import Vets
+Record Michael Jordan successfully imported.
+Error: Invalid data.
+Record Edmond Halley successfully imported.
+Record Niels Bohr successfully imported.
+Record Werner Heisenberg successfully imported.
+Record Marc ExistingPhoneNumber successfully imported.
+Error: Invalid data.
+Record Jennifer Evans successfully imported.
+Error: Invalid data.
+Error: Invalid data.
