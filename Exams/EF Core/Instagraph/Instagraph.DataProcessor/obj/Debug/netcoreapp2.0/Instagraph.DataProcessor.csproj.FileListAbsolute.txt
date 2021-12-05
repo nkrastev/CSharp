@@ -1,5 +1,0 @@
-C:\Users\Nikolay\source\repos\Exams-EFCore\Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.csproj.AssemblyReference.cache
-C:\Users\Nikolay\source\repos\Exams-EFCore\Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Nikolay\source\repos\Exams-EFCore\Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.AssemblyInfoInputs.cache
-C:\Users\Nikolay\source\repos\Exams-EFCore\Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.AssemblyInfo.cs
-C:\Users\Nikolay\source\repos\Exams-EFCore\Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.csproj.CoreCompileInputs.cache
