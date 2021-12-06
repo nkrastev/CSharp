@@ -1,0 +1,11 @@
+Invalid data format. Seating classes DTO validation
+Record First class successfully imported.
+Record Second class successfully imported.
+Record Third class successfully imported.
+Invalid data format. Some of the fields is not unique.
+Record Business class successfully imported.
+Invalid data format. Seating classes DTO validation
+Invalid data format. Seating classes DTO validation
+Invalid data format. Some of the fields is not unique.
+Invalid data format. Seating classes DTO validation
+Record Transport class successfully imported.
