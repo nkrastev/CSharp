@@ -26,6 +26,8 @@
             Console.WriteLine($"Server started on port {this.port}");
             Console.WriteLine($"Listening for requests");
 
+
+
             while (true)
             {
                 var connection = await this.listener.AcceptTcpClientAsync();
@@ -50,12 +52,13 @@
             var buffer = new byte[bufferLenght];
 
             var requestBuilder = new StringBuilder();
-            
-            while (networkStream.DataAvailable)
+
+            do
             {
-                var bytesRead=await networkStream.ReadAsync(buffer, 0, bufferLenght);
-                requestBuilder.Append(Encoding.UTF8.GetString(buffer,0,bytesRead));   
-            }
+                var bytesRead = await networkStream.ReadAsync(buffer, 0, bufferLenght);
+                requestBuilder.Append(Encoding.UTF8.GetString(buffer, 0, bytesRead));
+
+            } while (networkStream.DataAvailable);           
 
             return requestBuilder.ToString();
         }
