@@ -35,8 +35,8 @@
                 var requestText = await this.ReadRequest(networkStream);
 
                 Console.WriteLine(requestText);
-
-                var request = HttpRequest.Parse(requestText);
+                
+                //var request = HttpRequest.Parse(requestText);
 
                 await this.WriteResponse(networkStream);
 
@@ -50,8 +50,7 @@
             var buffer = new byte[bufferLenght];
 
             var requestBuilder = new StringBuilder();
-
-            //read the request in parts
+            
             while (networkStream.DataAvailable)
             {
                 var bytesRead=await networkStream.ReadAsync(buffer, 0, bufferLenght);
