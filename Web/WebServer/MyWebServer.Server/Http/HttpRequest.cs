@@ -1,12 +1,13 @@
 ﻿namespace MyWebServer.Server.Http
-{    
+{
     using System;
     using System.Collections.Generic;
     using System.Linq;
 
     public class HttpRequest
     {
-        private const string NewLine="\r\n";
+        private const string NewLine = "\r\n";
+
         public HttpMethod Method { get; private set; }
 
         public string Url { get; private set; }
@@ -19,11 +20,9 @@
         {
             var lines = request.Split(NewLine);
 
-            var startLine = lines.First().Split(" ");            
+            var startLine = lines.First().Split(" ");
 
-            //TODO Method is not supported?
-            var method = ParseHttpMethod(startLine[0]);            
-
+            var method = ParseHttpMethod(startLine[0]);
             var url = startLine[1];
 
             var headers = ParseHttpHeaders(lines.Skip(1));
@@ -41,38 +40,8 @@
             };
         }
 
-        private static HttpHeaderCollection ParseHttpHeaders(IEnumerable<string> headerLines)
-        {
-            var headerCollection = new HttpHeaderCollection();
-
-            foreach (var headerLine in headerLines)
-            {
-                if (headerLine==String.Empty)
-                {
-                    break;
-                }
-                
-                var headerParts=headerLine.Split(':', 2);
-                
-                if (headerParts.Length!=2)
-                {
-                    throw new InvalidOperationException("Request is invalid");
-                }
-
-                var header = new HttpHeader
-                {
-                    Name = headerParts[0],
-                    Value = headerParts[1].Trim()
-                };
-
-                headerCollection.Add(header);
-            }
-            return headerCollection;
-        }
-
         private static HttpMethod ParseHttpMethod(string method)
-        {            
-            return method.ToUpper() switch
+            => method.ToUpper() switch
             {
                 "GET" => HttpMethod.Get,
                 "POST" => HttpMethod.Post,
@@ -80,7 +49,32 @@
                 "DELETE" => HttpMethod.Delete,
                 _ => throw new InvalidOperationException($"Method '{method}' is not supported."),
             };
-        }            
 
+        private static HttpHeaderCollection ParseHttpHeaders(IEnumerable<string> headerLines)
+        {
+            var headerCollection = new HttpHeaderCollection();
+
+            foreach (var headerLine in headerLines)
+            {
+                if (headerLine == string.Empty)
+                {
+                    break;
+                }
+
+                var headerParts = headerLine.Split(":", 2);
+
+                if (headerParts.Length != 2)
+                {
+                    throw new InvalidOperationException("Request is not valid.");
+                }
+
+                var headerName = headerParts[0];
+                var headerValue = headerParts[1].Trim();
+
+                headerCollection.Add(headerName, headerValue);
+            }
+
+            return headerCollection;
+        }
     }
 }
