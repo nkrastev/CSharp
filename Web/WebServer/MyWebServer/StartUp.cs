@@ -16,6 +16,8 @@
             {
                 Console.WriteLine(ex.ToString());
             }
+
+            Console.WriteLine("Test");
             
         }
     }
