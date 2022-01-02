@@ -2,6 +2,7 @@
 {
     using System;
     using System.Collections.Generic;
+    using System.IO;
     using MyWebServer.Common;
     using MyWebServer.Http;
 
@@ -31,6 +32,11 @@
         {
             Guard.AgainstNull(path, nameof(path));
             Guard.AgainstNull(responseFunction, nameof(responseFunction));
+
+            if (this.routes.ContainsKey(method) && this.routes[method].ContainsKey(path.ToLower()))
+            {
+                throw new InvalidOperationException($"Route '{method.ToString().ToUpper()} {path}' already exists. Multiple routes with the same method and path are not supported.");
+            }
 
             this.routes[method][path.ToLower()] = responseFunction;
 
@@ -67,6 +73,41 @@
             var responseFunction = this.routes[requestMethod][requestPath];
 
             return responseFunction(request);
+        }
+
+        public IRoutingTable MapStaticFiles(string folder = Settings.StaticFilesRootFolder)
+        {
+            var currentDirectory = Directory.GetCurrentDirectory();
+            var staticFilesFolder = Path.Combine(currentDirectory, folder);
+
+            if (!Directory.Exists(staticFilesFolder))
+            {
+                return this;
+            }
+
+            var staticFiles = Directory.GetFiles(
+                staticFilesFolder,
+                "*.*",
+                SearchOption.AllDirectories);
+
+            foreach (var file in staticFiles)
+            {
+                var relativePath = Path.GetRelativePath(staticFilesFolder, file);
+
+                var urlPath = "/" + relativePath.Replace("\\", "/");
+
+                this.MapGet(urlPath, request =>
+                {
+                    var content = File.ReadAllBytes(file);
+                    var fileExtension = Path.GetExtension(file).Trim('.');
+                    var contentType = HttpContentType.GetByFileExtension(fileExtension);
+
+                    return new HttpResponse(HttpStatusCode.OK)
+                        .SetContent(content, contentType);  
+                });
+            }
+
+            return this;
         }
     }
 }
