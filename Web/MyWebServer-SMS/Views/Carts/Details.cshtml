@@ -10,10 +10,14 @@
                 </tr>
             </thead>
             <tbody>
-                <tr class="row">
-                    <td class="col-lg-5">ProductName</td>
-                    <td class="col-lg-5">ProductPrice</td>
+                @foreach(var item in Model)
+                {
+                    <tr class="row">
+                    <td class="col-lg-5">@item.Name</td>
+                    <td class="col-lg-5">@item.Price</td>
                 </tr>
+                }
+                
             </tbody>
         </table>
         <div class="button-holder text-center">

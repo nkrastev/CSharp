@@ -1,0 +1,5 @@
+C:\Users\Nikolay\source\repos\Charterio\CSharp\Web\MyWebServer\MyWebServer\obj\Debug\net5.0\MyWebServer.csproj.AssemblyReference.cache
+C:\Users\Nikolay\source\repos\Charterio\CSharp\Web\MyWebServer\MyWebServer\obj\Debug\net5.0\MyWebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay\source\repos\Charterio\CSharp\Web\MyWebServer\MyWebServer\obj\Debug\net5.0\MyWebServer.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Charterio\CSharp\Web\MyWebServer\MyWebServer\obj\Debug\net5.0\MyWebServer.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Charterio\CSharp\Web\MyWebServer\MyWebServer\obj\Debug\net5.0\MyWebServer.csproj.CoreCompileInputs.cache
