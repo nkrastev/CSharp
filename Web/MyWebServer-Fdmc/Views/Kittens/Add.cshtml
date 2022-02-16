@@ -1,0 +1,46 @@
+﻿<div class="legend text-center">
+    <h2>Add Kitten</h2>
+</div>
+<hr class="my-2">
+<div class="container-fluid">
+    <div class="row justify-content-center">
+        <div class="form-holder text-center">
+            <form class="form-inline" action="/Kittens/Add" method="POST">
+                <fieldset>
+                    <div class="control-group">
+                        <label class="control-label" for="username">Name</label>
+                        <div class="controls">
+                            <input type="text" id="name" name="name" class="input-xlarge">
+                        </div>
+                    </div>
+                    <br />
+                    <div class="control-group">
+                        <label class="control-label" for="email">Age</label>
+                        <div class="controls">
+                            <input type="number" id="age" name="age" class="input-xlarge">
+                        </div>
+                    </div>
+                    <br />
+                    <div class="control-group">
+                        <label class="control-label" for="password">Breed</label>
+                        <div class="controls">
+                            <select name="breed">
+                                <option value="1">Street Transcended</option>
+                                <option value="2">American Shorthair</option>
+                                <option value="3">Munchkin</option>
+                                <option value="4">Siamese</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <br />
+                    <div class="control-group">
+                        <div class="controls">
+                            <button class="btn btn-success">Add New Kitten</button>
+                        </div>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+    </div>
+</div>
