@@ -1,0 +1,26 @@
+﻿<h1 class="text-center mt-2">All Players</h1>
+<div class="row mt-2 mb-4">
+
+    @foreach (var item in Model)
+   {
+       <div class="player col-6 col-lg-3 game-player">
+        <img src="@item.Image"
+             class="player-img-top img-fluid player-image">
+        <div class="player-body">
+            <h5 class="player-title text-center" data-toggle="tooltip" data-placement="bottom"
+                title="@item.Description">
+                @item.FullName
+            </h5>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item text-center">@item.Position</li>
+                <li class="list-group-item">
+                    <span class="speed-stat">@item.Speed</span><span class="endurance-stat">@item.Endurance</span>
+                </li>
+            </ul>
+            <a href="/Players/AddToCollection?playerId=@item.Id" class="btn btn-block btn-primary">Add to Collection</a>
+        </div>
+    </div>
+   }
+
+    
+</div>
