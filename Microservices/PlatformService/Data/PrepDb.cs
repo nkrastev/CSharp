@@ -28,6 +28,8 @@
                     new Platform() { Name = "MySQL Server", Publisher = "Oracle", Cost = "Free"},
                     new Platform() { Name = "Java", Publisher = "Oracle Corporation", Cost = "Free"}
                     );
+
+                dbContext.SaveChanges();
             }
             else
             {

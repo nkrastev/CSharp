@@ -9,6 +9,7 @@
         public PlatformsProfile()
         {
             CreateMap<Platform, PlatformReadDto>();
+            CreateMap<PlatformCreateDto, Platform>();
         }
     }
 }
