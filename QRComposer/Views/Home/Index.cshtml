@@ -1,0 +1,28 @@
+﻿@model QrCodeModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+<form asp-action="Index">
+
+    <div class="row mt-2">            
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            <label>Enter your website URL</label>
+            <input autocomplete="off" type="url" asp-for="WebsiteUrl" class="form-control" />
+        </div>            
+    </div>
+    <div class="row mt-2">
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            <button type="submit" class="btn btn-primary w-100">Generate</button>            
+        </div>
+    </div>
+
+    @if (!string.IsNullOrEmpty(Model.QrImageUrl))
+    {
+        <div class="row mt-2" id="qrCodeImage">
+            <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+                <img height="350" width="350" src="@Model.QrImageUrl" />
+            </div>
+        </div>
+    }
+
+</form>
